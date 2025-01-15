@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="218" height="98" viewBox="0 0 218 98">
+  <g id="fukidashi" transform="translate(-78.558 -2456)">
+    <g id="Polygon_501" data-name="Polygon 501" transform="translate(207.558 2554) rotate(180)" fill="none">
+      <path d="M19.5,0,39,30H0Z" stroke="none"/>
+      <path d="M 19.5 1.834897994995117 L 1.842681884765625 29 L 37.15731811523438 29 L 19.5 1.834897994995117 M 19.5 0 L 39 30 L 0 30 L 19.5 0 Z" stroke="none" fill="#d87e80"/>
+    </g>
+    <g id="base" transform="translate(0.058 -174.42)">
+      <g id="line" transform="translate(0 0.516)">
+        <rect id="Rectangle_109811" data-name="Rectangle 109811" width="218" height="1" transform="translate(78.5 2637.42)" fill="#d87e80"/>
+        <rect id="Rectangle_109812" data-name="Rectangle 109812" width="218" height="1" transform="translate(78.5 2711.42)" fill="#d87e80"/>
+        <rect id="Rectangle_109813" data-name="Rectangle 109813" width="1" height="90" transform="translate(83.5 2629.904)" fill="#d87e80"/>
+        <rect id="Rectangle_109814" data-name="Rectangle 109814" width="1" height="90" transform="translate(290.5 2629.904)" fill="#d87e80"/>
+      </g>
+      <g id="txt" transform="translate(-11.687 -32.893)">
+        <rect id="Rectangle_109810" data-name="Rectangle 109810" width="196" height="64" transform="translate(101.187 2676.313)" fill="#e39597"/>
+        <text id="圧倒的な_On-girl会員数" data-name="圧倒的な
+On-girl会員数" transform="translate(199.187 2702.313)" fill="#fff" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI" letter-spacing="0.1em"><tspan x="-37.395" y="0">圧倒的な</tspan><tspan y="0" font-family="SegoeUI, Segoe UI"></tspan><tspan font-family="SegoeUI, Segoe UI"><tspan x="-63.366" y="24">On-girl</tspan><tspan y="24" font-family="YuGothicUI-Regular, Yu Gothic UI">会員数</tspan></tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

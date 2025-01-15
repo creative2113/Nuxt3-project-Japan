@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="355" height="203.354" viewBox="0 0 355 203.354">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="0.5" x2="0" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a9e"/>
+      <stop offset="1" stop-color="#fe88bb"/>
+    </linearGradient>
+  </defs>
+  <g id="fukidashi" transform="translate(-19.745 -6639.646)">
+    <path id="Union_12" data-name="Union 12" d="M362.332,11329H216.745a20,20,0,0,1-20-20v-80a20,20,0,0,1,20-20h315a20,20,0,0,1,20,20v80a20,20,0,0,1-20,20H386.159l-11.913,15Z" transform="translate(-177 -4501)" fill="url(#linear-gradient)"/>
+    <g id="solution" transform="translate(9.746 3262)">
+      <text id="Enjoy_Your_Sound" data-name="Enjoy Your Sound" transform="translate(188 3516)" fill="#fff" font-size="24" font-family="Roboto-BoldItalic, Roboto" font-weight="700" font-style="italic" letter-spacing="0.1em"><tspan x="-110.648" y="0">Enjoy Your Sound</tspan></text>
+    </g>
+    <text id="すべては_世代の_のために_" data-name="すべてはＺ世代の
+
+のために…" transform="translate(196.78 6746.054)" fill="#fff" font-size="18" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-72" y="0">すべてはＺ世代の</tspan><tspan x="0" y="30"></tspan><tspan x="-45" y="60">のために…</tspan></text>
+    <path id="arrow" d="M12.663,37.06l2.076,2.047,17.924-17.67L14.739,3.767,12.663,5.814,28.511,21.437Z" transform="matrix(0, 1, -1, 0, 219.062, 6626.982)" fill="#a9e"/>
+    <path id="arrow-2" data-name="arrow" d="M12.663,37.06l2.076,2.047,17.924-17.67L14.739,3.767,12.663,5.814,28.511,21.437Z" transform="matrix(0, 1, -1, 0, 219.062, 6641.982)" fill="#a9e"/>
+    <path id="arrow-3" data-name="arrow" d="M12.663,37.06l2.076,2.047,17.924-17.67L14.739,3.767,12.663,5.814,28.511,21.437Z" transform="matrix(0, 1, -1, 0, 219.062, 6656.982)" fill="#a9e"/>
+  </g>
+</svg>

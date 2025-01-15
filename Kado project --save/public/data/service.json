@@ -1,0 +1,198 @@
+[
+  {
+    "menu": {
+      "icon": "/scheader-images/header-menu-item-weart.webp",
+      "logo": "/scheader-images/header-menu-logo-weart.svg",
+      "title": "Enjoy Your Art"
+    }
+  },
+  {
+    "menu": {
+      "icon": "/scheader-images/header-menu-item-eys.webp",
+      "logo": "/scheader-images/header-menu-logo-eys.svg",
+      "title": "大人向け音楽教室"
+    },
+    "logo": "/scheader-images/logo-eys-white.svg",
+    "title": "大人のための<br>文化・芸術の学び",
+    "items": [
+      {
+        "logo": "/scheader-images/eys-menu-logo-1.svg",
+        "title": "“学び” と “コミュニティ” で叶える、<br>Enjoy Your Life",
+        "banner": "/scheader-images/eys-menu-banner-1.webp",
+        "hostname": "https://www.eys.jp/",
+        "colspan": 2
+      },
+      {
+        "logo": "/scheader-images/eys-menu-logo-2.svg",
+        "title": "全70種の豊富なレッスン<br>大人のための音楽教室",
+        "banner": "/scheader-images/eys-menu-banner-2.webp",
+        "hostname": "https://www.eys.jp/"
+      },
+      {
+        "logo": "/scheader-images/eys-menu-logo-3.svg",
+        "title": "楽しく学べる<br>大人のダンススクール",
+        "banner": "/scheader-images/eys-menu-banner-3.webp",
+        "hostname": "https://www.eys-style.jp/"
+      },
+      {
+        "logo": "/scheader-images/eys-menu-logo-4.svg",
+        "title": "貴方の思うまま、<br>気軽に自由に楽しめる",
+        "banner": "/scheader-images/eys-menu-banner-4.webp",
+        "hostname": "https://www.eys.jp/"
+      },
+      {
+        "logo": "/scheader-images/eys-menu-logo-5.svg",
+        "title": "大人のための<br>美術＆アート教室",
+        "banner": "/scheader-images/eys-menu-banner-5.webp",
+        "hostname": "https://www.eys.jp/"
+      },
+      {
+        "logo": "/scheader-images/eys-menu-logo-6.svg",
+        "title": "コピーコピー<br>コピーコピーコピーコピー",
+        "banner": "/scheader-images/eys-menu-banner-6.webp",
+        "hostname": "https://www.eys.jp/"
+      },
+      {
+        "logo": "/scheader-images/eys-menu-logo-7.svg",
+        "title": "コピーコピー<br>コピーコピーコピーコピー",
+        "banner": "/scheader-images/eys-menu-banner-7.webp",
+        "hostname": "https://www.eys.jp/"
+      }
+    ]
+  },
+  {
+    "menu": {
+      "icon": "/scheader-images/header-menu-item-on-girl.webp",
+      "logo": "/scheader-images/header-menu-logo-on-girl.svg",
+      "title": "女性向け音楽教室"
+    },
+    "logo": "/scheader-images/logo-on-girl-white.svg",
+    "title": "大人のための<br>文化・芸術の学び",
+    "items": [
+      {
+        "logo": "/scheader-images/on-girl-menu-logo-1.svg",
+        "title": "“学び” と “コミュニティ” で叶える、<br>Enjoy Your Life",
+        "banner": "/scheader-images/on-girl-menu-banner-1.webp",
+        "hostname": "https://www.on-girl.jp/"
+      },
+      {
+        "logo": "/scheader-images/on-girl-menu-logo-2.svg",
+        "title": "全70種の豊富なレッスン<br>大人のための音楽教室",
+        "banner": "/scheader-images/on-girl-menu-banner-2.webp",
+        "hostname": "https://www.on-girl.jp/"
+      },
+      {
+        "logo": "/scheader-images/on-girl-menu-logo-3.svg",
+        "title": "楽しく学べる<br>大人のダンススクール",
+        "banner": "/scheader-images/on-girl-menu-banner-3.webp",
+        "hostname": "https://www.on-girl-style.jp/"
+      },
+      {
+        "logo": "/scheader-images/on-girl-menu-logo-4.svg",
+        "title": "貴方の思うまま、<br>気軽に自由に楽しめる",
+        "banner": "/scheader-images/on-girl-menu-banner-4.webp",
+        "hostname": "https://www.on-girl.jp/"
+      }
+    ]
+  },
+  {
+    "menu": {
+      "icon": "/scheader-images/header-menu-item-kids.webp",
+      "logo": "/scheader-images/header-menu-logo-kids.svg",
+      "title": "KIDS音楽教室"
+    },
+    "logo": "/scheader-images/logo-eys-kids-white.svg",
+    "title": "大人のための<br>文化・芸術の学び",
+    "items": [
+      {
+        "logo": "/scheader-images/eys-kids-menu-logo-1.svg",
+        "title": "“学び” と “コミュニティ” で叶える、<br>Enjoy Your Life",
+        "banner": "/scheader-images/eys-kids-menu-banner-1.webp",
+        "hostname": "https://www.eys-kids.jp/"
+      },
+      {
+        "logo": "/scheader-images/eys-kids-menu-logo-2.svg",
+        "title": "全70種の豊富なレッスン<br>大人のための音楽教室",
+        "banner": "/scheader-images/eys-kids-menu-banner-2.webp",
+        "hostname": "https://www.eys-kids.jp/"
+      },
+      {
+        "logo": "/scheader-images/eys-kids-menu-logo-3.svg",
+        "title": "楽しく学べる<br>大人のダンススクール",
+        "banner": "/scheader-images/eys-kids-menu-banner-3.webp",
+        "hostname": "https://www.eys-kids-style.jp/"
+      },
+      {
+        "logo": "/scheader-images/eys-kids-menu-logo-4.svg",
+        "title": "貴方の思うまま、<br>気軽に自由に楽しめる",
+        "banner": "/scheader-images/eys-kids-menu-banner-4.webp",
+        "hostname": "https://www.eys-kids.jp/"
+      },
+      {
+        "logo": "/scheader-images/eys-kids-menu-logo-5.svg",
+        "title": "“学び” と “コミュニティ” で叶える、<br>Enjoy Your Life",
+        "banner": "/scheader-images/eys-kids-menu-banner-5.webp",
+        "hostname": "https://www.eys-kids.jp/"
+      },
+      {
+        "logo": "/scheader-images/eys-kids-menu-logo-6.svg",
+        "title": "全70種の豊富なレッスン<br>大人のための音楽教室",
+        "banner": "/scheader-images/eys-kids-menu-banner-6.webp",
+        "hostname": "https://www.eys-kids.jp/"
+      },
+      {
+        "logo": "/scheader-images/eys-kids-menu-logo-7.svg",
+        "title": "楽しく学べる<br>大人のダンススクール",
+        "banner": "/scheader-images/eys-kids-menu-banner-7.webp",
+        "hostname": "https://www.eys-kids-style.jp/"
+      },
+      {
+        "logo": "/scheader-images/eys-kids-menu-logo-8.svg",
+        "title": "貴方の思うまま、<br>気軽に自由に楽しめる",
+        "banner": "/scheader-images/eys-kids-menu-banner-8.webp",
+        "hostname": "https://www.eys-kids.jp/"
+      },
+      {
+        "logo": "/scheader-images/eys-kids-menu-logo-9.svg",
+        "title": "貴方の思うまま、<br>気軽に自由に楽しめる",
+        "banner": "/scheader-images/eys-kids-menu-banner-9.webp",
+        "hostname": "https://www.eys-kids.jp/"
+      }
+    ]
+  },
+  {
+    "menu": {
+      "icon": "/scheader-images/header-menu-item-inspiart.webp",
+      "logo": "/scheader-images/header-menu-logo-inspiart.svg",
+      "title": "中高生向け音楽教室"
+    },
+    "logo": "/scheader-images/logo-inspiart-white.svg",
+    "title": "大人のための<br>文化・芸術の学び",
+    "items": [
+      {
+        "logo": "/scheader-images/inspiart-menu-logo-1.svg",
+        "title": "“学び” と “コミュニティ” で叶える、<br>Enjoy Your Life",
+        "banner": "/scheader-images/inspiart-menu-banner-1.webp",
+        "hostname": "https://www.inspiart.jp/"
+      },
+      {
+        "logo": "/scheader-images/inspiart-menu-logo-1.svg",
+        "title": "全70種の豊富なレッスン<br>大人のための音楽教室",
+        "banner": "/scheader-images/inspiart-menu-banner-2.webp",
+        "hostname": "https://www.inspiart.jp/"
+      },
+      {
+        "logo": "/scheader-images/inspiart-menu-logo-1.svg",
+        "title": "楽しく学べる<br>大人のダンススクール",
+        "banner": "/scheader-images/inspiart-menu-banner-3.webp",
+        "hostname": "https://www.inspiart-style.jp/"
+      },
+      {
+        "logo": "/scheader-images/inspiart-menu-logo-1.svg",
+        "title": "貴方の思うまま、<br>気軽に自由に楽しめる",
+        "banner": "/scheader-images/inspiart-menu-banner-4.webp",
+        "hostname": "https://www.inspiart.jp/"
+      }
+    ]
+  }
+]

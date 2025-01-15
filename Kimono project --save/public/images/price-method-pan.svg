@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="295.365" viewBox="0 0 300 295.365">
+  <defs>
+    <filter id="Ellipse_11973" x="104" y="109.119" width="90" height="90" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_206788" data-name="Group 206788" transform="translate(53 -1517.88)">
+    <path id="bg" d="M73.38,38.248a67.962,67.962,0,0,0,40.447-19.477,57.472,57.472,0,0,1,80.9,0,67.959,67.959,0,0,0,40.447,19.477,57.476,57.476,0,0,1,50.439,63.25,67.979,67.979,0,0,0,9.989,43.768,57.474,57.474,0,0,1-18,78.87,67.96,67.96,0,0,0-27.99,35.1,57.476,57.476,0,0,1-72.889,35.1,67.953,67.953,0,0,0-44.892,0,57.475,57.475,0,0,1-72.887-35.1,67.959,67.959,0,0,0-27.99-35.1,57.476,57.476,0,0,1-18-78.87A67.964,67.964,0,0,0,22.94,101.5a57.478,57.478,0,0,1,50.44-63.25" transform="translate(-57.276 1515.754)" fill="#f7d6d1" fill-rule="evenodd"/>
+    <g id="Group_198455" data-name="Group 198455" transform="translate(8 -261.869)">
+      <circle id="Ellipse_11969" data-name="Ellipse 11969" cx="30" cy="30" r="30" transform="translate(59 1847.868)" fill="#fff"/>
+      <circle id="Ellipse_11970" data-name="Ellipse 11970" cx="30" cy="30" r="30" transform="translate(58 1947.868)" fill="#fff"/>
+      <circle id="Ellipse_11971" data-name="Ellipse 11971" cx="30" cy="30" r="30" transform="translate(109 1897.868)" fill="#fff"/>
+      <circle id="Ellipse_11972" data-name="Ellipse 11972" cx="30" cy="30" r="30" transform="translate(9 1897.868)" fill="#fff"/>
+      <text id="スタジオ" transform="translate(89 1882.868)" fill="#454545" font-size="12" font-family="YuGothicUI-Regular, Yu Gothic UI" letter-spacing="0.05em"><tspan x="-19.427" y="0">スタジオ</tspan></text>
+      <text id="講師" transform="translate(39 1932.868)" fill="#454545" font-size="12" font-family="YuGothicUI-Regular, Yu Gothic UI" letter-spacing="0.05em"><tspan x="-12.3" y="0">講師</tspan></text>
+      <text id="ジャンル" transform="translate(88 1982.868)" fill="#454545" font-size="12" font-family="YuGothicUI-Regular, Yu Gothic UI" letter-spacing="0.05em"><tspan x="-19.31" y="0">ジャンル</tspan></text>
+      <text id="日程" transform="translate(139 1932.868)" fill="#454545" font-size="12" font-family="YuGothicUI-Regular, Yu Gothic UI" letter-spacing="0.05em"><tspan x="-12.3" y="0">日程</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, -61, 1779.75)" filter="url(#Ellipse_11973)">
+        <circle id="Ellipse_11973-2" data-name="Ellipse 11973" cx="30" cy="30" r="30" transform="translate(119 119.12)" fill="#999"/>
+      </g>
+      <text id="Free_" data-name="Free!" transform="translate(88.5 1933.868)" fill="#fff" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-16.669" y="0">FREE!</tspan></text>
+    </g>
+  </g>
+</svg>

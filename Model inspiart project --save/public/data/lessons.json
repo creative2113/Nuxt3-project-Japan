@@ -1,0 +1,268 @@
+[
+  {
+    "img_title": "/images/lesson-title-1.svg",
+    "bg_from": "#AA99EE",
+    "bg_to": "#FE88BB",
+    "brands": [
+      {
+        "name": "YouTuber CAMPUS",
+        "image": "/images/lesson-campus-1.webp"
+      },
+      {
+        "name": "TikTOk CAMPUS",
+        "image": "/images/lesson-campus-2.webp"
+      },
+      {
+        "name": "Instagramer CAMPUS",
+        "image": "/images/lesson-campus-2.webp"
+      }
+    ]
+  },
+  {
+    "img_title": "/images/lesson-title-2.svg",
+    "bg_from": "#FF5555",
+    "bg_to": "#FF88BB",
+    "brands": [
+      {
+        "name": "Idle Unit",
+        "image": "/images/lesson-unit-1.webp"
+      },
+      {
+        "name": "Band Unit",
+        "image": "/images/lesson-unit-2.webp"
+      },
+      {
+        "name": "Dance Unit",
+        "image": "/images/lesson-unit-3.webp"
+      }
+    ]
+  },
+  {
+    "img_title": "/images/lesson-title-3.svg",
+    "bg_from": "#6688DD",
+    "bg_to": "#77BBDD",
+    "brands": [
+      {
+        "name": "YouTuber部室",
+        "image": "/images/lesson-community-1.webp"
+      },
+      {
+        "name": "Instagramer Studio",
+        "image": "/images/lesson-community-1.webp"
+      },
+      {
+        "name": "YouTuber Studio",
+        "image": "/images/lesson-community-1.webp"
+      }
+    ]
+  },
+  {
+    "img_title": "/images/lesson-title-4.svg",
+    "title": "楽器専科",
+    "sub_title": "全57種類の豊富なコース",
+    "bg_from": "#DDCC55",
+    "bg_to": "#FFBB66",
+    "brands": [
+      {
+        "name": "ギター / ベース",
+        "image": "/images/lesson-course-1.webp",
+        "instruments": [
+          {
+            "name": "エレキギター",
+            "image": "/images/instrument-1.webp"
+          },
+          {
+            "name": "アコースティック<br>ギター",
+            "image": "/images/instrument-2.webp"
+          },
+          {
+            "name": "クラシックギター",
+            "image": "/images/instrument-3.webp"
+          },
+          {
+            "name": "ジャズギター",
+            "image": "/images/instrument-4.webp"
+          },
+          {
+            "name": "ボサノバギター",
+            "image": "/images/instrument-5.webp"
+          },
+          {
+            "name": "フラメンコギター",
+            "image": "/images/instrument-6.webp"
+          },
+          {
+            "name": "エレキベース",
+            "image": "/images/instrument-7.webp"
+          },
+          {
+            "name": "ウッドベース",
+            "image": "/images/instrument-8.webp"
+          }
+        ]
+      },
+      {
+        "name": "鍵盤楽器",
+        "image": "/images/lesson-course-2.webp",
+        "instruments": [
+          {
+            "name": "エレキギター",
+            "image": "/images/instrument-1.webp"
+          },
+          {
+            "name": "アコースティック<br>ギター",
+            "image": "/images/instrument-2.webp"
+          },
+          {
+            "name": "クラシックギター",
+            "image": "/images/instrument-3.webp"
+          },
+          {
+            "name": "ジャズギター",
+            "image": "/images/instrument-4.webp"
+          },
+          {
+            "name": "ボサノバギター",
+            "image": "/images/instrument-5.webp"
+          },
+          {
+            "name": "フラメンコギター",
+            "image": "/images/instrument-6.webp"
+          },
+          {
+            "name": "エレキベース",
+            "image": "/images/instrument-7.webp"
+          },
+          {
+            "name": "ウッドベース",
+            "image": "/images/instrument-8.webp"
+          }
+        ]
+      },
+      {
+        "name": "ギター / ベース",
+        "image": "/images/lesson-course-1.webp",
+        "instruments": [
+          {
+            "name": "エレキギター",
+            "image": "/images/instrument-1.webp"
+          },
+          {
+            "name": "アコースティック<br>ギター",
+            "image": "/images/instrument-2.webp"
+          },
+          {
+            "name": "クラシックギター",
+            "image": "/images/instrument-3.webp"
+          },
+          {
+            "name": "ジャズギター",
+            "image": "/images/instrument-4.webp"
+          },
+          {
+            "name": "ボサノバギター",
+            "image": "/images/instrument-5.webp"
+          },
+          {
+            "name": "フラメンコギター",
+            "image": "/images/instrument-6.webp"
+          },
+          {
+            "name": "エレキベース",
+            "image": "/images/instrument-7.webp"
+          },
+          {
+            "name": "ウッドベース",
+            "image": "/images/instrument-8.webp"
+          }
+        ]
+      },
+      {
+        "name": "鍵盤楽器",
+        "image": "/images/lesson-course-2.webp",
+        "instruments": [
+          {
+            "name": "エレキギター",
+            "image": "/images/instrument-1.webp"
+          },
+          {
+            "name": "アコースティック<br>ギター",
+            "image": "/images/instrument-2.webp"
+          },
+          {
+            "name": "クラシックギター",
+            "image": "/images/instrument-3.webp"
+          },
+          {
+            "name": "ジャズギター",
+            "image": "/images/instrument-4.webp"
+          },
+          {
+            "name": "ボサノバギター",
+            "image": "/images/instrument-5.webp"
+          },
+          {
+            "name": "フラメンコギター",
+            "image": "/images/instrument-6.webp"
+          },
+          {
+            "name": "エレキベース",
+            "image": "/images/instrument-7.webp"
+          },
+          {
+            "name": "ウッドベース",
+            "image": "/images/instrument-8.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "ヴォーカル専科",
+    "sub_title": "全19ジャンル",
+    "bg_from": "#55CCAA",
+    "bg_to": "#66DDDD",
+    "brands": [
+      {
+        "name": "ヴォイストレーニング",
+        "image": "/images/lesson-vocal-1.webp"
+      },
+      {
+        "name": "プロヴォーカル",
+        "image": "/images/lesson-vocal-2.webp"
+      },
+      {
+        "name": "ヴォイストレーニング",
+        "image": "/images/lesson-vocal-1.webp"
+      },
+      {
+        "name": "プロヴォーカル",
+        "image": "/images/lesson-vocal-2.webp"
+      }
+    ]
+  },
+  {
+    "title": "ダンス専科",
+    "sub_title": "全19ジャンル",
+    "bg_from": "#66DDDD",
+    "bg_to": "#77BBDD",
+    "brands": [
+      {
+        "name": "Hip-Hop",
+        "image": "/images/lesson-dance-1.webp"
+      },
+      {
+        "name": "Contemporary",
+        "image": "/images/lesson-dance-2.webp"
+      },
+      {
+        "name": "Hip-Hop",
+        "image": "/images/lesson-dance-1.webp"
+      },
+      {
+        "name": "Contemporary",
+        "image": "/images/lesson-dance-2.webp"
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="199.999" height="72.657" viewBox="0 0 199.999 72.657">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.761" x2="1" y2="0.764" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fb6"/>
+      <stop offset="1" stop-color="#dc5"/>
+    </linearGradient>
+  </defs>
+  <g id="label" transform="translate(-89 -1542.343)">
+    <path id="Union_23" data-name="Union 23" d="M15,12473a15,15,0,0,1,0-30H94.141l1.64-9.491H77.91l.617-4.688,22.557-28.477H108.5l-4.774,27.452h5.156l-1,5.713h-5.127l-1.672,9.491H185a15,15,0,0,1,0,30Zm84.387-62.108-13.185,16.9H96.78l3.309-17.9Z" transform="translate(89 -10858)" fill="url(#linear-gradient)"/>
+    <text id="専科コース" transform="translate(188 1605)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="14" font-family="HiraKakuPro-W6, Hiragino Kaku Gothic Pro" letter-spacing="0.1em"><tspan x="-37.1" y="0">専科コース</tspan></text>
+  </g>
+</svg>

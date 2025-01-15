@@ -1,0 +1,2232 @@
+[
+  {
+    "eys_class_id": 980445,
+    "title": "ボーカル、鍵盤、管楽器集まれ！初めてのアンサンブル（合わせ）体感しよう！",
+    "short_title": "ボーカル、鍵盤、管楽器集まれ！初めてのアンサンブル（合わせ）体感しよう！",
+    "description": "第４日曜\n17:00~18:00に登場した梅田音活コミット\n\n開講してくださるのはピアノ、クラリネット講師の中辻葵講師です。\n\nそう。\nピアノでの演奏、伴奏。\nクラリネット奏者。\nさらに中辻先生はアレンジ（編曲）もされる先生なので。\n\n1人ではなく、誰かと合わせてみたかった、色んな楽器と合わせてみたかった！という方にはぴったりな音活コミットが誕生しました！\n\n組み合わせは無限大ですが、お申し込みのあったメンバーでピッタリな曲を講師が考案してやってみたり。\n登録メンバーの希望曲を集まったメンバーの楽器で演奏できるようにしてくれるかもしれないという贅沢な経験もできちゃうかもしれません！！\n\n\n管楽器の方は運指を把握しており、簡単な音階が吹ける方ならどなたでも募集。\n歌の方は、歌好きならOK!\n鍵盤の方も、やる気のある方なら（あえて初めてでやっていくのも）OKです！\n\n素敵な演奏をできる様、楽しめるようぜひ参加してしまいましょう！\n\nよろしくお願いいたします。\n\n※募集は随時切り替わりますが、Vo、Pf、管楽器中心に募集します。\nよろしくお願いします。\n\n",
+    "join_condition": "管楽器の方は運指を把握しており、簡単な音階が吹ける方ならどなたでも募集。 歌の方は、歌好きならOK! 鍵盤の方も、やる気のある方なら（あえて初めてでやっていくのも）OKです！",
+    "course": "音活コミット",
+    "course_image_key": "instrument_135",
+    "type": "音活",
+    "common_room": "A.G-3",
+    "area": "関西",
+    "studio": "梅田ラウンジ",
+    "begin_date": "2024/06/01",
+    "end_date": "9999/12/31",
+    "fixed_type": "月固定",
+    "lesson_count": 1,
+    "schedule_pattern": [
+      {
+        "week_count": 4,
+        "weekday": 0,
+        "begin_time": "17:00",
+        "end_time": "18:00"
+      }
+    ],
+    "max_member_count": 3,
+    "teacher": {
+      "id": 106969,
+      "name": "中辻 葵",
+      "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/106969/bustup_5jblkvX4z8NSjJ-_f20cbw.jpeg",
+      "desc": "相愛高等学校音楽科を経て、大阪音楽大学特待生入学、卒業。\r\n大阪府登録アーティスト。第 29 回日本クラシック音楽コンクール大学の部第 3 位(1、2 位該当者なし)。\r\n第 10 回みおつくし音楽祭大阪クラシックコンクール 大学生管楽器部門第 1 位併せて大阪市長賞、兵庫県知事賞受賞。\r\nJ.リーツ「クラリネット協奏曲」を新通英洋指揮ザ・カレッジ・オペラハウス管弦楽団と共演。\r\nこれまでにクラリネットを西山玲加、崔賢順、水口裕子、小橋新大、鈴木祐子、長門由華の各氏に師事。\r\n室内楽を上野星矢、宮本謙二、上田浩子の各師に師事。\r\nP.モラゲス、R.ギュイオ、M.アリニョン、F.エオー、H.スアラ、F.シュタイナー、M.インツェンツォ各氏のマスタークラス修了。"
+    },
+    "lesson_plans": [
+      {
+        "date": "2024/06/23",
+        "begin_time": "17:00",
+        "end_time": "18:00",
+        "studio": "梅田ラウンジ",
+        "room": "A.G-3"
+      },
+      {
+        "date": "2024/07/28",
+        "begin_time": "17:00",
+        "end_time": "18:00",
+        "studio": "梅田ラウンジ",
+        "room": "A.G-3"
+      },
+      {
+        "date": "2024/08/25",
+        "begin_time": "17:00",
+        "end_time": "18:00",
+        "studio": "梅田ラウンジ",
+        "room": "A.G-3"
+      },
+      {
+        "date": "2024/09/22",
+        "begin_time": "17:00",
+        "end_time": "18:00",
+        "studio": "梅田ラウンジ",
+        "room": "A.G-3"
+      },
+      {
+        "date": "2024/10/27",
+        "begin_time": "17:00",
+        "end_time": "18:00",
+        "studio": "梅田ラウンジ",
+        "room": "A.G-3"
+      },
+      {
+        "date": "2024/11/24",
+        "begin_time": "17:00",
+        "end_time": "18:00",
+        "studio": "梅田ラウンジ",
+        "room": "A.G-3"
+      },
+      {
+        "date": "2024/12/22",
+        "begin_time": "17:00",
+        "end_time": "18:00",
+        "studio": "梅田ラウンジ",
+        "room": "A.G-3"
+      }
+    ],
+    "files": [
+      {
+        "class_title_detail": true,
+        "id": 4393,
+        "name": "S__75276307.jpg",
+        "file_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/eys_class_file/ETMFi8mrPzplNirNzGclFA.jpg",
+        "mime_type": "image/jpeg",
+        "file_type": "image",
+        "landscape": true,
+        "thumbnail": null
+      },
+      {
+        "class_title_detail": true,
+        "id": 4394,
+        "name": "S__75276315.jpg",
+        "file_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/eys_class_file/_TIAQglNOhUTOFxQWimAaw.jpg",
+        "mime_type": "image/jpeg",
+        "file_type": "image",
+        "landscape": true,
+        "thumbnail": null
+      },
+      {
+        "class_title_detail": true,
+        "id": 4395,
+        "name": "S__75276296.jpg",
+        "file_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/eys_class_file/_F90Z46Sxx8X_iXniPqLmA.jpg",
+        "mime_type": "image/jpeg",
+        "file_type": "image",
+        "landscape": false,
+        "thumbnail": null
+      }
+    ],
+    "level": 1,
+    "onkatsu_category": "J-POP,クラシック",
+    "onkatsu_category_english": "J-POP,CLASSIC",
+    "class_categories": ["J-POP", "CLASSIC"],
+    "purposes": [
+      "ワイワイ楽しく",
+      "アンサンブル体験",
+      "セッション入門",
+      "音感アップ",
+      "リズム感強化",
+      "挑戦",
+      "色々な楽器を知る",
+      "音楽仲間探し",
+      "はじめの一歩",
+      "やってみたいをやってみる",
+      "自分磨き",
+      "音楽を体感しよう",
+      "音楽の知識を深めよう☆",
+      "響かせようハーモニー"
+    ],
+    "wanted_parts": [
+      {
+        "id": 4891,
+        "course_name": "ポップス",
+        "course_code": "Po.Vo",
+        "course_id": "3_3",
+        "max_applicants": 4,
+        "current_applicants": 0
+      }
+    ],
+    "set_pieces": [],
+    "tags": [
+      {
+        "id": 166,
+        "name": "注目の音活"
+      }
+    ],
+    "service_id": 3,
+    "service_name": "EYS音楽教室",
+    "share_service_id": null,
+    "share_service_name": null,
+    "service": "EYS音楽教室",
+    "course_name": "音活コミット",
+    "chat_data": null,
+    "chat_room_data": null,
+    "join_members": [
+      {
+        "id": 216736,
+        "avatar_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/106969/bustup_5jblkvX4z8NSjJ-_f20cbw.jpeg",
+        "name": "中辻 葵",
+        "welcome": false
+      }
+    ],
+    "chat_total_comment": 0,
+    "halfway_joinable": true,
+    "join_price": 6500
+  },
+  {
+    "eys_class_id": 968061,
+    "title": "三味線でアンサンブル！鬼の宴をセッションしてみよう！",
+    "short_title": "三味線でアンサンブル！鬼の宴をセッションしてみよう！",
+    "description": "皆様も御用達ではないでしょうか。\nヤマハ「プリント楽譜」にて初の三味線楽譜を監修出版。\nまた、YouTubeチャンネルでも販売楽譜を自ら演奏する「鮎澤和彦ポップス三味線チャンネル shamisen player」を展開。\n↓\nhttps://youtu.be/7-OZQJz-rPI?si=513zvNZq14-WR8TP\n\nEYS音楽教室では創設当初から歴任する鮎澤和彦先生の登場です。\n\n今回題材にする曲は三味線でのアンサンブル\n鬼の宴メロディ、伴奏。\n和の調和、堪能しませんか？\n三味線レッスンは受けているものの個人の成果を試したい！\nEYSでは習ってはいないが、実は昔やっていたので久々に！\nという方おすすめです。",
+    "join_condition": "三味線アンサンブル挑戦したい方！",
+    "course": "音活コミット",
+    "course_image_key": "instrument_135",
+    "type": "音活",
+    "common_room": "和室",
+    "area": "関東",
+    "studio": "新宿",
+    "begin_date": "2024/05/01",
+    "end_date": "9999/12/31",
+    "fixed_type": "月固定",
+    "lesson_count": 1,
+    "schedule_pattern": [
+      {
+        "week_count": 2,
+        "weekday": 3,
+        "begin_time": "18:00",
+        "end_time": "19:00"
+      }
+    ],
+    "max_member_count": 3,
+    "teacher": {
+      "id": 129,
+      "name": "鮎澤 和彦",
+      "icon": "https://eys-file.s3-ap-northeast-1.amazonaws.com/member/profile/original/t_129.png",
+      "desc": "母の影響で小さい頃より箏、三味線に親しむ。\r\n二胡を村井鉄也氏に師事する。NHK邦楽技能者育成会を修了（種目・三味線）その後、演奏活動に入る。\r\n2008年50期の会で世田谷区芸術アワード“飛翔”を受賞。受賞公演では、韓国のコムンゴ・サンジョを三味線で演奏し好評を博す。"
+    },
+    "lesson_plans": [
+      {
+        "date": "2024/05/08",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "新宿",
+        "room": "和室"
+      },
+      {
+        "date": "2024/06/12",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "新宿",
+        "room": "和室"
+      },
+      {
+        "date": "2024/07/10",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "新宿",
+        "room": "和室"
+      },
+      {
+        "date": "2024/08/14",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "新宿",
+        "room": "和室"
+      },
+      {
+        "date": "2024/09/11",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "新宿",
+        "room": "和室"
+      },
+      {
+        "date": "2024/10/09",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "新宿",
+        "room": "和室"
+      },
+      {
+        "date": "2024/11/13",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "新宿",
+        "room": "和室"
+      }
+    ],
+    "files": [
+      {
+        "class_title_detail": true,
+        "id": 3961,
+        "name": "鮎澤先生　音活バナー",
+        "file_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/eys_class_file/S8wz8gz61wYC5aE4decbBg.png",
+        "mime_type": "image/png",
+        "file_type": "image",
+        "landscape": true,
+        "thumbnail": null
+      }
+    ],
+    "level": 1,
+    "onkatsu_category": "J-POP",
+    "onkatsu_category_english": "J-POP",
+    "class_categories": ["J-POP"],
+    "purposes": [
+      "ワイワイ楽しく",
+      "アンサンブル体験",
+      "セッション入門",
+      "音感アップ",
+      "リズム感強化",
+      "挑戦",
+      "音楽仲間探し",
+      "楽しくアニソン",
+      "はじめの一歩",
+      "やってみたいをやってみる",
+      "自分磨き",
+      "響かせようハーモニー"
+    ],
+    "wanted_parts": [
+      {
+        "id": 4423,
+        "course_name": "津軽三味線",
+        "course_code": "SHM",
+        "course_id": "30",
+        "max_applicants": 3,
+        "current_applicants": 0
+      }
+    ],
+    "set_pieces": [],
+    "tags": [
+      {
+        "id": 166,
+        "name": "注目の音活"
+      }
+    ],
+    "service_id": 3,
+    "service_name": "EYS音楽教室",
+    "share_service_id": null,
+    "share_service_name": null,
+    "service": "EYS音楽教室",
+    "course_name": "音活コミット",
+    "chat_data": [],
+    "chat_room_data": {
+      "id": 129061,
+      "avatars": [
+        {
+          "id": 1846999,
+          "member_id": 1176,
+          "name": "鮎澤 和彦",
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/member/profile/original/t_129.png",
+          "welcome": false
+        },
+        {
+          "id": 1847000,
+          "member_id": 194507,
+          "name": "李可馨",
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/member/profile/image/be/7e/0e/8f/70/4d/88/AUTOx300/IMG_5093.jpeg",
+          "welcome": false
+        },
+        {
+          "id": 1847001,
+          "member_id": 199502,
+          "name": "佐々木詩織",
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+          "welcome": false
+        }
+      ],
+      "first_member_name": "鮎澤 和彦",
+      "total_comment": 0
+    },
+    "join_members": [
+      {
+        "id": 1176,
+        "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/member/profile/original/t_129.png",
+        "name": "鮎澤 和彦",
+        "welcome": false
+      },
+      {
+        "id": 199502,
+        "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+        "name": "佐々木詩織",
+        "welcome": false
+      },
+      {
+        "id": 194507,
+        "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/member/profile/image/be/7e/0e/8f/70/4d/88/AUTOx300/IMG_5093.jpeg",
+        "name": "李可馨",
+        "welcome": false
+      }
+    ],
+    "chat_total_comment": 0,
+    "halfway_joinable": true,
+    "join_price": 6500
+  },
+  {
+    "eys_class_id": 958691,
+    "title": "【完全育成体験！】ボーカル必見レッスン！詳細は下の説明欄へ！！",
+    "short_title": "【完全育成体験！】ボーカル必見レッスン！詳細は下の説明欄へ！！",
+    "description": "ボーカル講師、浜野先生による音活コミット開講です。\n\n今回の音活コミットは\n【ご要望によっては時間を変更して開講することもできますのでご興味ある方はぜひお問い合わせください。】\n\nさて、今回開講してくださる浜野先生は。\n様々な現場、ライブにてご活躍されているボーカリストでもあります。\n今回はこの経験を活かし。\n\n・ライブパフォーマンスをもっとカッコ良くしたい。もちろん歌唱力ももっとレベルアップしたい！\n・歌に必要な身体能力の鍛え方教えて！\n・ライブに歌のほかにギター弾き語りも時々起用してみたい\n・オリジナル曲を作ってみたい！\n\nなどなど、一度はライブハウスに立って演奏をしたい！\n友達とバンドを組むことになった！\nユビフェス出演にあたって、色々教えてほしい。\n\nなどなど。\nもしボーカルリストとしてのノウハウを知りたい人必見の音活コミットとなっております。\n\n初心者からプロ育成まで。\nボーカルに関わることでしたらなんでもお答えいたします。\nぜひご参加ください。\n\nお時間の相談、ご質問などございましたらいつでもお問い合わせください\nよろしくお願いいたします\n\n\n※こちらの音活コミットは無期限開講のため\nレッスンの休会同様、前々月末日までに「休会届を郵送」いただければお休みができるシステムとなります。\n→例えば、6月をお休みしたい場合は4月末日までの消印のある休会届が有効となります。\n→休会届の備考に「○月の○○先生の音活コミットをお休みします」などとご記入の上ご郵送ください。\n期日が過ぎた場合はレッスン消化扱いとなります。ご了承ください。\n退団されたい場合も、「退会届」に休会同様のやり方でご記入いただきご郵送をお願いいたします。\n※参加月を次月以降にされたい場合や、お申し込み時に際にお休みする月が決まっていおる場合もお申し込みのほかに、メールにてその旨をお伝えくださいませ。\n\n詳しくは担当講師に直接、または音活コミット事業部（onkatsu@2nd-community.com）まで、ご相談、ご連絡くださいませ。\n\n",
+    "join_condition": "ボーカル、ギター弾き語り、体力作りなどご興味のある方ならどなたでも！",
+    "course": "音活コミット",
+    "course_image_key": "instrument_135",
+    "type": "音活",
+    "common_room": "P-3",
+    "area": "関東",
+    "studio": "川崎",
+    "begin_date": "2024/05/01",
+    "end_date": "9999/12/31",
+    "fixed_type": "月固定",
+    "lesson_count": 1,
+    "schedule_pattern": [
+      {
+        "week_count": 4,
+        "weekday": 5,
+        "begin_time": "17:00",
+        "end_time": "18:00"
+      }
+    ],
+    "max_member_count": 3,
+    "teacher": {
+      "id": 102183,
+      "name": "浜野誠",
+      "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/102183/bustup_L6oZej6RhVU5yPAmp6PZ3g.jpg",
+      "desc": "1998年２人組ユニットとしてインディーズレーベルよりデビュー。ユニット解散後ギター弾き語りによるソロ活動を開始。中崎英也氏に「作曲・編曲」を師事。広瀬香美氏に「身体で歌う発声法」「作詞・作曲」「アーティストとしての哲学」を師事。４枚のオリジナルアルバム、２枚のカバーアルバムを発表。横浜のオーセンティックバーGLORY大倉山店での週末弾き語りライブの他、YouTubeチャンネル、ライブハウスなどで歌っているシンガーソングライター。"
+    },
+    "lesson_plans": [
+      {
+        "date": "2024/05/24",
+        "begin_time": "17:00",
+        "end_time": "18:00",
+        "studio": "川崎",
+        "room": "P-3"
+      },
+      {
+        "date": "2024/06/28",
+        "begin_time": "17:00",
+        "end_time": "18:00",
+        "studio": "川崎",
+        "room": "P-3"
+      },
+      {
+        "date": "2024/07/26",
+        "begin_time": "17:00",
+        "end_time": "18:00",
+        "studio": "川崎",
+        "room": "P-3"
+      },
+      {
+        "date": "2024/08/23",
+        "begin_time": "17:00",
+        "end_time": "18:00",
+        "studio": "川崎",
+        "room": "P-3"
+      },
+      {
+        "date": "2024/09/27",
+        "begin_time": "17:00",
+        "end_time": "18:00",
+        "studio": "川崎",
+        "room": "P-3"
+      },
+      {
+        "date": "2024/10/25",
+        "begin_time": "17:00",
+        "end_time": "18:00",
+        "studio": "川崎",
+        "room": "P-3"
+      },
+      {
+        "date": "2024/11/22",
+        "begin_time": "17:00",
+        "end_time": "18:00",
+        "studio": "川崎",
+        "room": "P-3"
+      }
+    ],
+    "files": [
+      {
+        "class_title_detail": true,
+        "id": 3862,
+        "name": "浜野先生　宣材１.jpeg",
+        "file_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/eys_class_file/i9DTCuuEK7YYJ54ompFK6w.jpeg",
+        "mime_type": "image/jpeg",
+        "file_type": "image",
+        "landscape": false,
+        "thumbnail": null
+      },
+      {
+        "class_title_detail": true,
+        "id": 3863,
+        "name": "浜野先生　宣材２.jpeg",
+        "file_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/eys_class_file/gfnKuP0Xn8I3CBfuInrLmA.jpeg",
+        "mime_type": "image/jpeg",
+        "file_type": "image",
+        "landscape": false,
+        "thumbnail": null
+      }
+    ],
+    "level": 1,
+    "onkatsu_category": "ジャズ,J-POP,ロック",
+    "onkatsu_category_english": "JAZZ,J-POP,ROCK",
+    "class_categories": ["JAZZ", "J-POP", "ROCK"],
+    "purposes": [
+      "音感アップ",
+      "リズム感強化",
+      "コンプレックス克服",
+      "挑戦",
+      "専門知識の獲得",
+      "音楽仲間探し",
+      "YouTubeや書籍では教えてくれない演奏",
+      "プロしか知らないホントのところ",
+      "はじめの一歩",
+      "やってみたいをやってみる",
+      "自分磨き",
+      "自分の曲を作る作曲入門",
+      "ひたすら基礎作り",
+      "魂を奏でよう",
+      "音楽を体感しよう",
+      "これぞロック！",
+      "音楽バトルしようぜ！"
+    ],
+    "wanted_parts": [
+      {
+        "id": 4258,
+        "course_name": "プロヴォーカル",
+        "course_code": "Pr.Vo",
+        "course_id": "3_2",
+        "max_applicants": 3,
+        "current_applicants": 0
+      }
+    ],
+    "set_pieces": [],
+    "tags": [
+      {
+        "id": 166,
+        "name": "注目の音活"
+      }
+    ],
+    "service_id": 3,
+    "service_name": "EYS音楽教室",
+    "share_service_id": null,
+    "share_service_name": null,
+    "service": "EYS音楽教室",
+    "course_name": "音活コミット",
+    "chat_data": null,
+    "chat_room_data": null,
+    "join_members": [
+      {
+        "id": 188882,
+        "avatar_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/102183/bustup_L6oZej6RhVU5yPAmp6PZ3g.jpg",
+        "name": "浜野誠",
+        "welcome": false
+      }
+    ],
+    "chat_total_comment": 0,
+    "halfway_joinable": true,
+    "join_price": 6500
+  },
+  {
+    "eys_class_id": 953608,
+    "title": "【吹奏楽好き大集合！】TRY！ミニアンサンブル！",
+    "short_title": "【吹奏楽好き大集合！】TRY！ミニアンサンブル！",
+    "description": "この音活コミットは、いわゆる「吹奏楽」編成の楽器ならどなたでもOK!\n参加メンバーで演奏を楽しんでしまおうという、意外となかった音活コミットです。\n\n名乗り出てくださったのはサックスの超ベテラン人気講師、黒河講師です。\nアンサンブルはもちろん、ジャズも得意な先生ですので、おしゃれなアレンジもあるかも？\n\n※黒河先生はサックスの先生ですので、サックス以外の方は運指は理解できてちょっとした音階はできている方に限らせていただきます。何卒ご了承ください。\n※どんな楽器でも合わせて「3名」募集で設定させていただきます。部屋の大きさなど、メンバーにより随時変更させていただきます。\n\n第3土曜１０：００〜１１：００でお待ちしております！！\n\n\n※こちらの音活コミットは有期限開講ですが、新たな試みということもあり、無期限と同じルールであります、レッスンの休会同様、前々月末日までに「休会届を郵送」いただければこの音活コミットに限ってはお休みができるシステムとなります。\n→例えば、6月をお休みしたい場合は4月末日までの消印のある休会届が有効となります。\n→休会届の備考に「○月の○○先生の音活コミットをお休みします」などとご記入の上ご郵送ください。\n期日が過ぎた場合はレッスン消化扱いとなります。ご了承ください。\n退団されたい場合も、「退会届」に休会同様のやり方でご記入いただきご郵送をお願いいたします。\n※参加月を次月以降にされたい場合や、お申し込み時に際にお休みする月が決まっていおる場合もお申し込みのほかに、メールにてその旨をお伝えくださいませ。\n\n詳しくは担当講師に直接、または音活コミット事業部（onkatsu@2nd-community.com）まで、ご相談、ご連絡くださいませ。\n",
+    "join_condition": "基本管楽器の方。様子を見て幅を増やすかもしれません。",
+    "course": "音活コミット",
+    "course_image_key": "instrument_135",
+    "type": "音活",
+    "common_room": "G2-1",
+    "area": "関東",
+    "studio": "新宿",
+    "begin_date": "2024/04/01",
+    "end_date": "2024/08/01",
+    "fixed_type": "月固定",
+    "lesson_count": 1,
+    "schedule_pattern": [
+      {
+        "week_count": 3,
+        "weekday": 6,
+        "begin_time": "10:00",
+        "end_time": "11:00"
+      }
+    ],
+    "max_member_count": 4,
+    "teacher": {
+      "id": 101311,
+      "name": "黒河 博文",
+      "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/101311/bustup_HieanmLH5y4eiOY5LZfdEg.jpg",
+      "desc": "サックスはビジュアル的にも、サウンド的にも音楽に華をそえられる魅力のある楽器です。また多くの方が不安に思われる音出しも正しいサポートがあればサックスは比較的容易な楽器です。ぜひ一度楽器を手にしてみてください！"
+    },
+    "lesson_plans": [
+      {
+        "date": "2024/04/20",
+        "begin_time": "10:00",
+        "end_time": "11:00",
+        "studio": "新宿",
+        "room": "G2-2"
+      },
+      {
+        "date": "2024/05/18",
+        "begin_time": "10:00",
+        "end_time": "11:00",
+        "studio": "新宿",
+        "room": "G3-1"
+      },
+      {
+        "date": "2024/06/15",
+        "begin_time": "10:00",
+        "end_time": "11:00",
+        "studio": "新宿",
+        "room": "G2-1"
+      },
+      {
+        "date": "2024/07/20",
+        "begin_time": "10:00",
+        "end_time": "11:00",
+        "studio": "新宿",
+        "room": "G2-1"
+      }
+    ],
+    "files": [
+      {
+        "class_title_detail": true,
+        "id": 3631,
+        "name": "PSX_20180210_124741.jpg",
+        "file_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/eys_class_file/mm8_r9F4aP2r0Q5ydZvrLQ.jpg",
+        "mime_type": "image/jpeg",
+        "file_type": "image",
+        "landscape": true,
+        "thumbnail": null
+      }
+    ],
+    "level": 1,
+    "onkatsu_category": "J-POP,クラシック",
+    "onkatsu_category_english": "J-POP,CLASSIC",
+    "class_categories": ["J-POP", "CLASSIC"],
+    "purposes": [
+      "ワイワイ楽しく",
+      "アンサンブル体験",
+      "ハモり体験",
+      "挑戦",
+      "音楽仲間探し",
+      "はじめの一歩",
+      "やってみたいをやってみる",
+      "自分磨き",
+      "音楽を体感しよう",
+      "音楽の知識を深めよう☆",
+      "響かせようハーモニー"
+    ],
+    "wanted_parts": [
+      {
+        "id": 4035,
+        "course_name": "ポップス",
+        "course_code": "Po.Vo",
+        "course_id": "3_3",
+        "max_applicants": 4,
+        "current_applicants": 1
+      }
+    ],
+    "set_pieces": [],
+    "tags": [
+      {
+        "id": 166,
+        "name": "注目の音活"
+      }
+    ],
+    "service_id": 3,
+    "service_name": "EYS音楽教室",
+    "share_service_id": null,
+    "share_service_name": null,
+    "service": "EYS音楽教室",
+    "course_name": "音活コミット",
+    "chat_data": [
+      {
+        "id": 1196103,
+        "sender_avator_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+        "body": "はじめまして。この度、新しく音活でお世話になります、水村と申します。来月から黒河先生のご指導をいただけるとのこと、楽しみにしています。メンバーが集まるといいのですが。。。質問なのですが、楽譜は黒河先生にお任せしてよろしいのでしょうか。吹奏楽から離れて、かなりのブランクがあり、楽譜は持っていないので、できればお願いしたいのです。",
+        "is_owner": false,
+        "message_color": "#88CC44",
+        "timestamp": "2024-03-21T20:28:01.791+09:00",
+        "welcome": false
+      },
+      {
+        "id": 1210076,
+        "sender_avator_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+        "body": "この度は、THE ROSEの楽譜と、動画を送っていただきましてありがとうございました。練習していきます。そして、本当に差し出がましいお願いで申し訳ないのですが、<span style=\"background-color: transparent;\">今、私は、月2回新宿で、レッスンを受けていて（昨年1月から）もう少しだけレベルが進んでいる（講師の先生とのディエット曲を毎回やっています）と思われるので、できましたら、今回の件楽譜にプラスしてあと一曲レッスンをお願いできればと思います。宜しくお願いいたします。</span>",
+        "is_owner": false,
+        "message_color": "#88CC44",
+        "timestamp": "2024-04-06T14:25:31.773+09:00",
+        "welcome": false
+      },
+      {
+        "id": 1220872,
+        "sender_avator_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/101311/bustup_HieanmLH5y4eiOY5LZfdEg.jpg",
+        "body": "水村さん<div><br><div>お世話になります。</div><div>お返事遅くなりました。</div><div>水村さんの現状など詳細ありがとうございます。</div><div><br><div>アンサンブルで使用する曲については初級向けということを前提に僕がアレンジをしていますが、レッスンを進めていく上で参考にさせていただきますね。</div><div><br></div><div>もう一曲はこちらにアップしました。</div><div>ROSEはメロディーも追加しています。</div><div>スケール(音階)が書かれているものはウォーミングアップで使用する予定です。</div><div>それではよろしくお願いいたします。</div><div><br></div><div>https://drive.google.com/drive/folders/1qcyw9_6DTf-YVuxY7clvpD-LUGJ0RPD6</div><div><br></div><div>※ホールニューワールドは</div><div>こちらの動画のチェロのパートになります</div><div><br></div><div>https://youtu.be/kAvEvFm_pic</div></div></div>",
+        "is_owner": true,
+        "message_color": "#88BBFF",
+        "timestamp": "2024-04-17T09:54:29.372+09:00",
+        "welcome": false
+      },
+      {
+        "id": 1221014,
+        "sender_avator_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+        "body": "お忙しいのに、楽譜用意して下さりありがとうございます。土曜日、黒河先生のレッスン、楽しみにしています。<div>宜しくお願い致します。</div>",
+        "is_owner": false,
+        "message_color": "#88CC44",
+        "timestamp": "2024-04-17T12:21:19.640+09:00",
+        "welcome": false
+      }
+    ],
+    "chat_room_data": {
+      "id": 123935,
+      "avatars": [
+        {
+          "id": 1783165,
+          "member_id": 132469,
+          "name": "黒河 博文",
+          "avatar_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/101311/bustup_HieanmLH5y4eiOY5LZfdEg.jpg",
+          "welcome": false
+        },
+        {
+          "id": 1783166,
+          "member_id": 197343,
+          "name": "水村美代子",
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+          "welcome": false
+        }
+      ],
+      "first_member_name": "黒河 博文",
+      "total_comment": 4
+    },
+    "join_members": [
+      {
+        "id": 132469,
+        "avatar_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/101311/bustup_HieanmLH5y4eiOY5LZfdEg.jpg",
+        "name": "黒河 博文",
+        "welcome": false
+      },
+      {
+        "id": 197343,
+        "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+        "name": "水村美代子",
+        "welcome": false
+      }
+    ],
+    "chat_total_comment": 4,
+    "halfway_joinable": true,
+    "join_price": 6500
+  },
+  {
+    "eys_class_id": 949370,
+    "title": "【新宿、未経験大歓迎！】初めてのお箏（こと）〜和のおもてなしの世界へ〜",
+    "short_title": "【新宿、未経験大歓迎！】初めてのお箏（こと）〜和のおもてなしの世界へ〜",
+    "description": "お箏を一緒に弾いてみませんか？\n\n楽譜の見方や\n爪の付け方、座り方など基本から始めていくので\n\n全くお箏に触ったことがない方\n昔やったことのある方も\n「大歓迎」です！\n\n一回目のレッスンで\n「さくらさくら」を弾いてみましょう♪ \n大丈夫です、弾けてしまうんです！！\n\n\n慣れてきましたら、色々曲を弾いてみたり\n参加者の皆様と合奏も楽しんでみたいと思います！\n\n正座が苦手な方も椅子に座って演奏できるのでご安心ください♪\n\n堅苦しいイメージがあるかもしれませんが、ぜひお気軽に参加していただけたら嬉しいです。\n普段とは違う「和の響き、雰囲気」を味わっていただき、楽しんでいただきたいと思います。\n\n楽しく弾いていきましょう♪\nお待ちしております♪\n\n\n\nお箏の先生による、未経験者、初心者主軸の音活コミットとなります。\n開講をしてくださったのは、箏の米津（よねつ）先生です。\n\nそもそも「箏」を「こと」と読むこと自体、ご存知ない方も多いかもしれません「琴」も正解？そういったところから、知ってそうで知らない和の世界をご案内、ご堪能いただきます。\n曲も箏ならではの曲をはじめ、こんな曲でもできるのか。といった発見もあるかもしれません。\n\n※3人の募集を掲げておりますが、部屋の大きさにより2名までになる可能性もございますがご了承ください。\n\n※こちらの音活コミットは無期限開講のため\nレッスンの休会同様、前々月末日までに「休会届を郵送」いただければお休みができるシステムとなります。\n→例えば、6月をお休みしたい場合は4月末日までの消印のある休会届が有効となります。\n→休会届の備考に「○月の○○先生の音活コミットをお休みします」などとご記入の上ご郵送ください。\n期日が過ぎた場合はレッスン消化扱いとなります。ご了承ください。\n退団されたい場合も、「退会届」に休会同様のやり方でご記入いただきご郵送をお願いいたします。\n※お申し込みの参加月を次月以降にされたい場合（3月スタートだが、４月から参加したい時など）や、お申し込み時に際にお休みする月が決まっていおる場合もお申し込みのほかに、メールにてその旨をお伝えくださいませ。\n\n詳しくは担当講師に直接、または音活コミット事業部（onkatsu@2nd-community.com）まで、ご相談、ご連絡くださいませ。\n\n",
+    "join_condition": "どなたでもOK！",
+    "course": "音活コミット",
+    "course_image_key": "instrument_135",
+    "type": "音活",
+    "common_room": "G2-2",
+    "area": "関東",
+    "studio": "新宿",
+    "begin_date": "2024/04/01",
+    "end_date": "9999/12/31",
+    "fixed_type": "月固定",
+    "lesson_count": 1,
+    "schedule_pattern": [
+      {
+        "week_count": 2,
+        "weekday": 0,
+        "begin_time": "12:00",
+        "end_time": "13:00"
+      }
+    ],
+    "max_member_count": 3,
+    "teacher": {
+      "id": 109345,
+      "name": "米津 果穂",
+      "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/109345/bustup_5Wq9ti6cj0KHq9yz9uqoZw.jpg",
+      "desc": "北海道美瑛町出身。\r\n箏を市川慎氏、地歌三味線を竹澤悦子氏に師事。\r\n沢井箏曲院講師試験にて奨励賞受賞。\r\n現代邦楽研究所 第30期生。"
+    },
+    "lesson_plans": [
+      {
+        "date": "2024/04/14",
+        "begin_time": "12:00",
+        "end_time": "13:00",
+        "studio": "新宿",
+        "room": "和室"
+      },
+      {
+        "date": "2024/05/12",
+        "begin_time": "12:00",
+        "end_time": "13:00",
+        "studio": "新宿",
+        "room": "和室"
+      },
+      {
+        "date": "2024/06/09",
+        "begin_time": "12:00",
+        "end_time": "13:00",
+        "studio": "新宿",
+        "room": "G2-2"
+      },
+      {
+        "date": "2024/07/14",
+        "begin_time": "12:00",
+        "end_time": "13:00",
+        "studio": "新宿",
+        "room": "G2-2"
+      },
+      {
+        "date": "2024/08/11",
+        "begin_time": "12:00",
+        "end_time": "13:00",
+        "studio": "新宿",
+        "room": "G2-2"
+      },
+      {
+        "date": "2024/09/08",
+        "begin_time": "12:00",
+        "end_time": "13:00",
+        "studio": "新宿",
+        "room": "G2-2"
+      },
+      {
+        "date": "2024/10/13",
+        "begin_time": "12:00",
+        "end_time": "13:00",
+        "studio": "新宿",
+        "room": "G2-2"
+      },
+      {
+        "date": "2024/11/10",
+        "begin_time": "12:00",
+        "end_time": "13:00",
+        "studio": "新宿",
+        "room": "G2-2"
+      }
+    ],
+    "files": [
+      {
+        "class_title_detail": true,
+        "id": 3833,
+        "name": "米津先生.jpg",
+        "file_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/eys_class_file/3-a59iP3TBWvZKLm2hKNMA.jpg",
+        "mime_type": "image/jpeg",
+        "file_type": "image",
+        "landscape": true,
+        "thumbnail": null
+      }
+    ],
+    "level": 1,
+    "onkatsu_category": "J-POP",
+    "onkatsu_category_english": "J-POP",
+    "class_categories": ["J-POP"],
+    "purposes": [
+      "ワイワイ楽しく",
+      "アンサンブル体験",
+      "色々な楽器を知る",
+      "専門知識の獲得",
+      "はじめの一歩",
+      "やってみたいをやってみる"
+    ],
+    "wanted_parts": [
+      {
+        "id": 4226,
+        "course_name": "箏",
+        "course_code": "KOT",
+        "course_id": "31",
+        "max_applicants": 3,
+        "current_applicants": 1
+      }
+    ],
+    "set_pieces": [],
+    "tags": [
+      {
+        "id": 166,
+        "name": "注目の音活"
+      }
+    ],
+    "service_id": 3,
+    "service_name": "EYS音楽教室",
+    "share_service_id": null,
+    "share_service_name": null,
+    "service": "EYS音楽教室",
+    "course_name": "音活コミット",
+    "chat_data": [],
+    "chat_room_data": {
+      "id": 125229,
+      "avatars": [
+        {
+          "id": 1799301,
+          "member_id": 225324,
+          "name": "米津 果穂",
+          "avatar_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/109345/bustup_5Wq9ti6cj0KHq9yz9uqoZw.jpg",
+          "welcome": false
+        },
+        {
+          "id": 1799302,
+          "member_id": 226634,
+          "name": "岩永明子",
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+          "welcome": false
+        }
+      ],
+      "first_member_name": "米津 果穂",
+      "total_comment": 0
+    },
+    "join_members": [
+      {
+        "id": 225324,
+        "avatar_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/109345/bustup_5Wq9ti6cj0KHq9yz9uqoZw.jpg",
+        "name": "米津 果穂",
+        "welcome": false
+      },
+      {
+        "id": 226634,
+        "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+        "name": "岩永明子",
+        "welcome": false
+      }
+    ],
+    "chat_total_comment": 0,
+    "halfway_joinable": true,
+    "join_price": 6500
+  },
+  {
+    "eys_class_id": 925497,
+    "title": "【初心者の方も超大歓迎！！】どんな楽器でもジャズを演奏してしまおう",
+    "short_title": "【初心者の方も超大歓迎！！】どんな楽器でもジャズを演奏してしまおう",
+    "description": "ジャズはピアノ、ベース、ドラム、ギター、サックス、トランペット\nなどなどが最初はイメージつくと思います。\n\nいやいやいやいや！\nどんな楽器でジャズをやってもいいじゃないですか！\n\n\n今回は渋谷なのでドラム設置がないのですが、\n「ドレミファソラシドなど音階が演奏でき、各運指がなんとなく理解されている方なら」どなたでも歓迎します。\n\nぜひフレーズやアドリブ、皆さんで楽しみましょう。\n\n弦楽器、和楽器、二胡のお客様も歓迎です！\n講師はサックス、ピアノ、データ伴奏を用いてお出迎えいたします！！\n\n募集楽器は様々なので、ご参加いただいている楽器を表記いたします！\n（現在篠笛1名様参加中！）\nまずはお問い合わせから！お待ちしております！！\n\n※渋谷スタジオはドラムの設置がないので、そこだけはご容赦ください\n\n\n※こちらの音活コミットは無期限開講のため\nレッスンの休会同様、前々月末日までに「休会届を郵送」いただければお休みができるシステムとなります。\n→例えば、6月をお休みしたい場合は4月末日までの消印のある休会届が有効となります。\n→休会届の備考に「○月の○○先生の音活コミットをお休みします」などとご記入の上ご郵送ください。\n期日が過ぎた場合はレッスン消化扱いとなります。ご了承ください。\n退団されたい場合も、「退会届」に休会同様のやり方でご記入いただきご郵送をお願いいたします。\n※参加月を次月以降にされたい場合や、お申し込み時に際にお休みする月が決まっていおる場合もお申し込みのほかに、メールにてその旨をお伝えくださいませ。\n\n詳しくは担当講師に直接、または音活コミット事業部（onkatsu@2nd-community.com）まで、ご相談、ご連絡くださいませ。",
+    "join_condition": "ドレミファソラシドなど音階が演奏でき、各運指がなんとなく理解されている方なら",
+    "course": "音活コミット",
+    "course_image_key": "instrument_135",
+    "type": "音活",
+    "common_room": "GL1",
+    "area": "関東",
+    "studio": "渋谷",
+    "begin_date": "2024/01/01",
+    "end_date": "9999/12/31",
+    "fixed_type": "月固定",
+    "lesson_count": 1,
+    "schedule_pattern": [
+      {
+        "week_count": 2,
+        "weekday": 3,
+        "begin_time": "15:00",
+        "end_time": "16:00"
+      }
+    ],
+    "max_member_count": 3,
+    "teacher": {
+      "id": 100938,
+      "name": "横溝 雄毅",
+      "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/100938/bustup_SABSscXWpZSEe7KF-3E5QA.jpg",
+      "desc": "八王子出身、在住の1982年生まれ。中学校の吹奏楽部入部をきっかけにサックスを始める。高校ではコンクール全国大会も経験。 玉川大学文学部芸術学科卒業、同大学専攻科芸術専攻修了。ヤマハ新人演奏会木管の部に出演。 大学在学中、中学校高校の吹奏楽部指導を展開。特にアンサンブル指導や、ポップス分野の演出指導に貢献。 プライベートレッスンでは、光浦靖子氏のサックス指導も行なっている。 同時期にバンドの世界にも飛び込み、フリーのサックス奏者として、様々なアーティストのレコーディングや演奏に参加。 2016年、インストバンドGeeNiyZを結成。 これまでにサックスを中村均、大森義基の各氏に師事。"
+    },
+    "lesson_plans": [
+      {
+        "date": "2024/01/10",
+        "begin_time": "15:00",
+        "end_time": "16:00",
+        "studio": "渋谷",
+        "room": "GL1"
+      },
+      {
+        "date": "2024/02/14",
+        "begin_time": "15:00",
+        "end_time": "16:00",
+        "studio": "渋谷",
+        "room": "GL1"
+      },
+      {
+        "date": "2024/03/13",
+        "begin_time": "15:00",
+        "end_time": "16:00",
+        "studio": "渋谷",
+        "room": "GL2"
+      },
+      {
+        "date": "2024/04/10",
+        "begin_time": "15:00",
+        "end_time": "16:00",
+        "studio": "渋谷",
+        "room": "GL1"
+      },
+      {
+        "date": "2024/05/08",
+        "begin_time": "15:00",
+        "end_time": "16:00",
+        "studio": "渋谷",
+        "room": "GL2"
+      },
+      {
+        "date": "2024/06/12",
+        "begin_time": "15:00",
+        "end_time": "16:00",
+        "studio": "渋谷",
+        "room": "GL2"
+      },
+      {
+        "date": "2024/07/10",
+        "begin_time": "15:00",
+        "end_time": "16:00",
+        "studio": "渋谷",
+        "room": "GL1"
+      },
+      {
+        "date": "2024/08/14",
+        "begin_time": "15:00",
+        "end_time": "16:00",
+        "studio": "渋谷",
+        "room": "GL1"
+      },
+      {
+        "date": "2024/09/11",
+        "begin_time": "15:00",
+        "end_time": "16:00",
+        "studio": "渋谷",
+        "room": "GL1"
+      },
+      {
+        "date": "2024/10/09",
+        "begin_time": "15:00",
+        "end_time": "16:00",
+        "studio": "渋谷",
+        "room": "GL1"
+      },
+      {
+        "date": "2024/11/13",
+        "begin_time": "15:00",
+        "end_time": "16:00",
+        "studio": "渋谷",
+        "room": "GL1"
+      }
+    ],
+    "files": [],
+    "level": 1,
+    "onkatsu_category": "ジャズ,J-POP,ロック",
+    "onkatsu_category_english": "JAZZ,J-POP,ROCK",
+    "class_categories": ["JAZZ", "J-POP", "ROCK"],
+    "purposes": ["ワイワイ楽しく", "セッション入門"],
+    "wanted_parts": [
+      {
+        "id": 3747,
+        "course_name": "ジャズ",
+        "course_code": "Jz.Vo",
+        "course_id": "3_9",
+        "max_applicants": 3,
+        "current_applicants": 1
+      }
+    ],
+    "set_pieces": [],
+    "tags": [
+      {
+        "id": 166,
+        "name": "注目の音活"
+      }
+    ],
+    "service_id": 3,
+    "service_name": "EYS音楽教室",
+    "share_service_id": null,
+    "share_service_name": null,
+    "service": "EYS音楽教室",
+    "course_name": "音活コミット",
+    "chat_data": [
+      {
+        "id": 1120044,
+        "sender_avator_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/100938/bustup_SABSscXWpZSEe7KF-3E5QA.jpg",
+        "body": "小松さん<div>お世話になります。</div><div><br></div><div>サックス</div><div>横溝です。</div><div>いよいよ明日となりました。</div><div>音活コミット事業部のメールでのやり取りをさせていただいておりましたが、レッスンの始まりということであえてチャットにてお送りいたします。</div><div><br></div><div>All Of Me</div><div>君を乗せての譜面があったので送信します。</div><div><br></div><div>君をのせてに関しては非常に♭が多かったものしか持っていなかったので、明日相談できればと思います。</div><div><br></div><div>よろしくお願いいたします</div><div><br></div><div>サックス</div><div>横溝雄毅</div>",
+        "is_owner": true,
+        "message_color": "#88BBFF",
+        "timestamp": "2024-01-08T18:37:27.857+09:00",
+        "welcome": false
+      },
+      {
+        "id": 1120046,
+        "sender_avator_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/100938/bustup_SABSscXWpZSEe7KF-3E5QA.jpg",
+        "body": "ごめんなさい<div>嘘つきました。</div><div>明日ではなく明後日</div><div>（1月10日）でしたね。</div><div><br></div><div>失礼致しました。</div><div><br></div><div>どうぞよろしくお願いいたします。</div>",
+        "is_owner": true,
+        "message_color": "#88BBFF",
+        "timestamp": "2024-01-08T18:38:24.979+09:00",
+        "welcome": false
+      },
+      {
+        "id": 1157735,
+        "sender_avator_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+        "body": "横溝先生<div>本日は宜しくお願い致します。</div><div>頂いた楽譜をダウンロード出来ず、</div><div>紙ベースで頂くことは出来ますか？</div><div>当日に申し訳ありません。</div><div><br></div>",
+        "is_owner": false,
+        "message_color": "#88CC44",
+        "timestamp": "2024-02-14T14:23:04.065+09:00",
+        "welcome": false
+      },
+      {
+        "id": 1187018,
+        "sender_avator_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/100938/bustup_SABSscXWpZSEe7KF-3E5QA.jpg",
+        "body": "お世話になります。<div>小松さん</div><div>本日は音活コミットレッスンですが、お越しになれますか？</div><div><br></div><div>ご無理はなさらず。</div><div>よろしくお願い申し上げます🙇‍♂️</div><div><br></div><div>サックス</div><div>横溝雄毅</div>",
+        "is_owner": true,
+        "message_color": "#88BBFF",
+        "timestamp": "2024-03-13T15:12:00.313+09:00",
+        "welcome": false
+      }
+    ],
+    "chat_room_data": {
+      "id": 118032,
+      "avatars": [
+        {
+          "id": 1705105,
+          "member_id": 118519,
+          "name": "横溝 雄毅",
+          "avatar_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/100938/bustup_SABSscXWpZSEe7KF-3E5QA.jpg",
+          "welcome": false
+        },
+        {
+          "id": 1705106,
+          "member_id": 200153,
+          "name": "小松千英",
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+          "welcome": false
+        }
+      ],
+      "first_member_name": "横溝 雄毅",
+      "total_comment": 4
+    },
+    "join_members": [
+      {
+        "id": 118519,
+        "avatar_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/100938/bustup_SABSscXWpZSEe7KF-3E5QA.jpg",
+        "name": "横溝 雄毅",
+        "welcome": false
+      },
+      {
+        "id": 200153,
+        "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+        "name": "小松千英",
+        "welcome": false
+      }
+    ],
+    "chat_total_comment": 4,
+    "halfway_joinable": true,
+    "join_price": 6500
+  },
+  {
+    "eys_class_id": 922827,
+    "title": "弦楽アンサンブルを堪能！",
+    "short_title": "弦楽アンサンブルを堪能！",
+    "description": "馴染みのあるクラシック名曲を弦楽アンサンブルで堪能してしまいましょう！\n色々な人と合わせてみたい！\n理由はこれだけで十分です。\n\n無期限で開講でございますので\n①メンバーのペースにより、進行状況で練習曲のテーマを決められる\n②最低2ヶ月間のお試し入団も可能（退団届のご提出が必要です）\nでございます。\n\n募集人数により、募集パートや人数は担当講師と相談して常時更新させていただきます。\nEYSヴァイオリン講師、長沢先生による弦楽アンサンブル\nぜひご堪能ください！\nよろしくお願いお願いいたします。\n\n※こちらの音活コミットは無期限開講のため\nレッスンの休会同様、前々月末日までに「休会届を郵送」いただければお休みができるシステムとなります。\n→例えば、6月をお休みしたい場合は4月末日までの消印のある休会届が有効となります。\n→休会届の備考に「○月の○○先生の音活コミットをお休みします」などとご記入の上ご郵送ください。\n期日が過ぎた場合はレッスン消化扱いとなります。ご了承ください。\n退団されたい場合も、「退会届」に休会同様のやり方でご記入いただきご郵送をお願いいたします。\n※参加月を次月以降にされたい場合や、お申し込み時に際にお休みする月が決まっていおる場合もお申し込みのほかに、メールにてその旨をお伝えくださいませ。\n\n詳しくは担当講師に直接、または音活コミット事業部（onkatsu@2nd-community.com）まで、ご相談、ご連絡くださいませ。",
+    "join_condition": "弦楽器の会員様、弦楽器経験者の方々。",
+    "course": "音活コミット",
+    "course_image_key": "instrument_135",
+    "type": "音活",
+    "common_room": "G2-1",
+    "area": "関東",
+    "studio": "新宿",
+    "begin_date": "2024/01/01",
+    "end_date": "9999/12/31",
+    "fixed_type": "月固定",
+    "lesson_count": 1,
+    "schedule_pattern": [
+      {
+        "week_count": 4,
+        "weekday": 6,
+        "begin_time": "17:00",
+        "end_time": "18:00"
+      }
+    ],
+    "max_member_count": 4,
+    "teacher": {
+      "id": 101420,
+      "name": "長沢 俊明",
+      "icon": "https://eys-file.s3-ap-northeast-1.amazonaws.com/member/profile/original/t_101420.png",
+      "desc": "1954年生まれ。6歳よりバイオリンを始めりる。北見隆昭、岡山直弥、遠藤茉利子の各氏に師事。1973年青山学院管弦楽団に入団、コンサートマスターを務める。1977年青山学院大学理工学部卒業、同年クラリオン株式会社入社。1982年新交響楽団に入団、コンサートマスターを務める。1978年シンガポールブラッデルハイツ交響楽団に入団、リーダーを務める。2003年武蔵野室内アンサンブルに入団、アンサンブルリーダーを務める。"
+    },
+    "lesson_plans": [
+      {
+        "date": "2024/01/27",
+        "begin_time": "17:00",
+        "end_time": "18:00",
+        "studio": "新宿",
+        "room": "G2-1"
+      },
+      {
+        "date": "2024/02/24",
+        "begin_time": "17:00",
+        "end_time": "18:00",
+        "studio": "新宿",
+        "room": "G2-1"
+      },
+      {
+        "date": "2024/03/23",
+        "begin_time": "17:00",
+        "end_time": "18:00",
+        "studio": "新宿",
+        "room": "G2-1"
+      },
+      {
+        "date": "2024/04/27",
+        "begin_time": "17:00",
+        "end_time": "18:00",
+        "studio": "新宿",
+        "room": "G2-1"
+      },
+      {
+        "date": "2024/05/25",
+        "begin_time": "17:00",
+        "end_time": "18:00",
+        "studio": "新宿",
+        "room": "G2-1"
+      },
+      {
+        "date": "2024/06/22",
+        "begin_time": "17:00",
+        "end_time": "18:00",
+        "studio": "新宿",
+        "room": "G2-1"
+      },
+      {
+        "date": "2024/07/27",
+        "begin_time": "17:00",
+        "end_time": "18:00",
+        "studio": "新宿",
+        "room": "G2-1"
+      },
+      {
+        "date": "2024/08/24",
+        "begin_time": "17:00",
+        "end_time": "18:00",
+        "studio": "新宿",
+        "room": "G2-1"
+      },
+      {
+        "date": "2024/09/28",
+        "begin_time": "17:00",
+        "end_time": "18:00",
+        "studio": "新宿",
+        "room": "G2-1"
+      },
+      {
+        "date": "2024/10/26",
+        "begin_time": "17:00",
+        "end_time": "18:00",
+        "studio": "新宿",
+        "room": "G2-1"
+      },
+      {
+        "date": "2024/11/23",
+        "begin_time": "17:00",
+        "end_time": "18:00",
+        "studio": "新宿",
+        "room": "G2-1"
+      }
+    ],
+    "files": [],
+    "level": 1,
+    "onkatsu_category": "クラシック",
+    "onkatsu_category_english": "CLASSIC",
+    "class_categories": ["CLASSIC"],
+    "purposes": [
+      "ワイワイ楽しく",
+      "アンサンブル体験",
+      "音感アップ",
+      "リズム感強化",
+      "挑戦",
+      "色々な楽器を知る",
+      "音楽仲間探し",
+      "ザ！クラシック！",
+      "音楽を体感しよう",
+      "音楽の知識を深めよう☆",
+      "響かせようハーモニー"
+    ],
+    "wanted_parts": [
+      {
+        "id": 3749,
+        "course_name": "ヴァイオリン",
+        "course_code": "VL",
+        "course_id": "7",
+        "max_applicants": 2,
+        "current_applicants": 2
+      },
+      {
+        "id": 3750,
+        "course_name": "ヴィオラ",
+        "course_code": "VA",
+        "course_id": "8",
+        "max_applicants": 1,
+        "current_applicants": 1
+      },
+      {
+        "id": 3751,
+        "course_name": "チェロ",
+        "course_code": "VC",
+        "course_id": "9",
+        "max_applicants": 1,
+        "current_applicants": 0
+      }
+    ],
+    "set_pieces": [],
+    "tags": [
+      {
+        "id": 166,
+        "name": "注目の音活"
+      }
+    ],
+    "service_id": 3,
+    "service_name": "EYS音楽教室",
+    "share_service_id": null,
+    "share_service_name": null,
+    "service": "EYS音楽教室",
+    "course_name": "音活コミット",
+    "chat_data": [
+      {
+        "id": 1263156,
+        "sender_avator_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/man-bust-up-pc.png",
+        "body": "😀",
+        "is_owner": false,
+        "message_color": "#FFAAAA",
+        "timestamp": "2024-05-27T22:21:29.210+09:00",
+        "welcome": false
+      },
+      {
+        "id": 1263241,
+        "sender_avator_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+        "body": "こんばんは！<div>ご連絡ありがとうございます。</div><div>”星に願いを”なのですが、実は7月20日のGARAコンサートで演奏する曲で練習中なのです。</div><div>ヴァイオリンとコントラバスの編成で。</div><div>なので、できればカノンなど希望です。</div><div>他にも考えてみます。</div>",
+        "is_owner": false,
+        "message_color": "#FFBB88",
+        "timestamp": "2024-05-27T23:00:23.718+09:00",
+        "welcome": false
+      },
+      {
+        "id": 1263379,
+        "sender_avator_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/man-bust-up-pc.png",
+        "body": "お、あれ出演されるのですね、頑張ってください！<div>承知しました！</div>",
+        "is_owner": false,
+        "message_color": "#FFAAAA",
+        "timestamp": "2024-05-28T07:41:37.255+09:00",
+        "welcome": false
+      },
+      {
+        "id": 1263398,
+        "sender_avator_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+        "body": "おはようございます！<div>今練習中のものは初心者向けの楽譜なのです。</div><div>ですので、ほとぼりが冷めたら(笑)ご提案のものを皆さんとご一緒に演奏できたらと思います(^^)</div>",
+        "is_owner": false,
+        "message_color": "#FFBB88",
+        "timestamp": "2024-05-28T08:38:31.142+09:00",
+        "welcome": false
+      },
+      {
+        "id": 1263461,
+        "sender_avator_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/member/profile/original/t_101420.png",
+        "body": "皆さん、ご意見ありがとうございます。だいたいご希望は分かりましたので、弾きやすい楽譜がないか、探してみますので、お楽しみに。",
+        "is_owner": true,
+        "message_color": "#88BBFF",
+        "timestamp": "2024-05-28T09:50:54.956+09:00",
+        "welcome": false
+      }
+    ],
+    "chat_room_data": {
+      "id": 117456,
+      "avatars": [
+        {
+          "id": 1697802,
+          "member_id": 136170,
+          "name": "長沢 俊明",
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/member/profile/original/t_101420.png",
+          "welcome": false
+        },
+        {
+          "id": 1697803,
+          "member_id": 184463,
+          "name": "小暮眞優佳",
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+          "welcome": false
+        },
+        {
+          "id": 1697804,
+          "member_id": 184464,
+          "name": "上原大暉",
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/man-bust-up-pc.png",
+          "welcome": false
+        },
+        {
+          "id": 1730237,
+          "member_id": 200568,
+          "name": "片山智江子",
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+          "welcome": false
+        },
+        {
+          "id": 1807321,
+          "member_id": 229894,
+          "name": "伊藤広貴",
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/member/profile/image/df/86/18/53/68/0b/7b/AUTOx300/P3253939.JPG",
+          "welcome": false
+        }
+      ],
+      "first_member_name": "長沢 俊明",
+      "total_comment": 7
+    },
+    "join_members": [
+      {
+        "id": 136170,
+        "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/member/profile/original/t_101420.png",
+        "name": "長沢 俊明",
+        "welcome": false
+      },
+      {
+        "id": 229894,
+        "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/member/profile/image/df/86/18/53/68/0b/7b/AUTOx300/P3253939.JPG",
+        "name": "伊藤広貴",
+        "welcome": false
+      },
+      {
+        "id": 200568,
+        "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+        "name": "片山智江子",
+        "welcome": false
+      },
+      {
+        "id": 184464,
+        "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/man-bust-up-pc.png",
+        "name": "上原大暉",
+        "welcome": false
+      },
+      {
+        "id": 184463,
+        "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+        "name": "小暮眞優佳",
+        "welcome": false
+      }
+    ],
+    "chat_total_comment": 7,
+    "halfway_joinable": true,
+    "join_price": 6500
+  },
+  {
+    "eys_class_id": 911986,
+    "title": "【ヴァイオリンの会員さま限定！】ヴィオラに挑戦してみよう",
+    "short_title": "【ヴァイオリンの会員さま限定！】ヴィオラに挑戦してみよう",
+    "description": "『ヴァイオリンとヴィオラって、奏法同じでしょう？』\n『ヴィオラを弾きたいけど、ハ音記号が読めないんだよな…。』\n\nヴァイオリンを練習していて、そんな風に考えたことはありませんか？\nヴァイオリンとヴィオラは似て非なる楽器です。\n長い間焦点が当たってきませんでしたが、ヴィオラにはヴィオラ独自の奏法があり、役割があります。\n\nハ音記号の読み方は、そんなに難しくはありません！\nヴァイオリンを練習してきたその知識で、十分に演奏が可能です。\n\n豊かな響きと艶のある低音を持つヴィオラ、ぜひ一度挑戦してみませんか？\n\n※この講座はヴァイオリンのレッスンを受けている会員さま限定の講座です。\n\n\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\nヴァイオリン、ヴィオラ講師大久保先生の登場です。\n特に音大時代の専攻はヴィオラの大久保先生。\n\nヴィオラの魅力を広げたいお考えから、まずはヴァイオリンの会員様へお声がけです。\nお話を伺ったところ、切り替えるためのノウハウとして少しレクチャーする時間が必要とのこと。\nだったらいっそグループレッスンでやってみようということでこの度開講しました。\nご興味のある方はぜひ！\n\n※無期限音活コミットです。最短2ヶ月で退団可能ですので、お試し2ヶ月入団もお待ちしております！！\n\n※こちらの音活コミットは無期限開講のため\nレッスンの休会同様、前々月末日までに「休会届を郵送」いただければお休みができるシステムとなります。\n→例えば、6月をお休みしたい場合は4月末日までの消印のある休会届が有効となります。\n→休会届の備考に「○月の○○先生の音活コミットをお休みします」などとご記入の上ご郵送ください。\n期日が過ぎた場合はレッスン消化扱いとなります。ご了承ください。\n退団されたい場合も、「退会届」に休会同様のやり方でご記入いただきご郵送をお願いいたします。\n※参加月を次月以降にされたい場合や、お申し込み時に際にお休みする月が決まっていおる場合もお申し込みのほかに、メールにてその旨をお伝えくださいませ。\n\n詳しくは担当講師に直接、または音活コミット事業部（onkatsu@2nd-community.com）まで、ご相談、ご連絡くださいませ。",
+    "join_condition": "ヴァイオリンレッスンを受けている会員様、もしくはヴァイオリン経験者様",
+    "course": "音活コミット",
+    "course_image_key": "instrument_135",
+    "type": "音活",
+    "common_room": "G-3",
+    "area": "関東",
+    "studio": "WeArt銀座",
+    "begin_date": "2023/11/01",
+    "end_date": "9999/12/31",
+    "fixed_type": "月固定",
+    "lesson_count": 1,
+    "schedule_pattern": [
+      {
+        "week_count": 3,
+        "weekday": 6,
+        "begin_time": "18:00",
+        "end_time": "19:00"
+      }
+    ],
+    "max_member_count": 3,
+    "teacher": {
+      "id": 102811,
+      "name": "大久保 勇也",
+      "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/102811/bustup_g2lmONsQ8qg54jAJ3U8XpQ.JPG",
+      "desc": "シャンドール・ナジ氏にヴィオラの手ほどきを受け、東京音楽大学音楽学部器楽学科（ヴィオラ専攻）に入学。これまでに臼木麻弥、大野かおる、松実健太、生野正樹の各氏にヴィオラを、柴貴子氏にヴァイオリンを、小松拓人氏に指揮法・合奏指導法を、オカリナを茨木智博氏に師事する。ヴィオラ講師として自身が主催するアンサンブル楽団“Aurora Viola Ensemble”を立ち上げ、これまでに3回の定期コンサートを開催する。首都圏を中心にいくつもの若手プロオーケストラの首席・客演首席ヴィオラ奏者を歴任し、アマチュアオーケストラのトレーナーも務める。現在は有志の仲間と弦楽四重奏団〈悠悠〉を結成し、ヴィオラ奏者・運営・作編曲担当として精力的に演奏活動を行っている。作編曲家として2021年よりプロ活動を開始し、主に演奏家が舞台で演奏するレパートリー楽曲の制作依頼を引き受けている。"
+    },
+    "lesson_plans": [
+      {
+        "date": "2023/11/18",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "WeArt銀座",
+        "room": "部屋なし"
+      },
+      {
+        "date": "2023/12/16",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "WeArt銀座",
+        "room": "部屋なし"
+      },
+      {
+        "date": "2024/01/20",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "WeArt銀座",
+        "room": "G-1"
+      },
+      {
+        "date": "2024/02/17",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "WeArt銀座",
+        "room": "G-3"
+      },
+      {
+        "date": "2024/03/16",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "WeArt銀座",
+        "room": "G-1"
+      },
+      {
+        "date": "2024/04/20",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "WeArt銀座",
+        "room": "G-1"
+      },
+      {
+        "date": "2024/05/18",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "WeArt銀座",
+        "room": "G-1"
+      },
+      {
+        "date": "2024/06/15",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "WeArt銀座",
+        "room": "G-3"
+      },
+      {
+        "date": "2024/07/20",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "WeArt銀座",
+        "room": "G-3"
+      },
+      {
+        "date": "2024/08/17",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "WeArt銀座",
+        "room": "G-3"
+      },
+      {
+        "date": "2024/09/21",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "WeArt銀座",
+        "room": "G-3"
+      },
+      {
+        "date": "2024/10/19",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "WeArt銀座",
+        "room": "G-3"
+      },
+      {
+        "date": "2024/11/16",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "WeArt銀座",
+        "room": "G-3"
+      }
+    ],
+    "files": [
+      {
+        "class_title_detail": true,
+        "id": 3500,
+        "name": "大久保先生　ヴィオラ.png",
+        "file_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/eys_class_file/7ToDY4Ld740LDjaNsS4TPQ.png",
+        "mime_type": "image/png",
+        "file_type": "image",
+        "landscape": true,
+        "thumbnail": null
+      }
+    ],
+    "level": null,
+    "onkatsu_category": "J-POP,クラシック",
+    "onkatsu_category_english": "J-POP,CLASSIC",
+    "class_categories": ["J-POP", "CLASSIC"],
+    "purposes": ["ハモり体験", "挑戦", "色々な楽器を知る", "響かせようハーモニー"],
+    "wanted_parts": [
+      {
+        "id": 3748,
+        "course_name": "ヴィオラ",
+        "course_code": "VA",
+        "course_id": "8",
+        "max_applicants": 4,
+        "current_applicants": 2
+      }
+    ],
+    "set_pieces": [],
+    "tags": [
+      {
+        "id": 166,
+        "name": "注目の音活"
+      }
+    ],
+    "service_id": 3,
+    "service_name": "EYS音楽教室",
+    "share_service_id": null,
+    "share_service_name": null,
+    "service": "EYS音楽教室",
+    "course_name": "音活コミット",
+    "chat_data": [],
+    "chat_room_data": {
+      "id": 117735,
+      "avatars": [
+        {
+          "id": 1701409,
+          "member_id": 194207,
+          "name": "大久保 勇也",
+          "avatar_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/102811/bustup_g2lmONsQ8qg54jAJ3U8XpQ.JPG",
+          "welcome": false
+        },
+        {
+          "id": 1701410,
+          "member_id": 185401,
+          "name": "川口奈緒美",
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+          "welcome": false
+        },
+        {
+          "id": 1746743,
+          "member_id": 166965,
+          "name": "奥澤久美",
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/member/profile/image/e0/f3/c4/ed/79/77/f4/AUTOx300/IMG20230902205907.jpg",
+          "welcome": false
+        },
+        {
+          "id": 1758472,
+          "member_id": 196115,
+          "name": "小尾口黎香",
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+          "welcome": false
+        }
+      ],
+      "first_member_name": "大久保 勇也",
+      "total_comment": 0
+    },
+    "join_members": [
+      {
+        "id": 194207,
+        "avatar_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/102811/bustup_g2lmONsQ8qg54jAJ3U8XpQ.JPG",
+        "name": "大久保 勇也",
+        "welcome": false
+      },
+      {
+        "id": 166965,
+        "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/member/profile/image/e0/f3/c4/ed/79/77/f4/AUTOx300/IMG20230902205907.jpg",
+        "name": "奥澤久美",
+        "welcome": false
+      }
+    ],
+    "chat_total_comment": 0,
+    "halfway_joinable": true,
+    "join_price": 6500
+  },
+  {
+    "eys_class_id": 884796,
+    "title": "【初心者歓迎】セッション体験〜セッションの初歩的なルールからレクチャーします〜",
+    "short_title": "【初心者歓迎】セッション体験〜セッションの初歩的なルールからレクチャーします〜",
+    "description": "皆様が普段レッスンでやっている楽曲を他の生徒さんや講師と一緒に実際にセッションしてみましょう！\n\nVo,Sax,Tpなどのリード楽器\nPiano,Gtなどのコード楽曲\nBass,Drumsなどのリズム楽器\nその他和楽器など、どんな楽器でも募集しています\n\n楽曲は事前に皆様の希望を伺った上で決定！\n初心者の方は３種類の音、コードが演奏できれば参加可能な曲も用意しています",
+    "join_condition": "レッスン開始から3ヶ月以上、もしくは楽器経験半年以上",
+    "course": "音活コミット",
+    "course_image_key": "instrument_135",
+    "type": "音活",
+    "common_room": "B2-12",
+    "area": "関東",
+    "studio": "新宿",
+    "begin_date": "2023/09/01",
+    "end_date": "9999/12/31",
+    "fixed_type": "月固定",
+    "lesson_count": 1,
+    "schedule_pattern": [
+      {
+        "week_count": 4,
+        "weekday": 3,
+        "begin_time": "18:00",
+        "end_time": "19:00"
+      }
+    ],
+    "max_member_count": 4,
+    "teacher": {
+      "id": 102424,
+      "name": "石川雄也",
+      "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/102424/bustup_Y4a3Kg1GVjUXbLli6-hvYw.jpg",
+      "desc": "愛知県出身\r\n\r\n名古屋スクールオブミュージック＆ダンス専門学校で３年間Jazz,Soul,Funk,Rock等幅広いジャンルのドラミングを学び、在学中からセッションライブへの出演や歌手の谷本貴義氏のバックバンドを務めるなど精力的に活動。\r\n\r\n現在は幅広いジャンルでセッションライブ、レコーディング、シンガーソングライターのサポート活動等に加えChoose Music名義のYouTubeチャンネルの運営なども行っている。"
+    },
+    "lesson_plans": [
+      {
+        "date": "2023/09/27",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "新宿",
+        "room": "P2-10"
+      },
+      {
+        "date": "2023/10/25",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "新宿",
+        "room": "P3-5"
+      },
+      {
+        "date": "2023/11/22",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "新宿",
+        "room": "退避部屋６"
+      },
+      {
+        "date": "2023/11/29",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "新宿",
+        "room": "B2-12"
+      },
+      {
+        "date": "2023/12/27",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "新宿",
+        "room": "P3-5"
+      },
+      {
+        "date": "2024/01/24",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "新宿",
+        "room": "退避部屋６"
+      },
+      {
+        "date": "2024/02/28",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "新宿",
+        "room": "P2-10"
+      },
+      {
+        "date": "2024/03/27",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "新宿",
+        "room": "P2-10"
+      },
+      {
+        "date": "2024/05/22",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "新宿",
+        "room": "P2-10"
+      },
+      {
+        "date": "2024/06/26",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "新宿",
+        "room": "B2-12"
+      },
+      {
+        "date": "2024/07/24",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "新宿",
+        "room": "B2-12"
+      },
+      {
+        "date": "2024/08/28",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "新宿",
+        "room": "B2-12"
+      },
+      {
+        "date": "2024/09/25",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "新宿",
+        "room": "B2-12"
+      },
+      {
+        "date": "2024/10/23",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "新宿",
+        "room": "B2-12"
+      },
+      {
+        "date": "2024/11/27",
+        "begin_time": "18:00",
+        "end_time": "19:00",
+        "studio": "新宿",
+        "room": "B2-12"
+      }
+    ],
+    "files": [
+      {
+        "class_title_detail": true,
+        "id": 2674,
+        "name": "石川講師.mp4",
+        "file_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/eys_class_file/PW2KgWJoVa5H6G0T0a731w.mp4",
+        "mime_type": "video/mp4",
+        "file_type": "video",
+        "landscape": true,
+        "thumbnail": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/eys_class_file/J9MWtzBhr7ZugNH6S0l00Q.jpg"
+      }
+    ],
+    "level": 1,
+    "onkatsu_category": "ジャズ,J-POP,R&B/ソウル,ブルース",
+    "onkatsu_category_english": "JAZZ,J-POP,R&B/SOUL,BLUES",
+    "class_categories": ["JAZZ", "J-POP", "R&B/SOUL", "BLUES"],
+    "purposes": [
+      "ワイワイ楽しく",
+      "アンサンブル体験",
+      "バンド体験",
+      "セッション入門",
+      "リズム感強化",
+      "挑戦",
+      "色々な楽器を知る",
+      "専門知識の獲得",
+      "音楽仲間探し",
+      "初めてのアドリブ",
+      "YouTubeや書籍では教えてくれない演奏",
+      "憧れの懐メロ",
+      "プロしか知らないホントのところ",
+      "はじめの一歩",
+      "はじめの一歩を踏出すための下準備",
+      "やってみたいをやってみる",
+      "自分の曲を作る作曲入門",
+      "音楽を体感しよう",
+      "音楽の知識を深めよう☆",
+      "音楽で青春しようぜ！！"
+    ],
+    "wanted_parts": [
+      {
+        "id": 2410,
+        "course_name": "プロヴォーカル",
+        "course_code": "Pr.Vo",
+        "course_id": "3_2",
+        "max_applicants": 1,
+        "current_applicants": 0
+      },
+      {
+        "id": 2411,
+        "course_name": "エレキベース",
+        "course_code": "EB",
+        "course_id": "12",
+        "max_applicants": 1,
+        "current_applicants": 0
+      },
+      {
+        "id": 2412,
+        "course_name": "エレキギター",
+        "course_code": "EGT",
+        "course_id": "14",
+        "max_applicants": 1,
+        "current_applicants": 0
+      },
+      {
+        "id": 2413,
+        "course_name": "テナーサックス",
+        "course_code": "T.Sax",
+        "course_id": "20_29",
+        "max_applicants": 1,
+        "current_applicants": 0
+      },
+      {
+        "id": 2414,
+        "course_name": "キーボード",
+        "course_code": "KBD",
+        "course_id": "27",
+        "max_applicants": 1,
+        "current_applicants": 0
+      },
+      {
+        "id": 2415,
+        "course_name": "ドラム",
+        "course_code": "DR",
+        "course_id": "28",
+        "max_applicants": 1,
+        "current_applicants": 0
+      }
+    ],
+    "set_pieces": [],
+    "tags": [
+      {
+        "id": 166,
+        "name": "注目の音活"
+      }
+    ],
+    "service_id": 3,
+    "service_name": "EYS音楽教室",
+    "share_service_id": null,
+    "share_service_name": null,
+    "service": "EYS音楽教室",
+    "course_name": "音活コミット",
+    "chat_data": [],
+    "chat_room_data": {
+      "id": 80414,
+      "avatars": [
+        {
+          "id": 617728,
+          "member_id": 191988,
+          "name": "石川雄也",
+          "avatar_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/102424/bustup_Y4a3Kg1GVjUXbLli6-hvYw.jpg",
+          "welcome": false
+        },
+        {
+          "id": 617729,
+          "member_id": 123549,
+          "name": "杉江昇",
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/man-bust-up-pc.png",
+          "welcome": false
+        },
+        {
+          "id": 617730,
+          "member_id": 165283,
+          "name": "嶋田律子",
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+          "welcome": false
+        }
+      ],
+      "first_member_name": "石川雄也",
+      "total_comment": 0
+    },
+    "join_members": [
+      {
+        "id": 191988,
+        "avatar_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/102424/bustup_Y4a3Kg1GVjUXbLli6-hvYw.jpg",
+        "name": "石川雄也",
+        "welcome": false
+      },
+      {
+        "id": 165283,
+        "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+        "name": "嶋田律子",
+        "welcome": false
+      },
+      {
+        "id": 123549,
+        "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/man-bust-up-pc.png",
+        "name": "杉江昇",
+        "welcome": false
+      }
+    ],
+    "chat_total_comment": 0,
+    "halfway_joinable": true,
+    "join_price": 6500
+  },
+  {
+    "eys_class_id": 794847,
+    "title": "ジャズのジャムセッションに行ってみよう〜そんな事まで教えちゃうの？",
+    "short_title": "ジャズのジャムセッションに行ってみよう〜そんな事まで教えちゃうの？",
+    "description": "ジャズは経験の音楽、たくさん経験したもん勝ち。「やってみたいけど敷居が高そう？」\nそんなあなたのために、ひたすら丁寧に、そしてゆくゆくは都内近郊で行われているジャムセッションに自信を持って参加できるよう、あなたを導きます。\n\n20年以上ジャズのジャムセッションのホストをやってきた経験を惜しみなく皆さんにお伝えし、その敷居を極限まで下げていきましょう。\nジャズはとにかく経験の共有です。\nお店もホストバンドもみんな怖くない！いい人達ばっかりです。当事者が言うのだから間違いないです。\n\nヴォーカルの人なら、譜面の作り方、カウントの出し方、またはピアニストへのイントロのお願いの仕方。\n\nフロントマン（サキソフォニスト、トランペッター、ギタリスト、ヴォーカリスト）ならカウントの仕方（スウィングとボサノバ、ラテンでの違い）、ソロの回し方、曲全体の流れの見分け方、曲の始め方、終わり方。\n\nピアニスト、ギタリストならイントロの作り方、エンディングの持っていき方。またはソロの回し方。\n\nベーシスト、ドラマーの役割り、仕事、など、どんな悩みでもお答えします☺︎\n\nソロを取れない方は聞くだけでも話をしに来るだけでも大歓迎。\n\n私も音活初めてなので、ジャムセッションできるようになるまで、メンバー増やしながら一緒に楽しい空間を作っていきませんか？\n\n※セッションクラスのため、いろいろな楽器が可能ですが、募集パートは代表的な楽器を記載しています。どんな楽器でもご興味のある方はサポートへの電話やチャットでお問い合わせくださいませ。\n\n・講師からのコメント\n\n参加してしまえばこんな楽しいことはありません。ジャムセッションに参加するのを躊躇している人、全くわからないけど、お店に行って様子を観察する程度でも、この講座の知識があれば楽しく飲めますよ☺︎お待ちしてます。\n\n\n下記募集パートの他、様々な楽器でのご参加、お待ちしております。\nこんな楽器でも大丈夫かなどのお問い合わせもお待ちしております。\nチャットポット、総合サポート窓口への電話問い合わせのほか。\n音活コミットメールでも承ります\nonkatsu@2nd-community.com\n\n\n※こちらの音活コミットは無期限開講のため\nレッスンの休会同様、前々月末日までに「休会届を郵送」いただければお休みができるシステムとなります。\n→例えば、6月をお休みしたい場合は4月末日までの消印のある休会届が有効となります。\n→休会届の備考に「○月の○○先生の音活コミットをお休みします」などとご記入の上ご郵送ください。\n期日が過ぎた場合はレッスン消化扱いとなります。ご了承ください。\n退団されたい場合も、「退会届」に休会同様のやり方でご記入いただきご郵送をお願いいたします。\n※参加月を次月以降にされたい場合や、お申し込み時に際にお休みする月が決まっていおる場合もお申し込みのほかに、メールにてその旨をお伝えくださいませ。\n\n詳しくは担当講師に直接、または音活コミット事業部（onkatsu@2nd-community.com）まで、ご相談、ご連絡くださいませ。",
+    "join_condition": "未経験者～アドリブ取れる方までok、何名でも",
+    "course": "音活コミット",
+    "course_image_key": "instrument_135",
+    "type": "音活",
+    "common_room": "R-6",
+    "area": "関東",
+    "studio": "池袋",
+    "begin_date": "2023/02/01",
+    "end_date": "9999/12/31",
+    "fixed_type": "月固定",
+    "lesson_count": 1,
+    "schedule_pattern": [
+      {
+        "week_count": 1,
+        "weekday": 1,
+        "begin_time": "21:00",
+        "end_time": "22:00"
+      }
+    ],
+    "max_member_count": 3,
+    "teacher": {
+      "id": 101247,
+      "name": "紺野智之",
+      "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/101247/bustup_ubZK-nu-Fkq6RFRfMY6hkg.jpg",
+      "desc": "福島県出身。 福島県立福島高校Jazz研究部在籍時よりドラムを始める。その後、大学進学のため上京。専修大学入学時にＪＡＺＺ研（MJAブルーコーラル）に所属し、演奏活動を始める。このときよりドラマー原大力氏に師事。卒業後Ｎ．Ｙ．に滞在し、ドラマー カールアレンに師事し、多くのセッションを経験。 また、２０００年吉祥寺ジャズコンテストグランプリを獲得。 その後本格的に演奏活動を始め、池田篤、石崎忍、岡崎好朗、辛島文雄、佐山雅弘、菅野浩、多田誠司、土井徳浩、中村誠一、西直樹、野本晴美、向井滋春、三木俊雄、山口真文、Stafford Hunter 各氏と共演。 またMIHOのリミックス、MAMARAID RAG、小林径プロジェクト（Routine Jazz Quintet)への参加などジャズに限らない幅広い活動もしている。 Routine Jazz Quintet,Routine Jazz SextetではCDをリリース後、タワーレコード、HMVら数多くのレコードショップでジャズチャート１位を獲得し、新たな活動の場を広げている。また、自己のリーダートリオでは、NHKFM Session2013に出演し、現在は自己のリーダーセッション、Squid Squadのリーダー、wrapticsのメンバーとして活動中。2018年初リーダーアルバム「Squid Squad」リリース。"
+    },
+    "lesson_plans": [
+      {
+        "date": "2023/02/06",
+        "begin_time": "21:00",
+        "end_time": "22:00",
+        "studio": "池袋",
+        "room": "R-5"
+      },
+      {
+        "date": "2023/03/06",
+        "begin_time": "21:00",
+        "end_time": "22:00",
+        "studio": "池袋",
+        "room": "R-6"
+      },
+      {
+        "date": "2023/04/03",
+        "begin_time": "21:00",
+        "end_time": "22:00",
+        "studio": "池袋",
+        "room": "R-6"
+      },
+      {
+        "date": "2023/05/01",
+        "begin_time": "21:00",
+        "end_time": "22:00",
+        "studio": "池袋",
+        "room": "R-6"
+      },
+      {
+        "date": "2023/06/05",
+        "begin_time": "21:00",
+        "end_time": "22:00",
+        "studio": "池袋",
+        "room": "R-6"
+      },
+      {
+        "date": "2023/07/03",
+        "begin_time": "21:00",
+        "end_time": "22:00",
+        "studio": "池袋",
+        "room": "R-6"
+      },
+      {
+        "date": "2023/08/07",
+        "begin_time": "21:00",
+        "end_time": "22:00",
+        "studio": "池袋",
+        "room": "R-6"
+      },
+      {
+        "date": "2023/09/04",
+        "begin_time": "21:00",
+        "end_time": "22:00",
+        "studio": "池袋",
+        "room": "R-6"
+      },
+      {
+        "date": "2023/10/02",
+        "begin_time": "21:00",
+        "end_time": "22:00",
+        "studio": "池袋",
+        "room": "R-6"
+      },
+      {
+        "date": "2023/11/06",
+        "begin_time": "21:00",
+        "end_time": "22:00",
+        "studio": "池袋",
+        "room": "R-6"
+      },
+      {
+        "date": "2023/12/04",
+        "begin_time": "21:00",
+        "end_time": "22:00",
+        "studio": "池袋",
+        "room": "R-6"
+      },
+      {
+        "date": "2024/01/29",
+        "begin_time": "21:00",
+        "end_time": "22:00",
+        "studio": "池袋",
+        "room": "R-6"
+      },
+      {
+        "date": "2024/02/05",
+        "begin_time": "21:00",
+        "end_time": "22:00",
+        "studio": "池袋",
+        "room": "R-6"
+      },
+      {
+        "date": "2024/03/04",
+        "begin_time": "21:00",
+        "end_time": "22:00",
+        "studio": "池袋",
+        "room": "R-6"
+      },
+      {
+        "date": "2024/04/01",
+        "begin_time": "21:00",
+        "end_time": "22:00",
+        "studio": "池袋",
+        "room": "R-6"
+      },
+      {
+        "date": "2024/05/06",
+        "begin_time": "21:00",
+        "end_time": "22:00",
+        "studio": "池袋",
+        "room": "R-6"
+      },
+      {
+        "date": "2024/06/03",
+        "begin_time": "21:00",
+        "end_time": "22:00",
+        "studio": "池袋",
+        "room": "R-6"
+      },
+      {
+        "date": "2024/07/01",
+        "begin_time": "21:00",
+        "end_time": "22:00",
+        "studio": "池袋",
+        "room": "R-6"
+      },
+      {
+        "date": "2024/08/05",
+        "begin_time": "21:00",
+        "end_time": "22:00",
+        "studio": "池袋",
+        "room": "R-6"
+      },
+      {
+        "date": "2024/09/02",
+        "begin_time": "21:00",
+        "end_time": "22:00",
+        "studio": "池袋",
+        "room": "R-6"
+      },
+      {
+        "date": "2024/10/07",
+        "begin_time": "21:00",
+        "end_time": "22:00",
+        "studio": "池袋",
+        "room": "R-6"
+      },
+      {
+        "date": "2024/11/04",
+        "begin_time": "21:00",
+        "end_time": "22:00",
+        "studio": "池袋",
+        "room": "R-6"
+      }
+    ],
+    "files": [],
+    "level": null,
+    "onkatsu_category": "ジャズ,ブルース",
+    "onkatsu_category_english": "JAZZ,BLUES",
+    "class_categories": ["JAZZ", "BLUES"],
+    "purposes": [
+      "バンド体験",
+      "セッション入門",
+      "音感アップ",
+      "リズム感強化",
+      "初めてのアドリブ",
+      "音楽バトルしようぜ！"
+    ],
+    "wanted_parts": [
+      {
+        "id": 4029,
+        "course_name": "プロヴォーカル",
+        "course_code": "Pr.Vo",
+        "course_id": "3_2",
+        "max_applicants": 1,
+        "current_applicants": 0
+      },
+      {
+        "id": 4030,
+        "course_name": "ジャズピアノ",
+        "course_code": "JPF",
+        "course_id": "25",
+        "max_applicants": 1,
+        "current_applicants": 1
+      },
+      {
+        "id": 4031,
+        "course_name": "エレキベース",
+        "course_code": "EB",
+        "course_id": "12",
+        "max_applicants": 1,
+        "current_applicants": 1
+      },
+      {
+        "id": 4032,
+        "course_name": "ジャズギター",
+        "course_code": "JGT",
+        "course_id": "15",
+        "max_applicants": 1,
+        "current_applicants": 0
+      },
+      {
+        "id": 4033,
+        "course_name": "アルトサックス",
+        "course_code": "A.Sax",
+        "course_id": "20_28",
+        "max_applicants": 1,
+        "current_applicants": 0
+      },
+      {
+        "id": 4034,
+        "course_name": "トランペット",
+        "course_code": "TP",
+        "course_id": "21",
+        "max_applicants": 1,
+        "current_applicants": 0
+      }
+    ],
+    "set_pieces": [],
+    "tags": [
+      {
+        "id": 166,
+        "name": "注目の音活"
+      }
+    ],
+    "service_id": 3,
+    "service_name": "EYS音楽教室",
+    "share_service_id": null,
+    "share_service_name": null,
+    "service": "EYS音楽教室",
+    "course_name": "音活コミット",
+    "chat_data": [],
+    "chat_room_data": {
+      "id": 76649,
+      "avatars": [
+        {
+          "id": 554839,
+          "member_id": 129707,
+          "name": "紺野智之",
+          "avatar_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/101247/bustup_ubZK-nu-Fkq6RFRfMY6hkg.jpg",
+          "welcome": false
+        },
+        {
+          "id": 555774,
+          "member_id": 127722,
+          "name": "青木真奈緒",
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+          "welcome": false
+        },
+        {
+          "id": 555775,
+          "member_id": 148946,
+          "name": "甲斐武史",
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/man-bust-up-pc.png",
+          "welcome": false
+        },
+        {
+          "id": 555776,
+          "member_id": 165283,
+          "name": "嶋田律子",
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+          "welcome": false
+        }
+      ],
+      "first_member_name": "紺野智之",
+      "total_comment": 0
+    },
+    "join_members": [
+      {
+        "id": 129707,
+        "avatar_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/101247/bustup_ubZK-nu-Fkq6RFRfMY6hkg.jpg",
+        "name": "紺野智之",
+        "welcome": false
+      },
+      {
+        "id": 165283,
+        "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+        "name": "嶋田律子",
+        "welcome": false
+      },
+      {
+        "id": 148946,
+        "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/man-bust-up-pc.png",
+        "name": "甲斐武史",
+        "welcome": false
+      }
+    ],
+    "chat_total_comment": 0,
+    "halfway_joinable": true,
+    "join_price": 6500
+  }
+]

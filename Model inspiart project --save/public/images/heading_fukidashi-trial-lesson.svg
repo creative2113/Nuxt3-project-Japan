@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="232.946" height="103.826" viewBox="0 0 232.946 103.826">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="0.853" x2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a9e"/>
+      <stop offset="1" stop-color="#fe88bb"/>
+    </linearGradient>
+  </defs>
+  <g id="fukidashi" transform="translate(-14.833 -42.305)">
+    <path id="Union_20" data-name="Union 20" d="M352.534,11329H266.745a20,20,0,0,1-20-20v-50a20,20,0,0,1,20-20H459.7a20,20,0,0,1,20,20v50a20,20,0,0,1-20,20H376.118l-11.24,13.826Z" transform="translate(-231.914 -11196.695)" fill="url(#linear-gradient)"/>
+    <text id="まずは_無料体験レッスン_" data-name="まずは
+無料体験レッスン！" transform="translate(133.632 78.376)" fill="#fff" font-size="18" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-27" y="0">まずは</tspan><tspan x="-81" y="30">無料体験レッスン！</tspan></text>
+  </g>
+</svg>

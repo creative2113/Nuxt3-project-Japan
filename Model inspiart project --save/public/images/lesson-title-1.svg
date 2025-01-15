@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="199.999" height="72.802" viewBox="0 0 199.999 72.802">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="0.5" x2="0" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a9e"/>
+      <stop offset="1" stop-color="#fe88bb"/>
+    </linearGradient>
+  </defs>
+  <g id="label" transform="translate(-89 -1542.198)">
+    <path id="Union_23" data-name="Union 23" d="M15,12473a15,15,0,0,1,0-30H89.514l5.916-34.1-10.781,3.575,1.083-6.3,16.876-5.977h1.055l-7.237,42.8H185a15,15,0,0,1,0,30Z" transform="translate(89 -10858)" fill="url(#linear-gradient)"/>
+    <text id="SNSキャンパス" transform="translate(188 1605)" fill="#fff" font-size="14" font-family="HiraKakuPro-W6, Hiragino Kaku Gothic Pro" letter-spacing="0.1em"><tspan x="-55.097" y="0">SNSキャンパス</tspan></text>
+  </g>
+</svg>

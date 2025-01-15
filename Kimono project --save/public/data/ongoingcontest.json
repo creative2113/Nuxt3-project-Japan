@@ -1,0 +1,207 @@
+{
+  "title": "夏の着物でお出かけ",
+  "from": "2024-08-01",
+  "to": "2024-08-31",
+  "prizes": [
+    {
+      "ranking": 1,
+      "title": "GrandPrix",
+      "image": "/images/contest-prize-img-1.webp"
+    },
+    {
+      "ranking": 2,
+      "title": "Second",
+      "image": "/images/contest-prize-img-2.webp"
+    },
+    {
+      "ranking": 3,
+      "title": "Third",
+      "image": "/images/contest-prize-img-3.webp"
+    },
+    {
+      "ranking": 0,
+      "title": "For All",
+      "image": "/images/contest-prize-img-4.webp"
+    }
+  ],
+  "socials": [
+    {
+      "title": "TIKTOK",
+      "icon": "/images/tiktok-icon.svg",
+      "line_icon": "/images/tiktok-icon.svg",
+      "tiems": 1.2
+    },
+    {
+      "title": "INSTAGRAM",
+      "icon": "/images/instagram-icon.webp",
+      "line_icon": "/images/instagram-grey-line.svg",
+      "tiems": 1.4
+    },
+    {
+      "title": "YOUTUBE",
+      "icon": "/images/youtube-icon.svg",
+      "line_icon": "/images/youtube-grey-line.svg",
+      "tiems": 1.2
+    },
+    {
+      "title": "FACEBOOK",
+      "icon": "/images/facebook-icon.webp",
+      "line_icon": "/images/facebook-grey-line.svg",
+      "tiems": 1.0
+    },
+    {
+      "title": "X",
+      "icon": "/images/x-icon.webp",
+      "line_icon": "/images/x-grey-line.svg",
+      "tiems": 1.0
+    }
+  ],
+  "rules": [
+    "ご自身または家族のアカウントでも参加していただけます。",
+    "投稿の際はアカウントを公開設定にしてください。",
+    "当選者の方には、ON-girlのInstagramアカウントから、DMでご連絡させていただきます。",
+    "本キャンペーンの内容/賞品/期間は予告なく変更になる場合がありますのでご了承ください。",
+    "音ガール及びEYS-STYLEの関係者は抽選対象にはなりません。",
+    "応募にあたり年齢制限はございませんが、未成年の応募については保護者の同意が必要となります。",
+    "本キャンペーン、およびその他キャンペーンに参加するためだけに作成されたとみなされるアカウントによる応募は無効とさせていただきます。",
+    "当選のご連絡は2019年◯月◯日(◯) -◯日(◯)を予定しております。<br>当選者様と連絡がつかない場合、当選権利が消失することがあります。当選賞品は選ぶことができません。当選連絡後に受け取りの可否を確認させていただきます。",
+    "賞品や当選に関するお問い合わせにはお答えできません。",
+    "本賞のお届けは2019年◯月中を予定しております。当選権利の譲渡、換金はできません。",
+    "賞品をオークション等で転売することは禁止します。転売行為が発覚した場合、当選取消となり、賞品に関する費用をご負担いただく場合があります。",
+    "賞品のお届け先は、日本国内に限ります。離島含む一部地域へのお届けは時間がかかる、もしくはお届けできない場合がございます。",
+    "日本語でコミュニケーションがとれることを応募の条件とします。",
+    "本キャンペーンサイトに使用されている画像を、キャンペーン参加の目的以外で使用することを禁止します。画像の無断転載・転用はお断りします。",
+    "キャンペーンに参加した時点で、規約に同意したものとみなします。<br><br>個人情報保護方針について<br>EYS-STYLE 個人情報保護方針",
+    "賞品を廃棄する際は、各自治体の定める条例に従い適正に処理ください。廃棄物処理に起因するトラブルに関して音ガール及びEYS-STYLEは一切の責任を負いかねます。"
+  ],
+  "entries": [
+    {
+      "points": 108,
+      "photo": "/images/contest-photo-6-compressed.webp",
+      "avatar": "/images/contest-ranking-user-1.webp",
+      "name": "accountname",
+      "sns": "instagram",
+      "sns_icon": "/images/instagram-icon.webp"
+    },
+    {
+      "points": 90,
+      "photo": "/images/contest-photo-7-compressed.webp",
+      "avatar": "/images/contest-ranking-user-1.webp",
+      "name": "accountname",
+      "sns": "facebook",
+      "sns_icon": "/images/facebook-icon.webp"
+    },
+    {
+      "points": 88,
+      "photo": "/images/contest-photo-1-compressed.webp",
+      "avatar": "/images/contest-ranking-user-1.webp",
+      "name": "accountname",
+      "sns": "x",
+      "sns_icon": "/images/x-icon.webp"
+    },
+    {
+      "points": 76,
+      "photo": "/images/contest-photo-11-compressed.webp",
+      "avatar": "/images/contest-ranking-user-1.webp",
+      "name": "accountname",
+      "sns": "instagram",
+      "sns_icon": "/images/instagram-icon.webp"
+    },
+    {
+      "points": 65,
+      "photo": "/images/contest-photo-2-compressed.webp",
+      "avatar": "/images/contest-ranking-user-1.webp",
+      "name": "accountname",
+      "sns": "facebook",
+      "sns_icon": "/images/facebook-icon.webp"
+    },
+    {
+      "points": 63,
+      "photo": "/images/contest-photo-7-compressed.webp",
+      "avatar": "/images/contest-ranking-user-1.webp",
+      "name": "accountname",
+      "sns": "x",
+      "sns_icon": "/images/x-icon.webp"
+    },
+    {
+      "points": 60,
+      "photo": "/images/contest-photo-5-compressed.webp",
+      "avatar": "/images/contest-ranking-user-1.webp",
+      "name": "accountname",
+      "sns": "instagram",
+      "sns_icon": "/images/instagram-icon.webp"
+    },
+    {
+      "points": 58,
+      "photo": "/images/contest-photo-5-compressed.webp",
+      "avatar": "/images/contest-ranking-user-1.webp",
+      "name": "accountname",
+      "sns": "facebook",
+      "sns_icon": "/images/facebook-icon.webp"
+    },
+    {
+      "points": 49,
+      "photo": "/images/contest-photo-13-compressed.webp",
+      "avatar": "/images/contest-ranking-user-1.webp",
+      "name": "accountname",
+      "sns": "x",
+      "sns_icon": "/images/x-icon.webp"
+    },
+    {
+      "points": 108,
+      "photo": "/images/contest-photo-6-compressed.webp",
+      "avatar": "/images/contest-ranking-user-1.webp",
+      "name": "accountname",
+      "sns": "instagram",
+      "sns_icon": "/images/instagram-icon.webp"
+    },
+    {
+      "points": 108,
+      "photo": "/images/contest-photo-6-compressed.webp",
+      "avatar": "/images/contest-ranking-user-1.webp",
+      "name": "accountname",
+      "sns": "instagram",
+      "sns_icon": "/images/instagram-icon.webp"
+    },
+    {
+      "points": 108,
+      "photo": "/images/contest-photo-6-compressed.webp",
+      "avatar": "/images/contest-ranking-user-1.webp",
+      "name": "accountname",
+      "sns": "instagram",
+      "sns_icon": "/images/instagram-icon.webp"
+    },
+    {
+      "points": 108,
+      "photo": "/images/contest-photo-6-compressed.webp",
+      "avatar": "/images/contest-ranking-user-1.webp",
+      "name": "accountname",
+      "sns": "instagram",
+      "sns_icon": "/images/instagram-icon.webp"
+    },
+    {
+      "points": 108,
+      "photo": "/images/contest-photo-6-compressed.webp",
+      "avatar": "/images/contest-ranking-user-1.webp",
+      "name": "accountname",
+      "sns": "instagram",
+      "sns_icon": "/images/instagram-icon.webp"
+    },
+    {
+      "points": 108,
+      "photo": "/images/contest-photo-6-compressed.webp",
+      "avatar": "/images/contest-ranking-user-1.webp",
+      "name": "accountname",
+      "sns": "instagram",
+      "sns_icon": "/images/instagram-icon.webp"
+    },
+    {
+      "points": 108,
+      "photo": "/images/contest-photo-6-compressed.webp",
+      "avatar": "/images/contest-ranking-user-1.webp",
+      "name": "accountname",
+      "sns": "instagram",
+      "sns_icon": "/images/instagram-icon.webp"
+    }
+  ]
+}

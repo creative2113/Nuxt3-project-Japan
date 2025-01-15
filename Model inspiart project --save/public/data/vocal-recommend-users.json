@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "title": "本気のレッスン！",
+    "sub_title": "あなたを最速でプロレベルの技術に",
+    "image": "/images/vocal-page-recommend-1.webp",
+    "color": "#86DC77"
+  },
+  {
+    "id": 2,
+    "title": "ステージレッスンという仕掛け",
+    "sub_title": "オーディションとレッスンの真ん中でファン創り",
+    "image": "/images/vocal-page-recommend-2.webp",
+    "color": "#55CCAA"
+  },
+  {
+    "id": 3,
+    "title": "月会費9,800円 圧倒的に安い",
+    "sub_title": "アーティストの夢を実現するために安さは重要",
+    "image": "/images/vocal-page-recommend-3.webp",
+    "color": "#66DDDD"
+  },
+  {
+    "id": 4,
+    "title": "デビューまで徹底サポート",
+    "sub_title": "担当プロデューサーが伴走します！",
+    "desc": "オリジナル曲・レコーディング<br>・写真、動画撮影までサポート",
+    "image": "/images/vocal-page-recommend-4.webp",
+    "color": "#77BBDD"
+  },
+  {
+    "id": 5,
+    "title": "オーディションサポート",
+    "sub_title": "マネージャーが手厚くサポート！",
+    "desc": "オーディションにレコード会<br>社・芸能事務所が集まります",
+    "image": "/images/vocal-page-recommend-5.webp",
+    "color": "#6788DD"
+  },
+  {
+    "id": 6,
+    "title": "未経験者大歓迎",
+    "sub_title": "レッスン生からスタートできます",
+    "desc": "チャレンジする姿がファン<br>を創ります。",
+    "image": "/images/vocal-page-recommend-6.webp",
+    "color": "#AA99EE"
+  },
+  {
+    "id": 7,
+    "title": "全国津々浦々までカバー",
+    "sub_title": "ONLINE保証もあります！",
+    "desc": "全国31のスタジオ、ONLINE<br>は最先端技術でバックアップ",
+    "image": "/images/vocal-page-recommend-7.webp",
+    "color": "#FC88BB"
+  },
+  {
+    "id": 8,
+    "title": "オプション講座が充実",
+    "sub_title": "様々なスキルを強化！",
+    "desc": "ピアノ・ギター・ドラムなど<br>豊富なオプション講座も！",
+    "image": "/images/vocal-page-recommend-8.webp",
+    "color": "#FC5555"
+  },
+  {
+    "id": 9,
+    "title": "プロモーションサービス",
+    "sub_title": "グッズ販売やファンクラブを見据え",
+    "desc": "CD、ミュージックビデオ、<br>ライブをトータルサポート",
+    "image": "/images/vocal-page-recommend-9.webp",
+    "color": "#FDBB66"
+  }
+]

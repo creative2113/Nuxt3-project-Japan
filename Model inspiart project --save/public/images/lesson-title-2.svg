@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="199.999" height="73.247" viewBox="0 0 199.999 73.247">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.752" x2="1" y2="0.787" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f8b"/>
+      <stop offset="1" stop-color="#f55"/>
+    </linearGradient>
+  </defs>
+  <g id="label" transform="translate(-89 -1541.753)">
+    <path id="Union_23" data-name="Union 23" d="M15,12473a15,15,0,0,1,0-30H77.97l.82-5.184,17.724-17.022q4.954-4.831,5.45-8.759a6.284,6.284,0,0,0-.936-4.646,4.805,4.805,0,0,0-3.957-1.975,7.173,7.173,0,0,0-5.478,2.034,9.541,9.541,0,0,0-2.7,5.873l-6.915.031a14.447,14.447,0,0,1,2.388-7.062,14.269,14.269,0,0,1,5.566-4.877,15.739,15.739,0,0,1,7.516-1.656q5.564.119,8.8,3.225a9.911,9.911,0,0,1,2.858,8.32q-.5,5.978-7.178,12.625l-1.816,1.787-12.337,11.6H106.74l-.908,5.682H185a15,15,0,0,1,0,30Z" transform="translate(89 -10858)" fill="url(#linear-gradient)"/>
+    <text id="ユニットプログラム" transform="translate(188 1605)" fill="#fff" font-size="14" font-family="HiraKakuPro-W6, Hiragino Kaku Gothic Pro" letter-spacing="0.1em"><tspan x="-67.76" y="0">ユニットプログラム</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,89 @@
+:root {
+  --text-main: #454545;
+  --text-black: #222222;
+  --text-pink: #D87E80;
+}
+
+html {
+  font-size: 16px;
+  width: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+@font-face {
+  font-family: "HiraginoMin";
+  src: url("https://db.onlinewebfonts.com/t/bea966241a46ab5d2866e39dcf447953.eot");
+  src: url("https://db.onlinewebfonts.com/t/bea966241a46ab5d2866e39dcf447953.eot?#iefix")format("embedded-opentype"),
+  url("https://db.onlinewebfonts.com/t/bea966241a46ab5d2866e39dcf447953.woff2")format("woff2"),
+  url("https://db.onlinewebfonts.com/t/bea966241a46ab5d2866e39dcf447953.woff")format("woff"),
+  url("https://db.onlinewebfonts.com/t/bea966241a46ab5d2866e39dcf447953.ttf")format("truetype"),
+  url("https://db.onlinewebfonts.com/t/bea966241a46ab5d2866e39dcf447953.svg#HiraginoMin")format("svg");
+  font-display: swap;
+}
+
+.hiragino-mp {
+  font-family: 'HiraginoMin', sans-serif;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("https://db.onlinewebfonts.com/t/0033a2fbc0329740fb86c1cfd134cb94.eot");
+  src: url("https://db.onlinewebfonts.com/t/0033a2fbc0329740fb86c1cfd134cb94.eot?#iefix")format("embedded-opentype"),
+  url("https://db.onlinewebfonts.com/t/0033a2fbc0329740fb86c1cfd134cb94.woff2")format("woff2"),
+  url("https://db.onlinewebfonts.com/t/0033a2fbc0329740fb86c1cfd134cb94.woff")format("woff"),
+  url("https://db.onlinewebfonts.com/t/0033a2fbc0329740fb86c1cfd134cb94.ttf")format("truetype"),
+  url("https://db.onlinewebfonts.com/t/0033a2fbc0329740fb86c1cfd134cb94.svg#Roboto")format("svg");
+  font-display: swap;
+}
+.roboto {
+  font-family: 'Roboto', sans-serif;
+}
+
+@font-face {
+  font-family: 'Mamelon';
+  src: url('/font/Mamelon-5-Hi-Regular.woff2') format('woff2');
+  font-display: swap;
+}
+
+.mamelon {
+  font-family: 'Mamelon', sans-serif;
+}
+
+@font-face {
+  font-family: "Futura PT Web Medium";
+  src: url("https://db.onlinewebfonts.com/t/80bc6c178d59e2d511f94ca222fc1624.eot");
+  src: url("https://db.onlinewebfonts.com/t/80bc6c178d59e2d511f94ca222fc1624.eot?#iefix")format("embedded-opentype"),
+  url("https://db.onlinewebfonts.com/t/80bc6c178d59e2d511f94ca222fc1624.woff2")format("woff2"),
+  url("https://db.onlinewebfonts.com/t/80bc6c178d59e2d511f94ca222fc1624.woff")format("woff"),
+  url("https://db.onlinewebfonts.com/t/80bc6c178d59e2d511f94ca222fc1624.ttf")format("truetype"),
+  url("https://db.onlinewebfonts.com/t/80bc6c178d59e2d511f94ca222fc1624.svg#Futura PT Web Medium")format("svg");
+  font-display: swap;
+}
+
+.futura-pt {
+  font-family: "Futura PT Web Medium", sans-serif;
+}
+
+@font-face {
+  font-family: "Gallatone";
+  src: url("https://db.onlinewebfonts.com/t/2361ed8d7d10238ee38b080b96548903.eot");
+  src: url("https://db.onlinewebfonts.com/t/2361ed8d7d10238ee38b080b96548903.eot?#iefix")format("embedded-opentype"),
+  url("https://db.onlinewebfonts.com/t/2361ed8d7d10238ee38b080b96548903.woff2")format("woff2"),
+  url("https://db.onlinewebfonts.com/t/2361ed8d7d10238ee38b080b96548903.woff")format("woff"),
+  url("https://db.onlinewebfonts.com/t/2361ed8d7d10238ee38b080b96548903.ttf")format("truetype"),
+  url("https://db.onlinewebfonts.com/t/2361ed8d7d10238ee38b080b96548903.svg#Gallatone")format("svg");
+  font-display: swap;
+}
+
+.gallatone {
+  font-family: 'Gallatone', sans-serif;
+}
+
+body {
+  background-color: #F1F1F1;
+  color: #454545;
+  width: 100%;
+  overflow: hidden;
+  font-weight: bold;
+}

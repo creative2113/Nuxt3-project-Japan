@@ -1,0 +1,190 @@
+[
+  [
+    {
+      "id": 1,
+      "role": "Present",
+      "title": "ギター無料プレゼント♪",
+      "image": "/images/guitar-page-recommend-1.webp",
+      "color": "#FB88B4"
+    },
+    {
+      "id": 2,
+      "role": "Possibility",
+      "title": "未経験こそ可能性",
+      "image": "/images/guitar-page-recommend-2.webp",
+      "color": "#88DDFF"
+    },
+    {
+      "id": 3,
+      "role": "Lesson",
+      "title": "もちろん本気のレッスンもできます",
+      "image": "/images/guitar-page-recommend-3.webp",
+      "color": "#AA99EE"
+    },
+    {
+      "id": 4,
+      "title": "ステージレッスンが<br>あるのはInspiartだけ",
+      "image": "/images/guitar-page-recommend-4.webp",
+      "color": "#88DD77"
+    },
+    {
+      "id": 5,
+      "title": "圧倒的に安い月会費、<br>通い方も自由自在",
+      "image": "/images/guitar-page-recommend-5.webp",
+      "color": "#FF88BB"
+    },
+    {
+      "id": 6,
+      "title": "プロデビューの夢、<br>叶えます",
+      "image": "/images/guitar-page-recommend-6.webp",
+      "color": "#66DDDD"
+    },
+    {
+      "id": 7,
+      "title": "スタジオ＆オンラインで<br>全国津々浦々までカバー",
+      "image": "/images/guitar-page-recommend-7.webp",
+      "color": "#55CCAA"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "role": "Present",
+      "title": "ギター無料プレゼント♪",
+      "image": "/images/bass-page-recommend-1.webp",
+      "color": "#FB88B4"
+    },
+    {
+      "id": 2,
+      "role": "Possibility",
+      "title": "未経験こそ可能性",
+      "image": "/images/bass-page-recommend-2.webp",
+      "color": "#88DDFF"
+    },
+    {
+      "id": 3,
+      "role": "Lesson",
+      "title": "もちろん本気のレッスンもできます",
+      "image": "/images/bass-page-recommend-3.webp",
+      "color": "#AA99EE"
+    },
+    {
+      "id": 4,
+      "title": "ステージレッスンが<br>あるのはInspiartだけ",
+      "image": "/images/guitar-page-recommend-4.webp",
+      "color": "#88DD77"
+    },
+    {
+      "id": 5,
+      "title": "圧倒的に安い月会費、<br>通い方も自由自在",
+      "image": "/images/guitar-page-recommend-5.webp",
+      "color": "#FF88BB"
+    },
+    {
+      "id": 6,
+      "title": "プロデビューの夢、<br>叶えます",
+      "image": "/images/guitar-page-recommend-6.webp",
+      "color": "#66DDDD"
+    },
+    {
+      "id": 7,
+      "title": "スタジオ＆オンラインで<br>全国津々浦々までカバー",
+      "image": "/images/guitar-page-recommend-7.webp",
+      "color": "#55CCAA"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "role": "Present",
+      "title": "ギター無料プレゼント♪",
+      "image": "/images/drum-page-recommend-1.webp",
+      "color": "#FB88B4"
+    },
+    {
+      "id": 2,
+      "role": "Possibility",
+      "title": "未経験こそ可能性",
+      "image": "/images/drum-page-recommend-2.webp",
+      "color": "#88DDFF"
+    },
+    {
+      "id": 3,
+      "role": "Lesson",
+      "title": "もちろん本気のレッスンもできます",
+      "image": "/images/drum-page-recommend-3.webp",
+      "color": "#AA99EE"
+    },
+    {
+      "id": 4,
+      "title": "ステージレッスンが<br>あるのはInspiartだけ",
+      "image": "/images/drum-page-recommend-4.webp",
+      "color": "#88DD77"
+    },
+    {
+      "id": 5,
+      "title": "圧倒的に安い月会費、<br>通い方も自由自在",
+      "image": "/images/drum-page-recommend-5.webp",
+      "color": "#FF88BB"
+    },
+    {
+      "id": 6,
+      "title": "プロデビューの夢、<br>叶えます",
+      "image": "/images/drum-page-recommend-6.webp",
+      "color": "#66DDDD"
+    },
+    {
+      "id": 7,
+      "title": "スタジオ＆オンラインで<br>全国津々浦々までカバー",
+      "image": "/images/drum-page-recommend-7.webp",
+      "color": "#55CCAA"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "role": "Genre",
+      "title": "９ジャンルで一人一人向き合うレッスン",
+      "image": "/images/dance-recommend-user-1.webp",
+      "color": "#FB88B4"
+    },
+    {
+      "id": 2,
+      "role": "Possibility",
+      "title": "未経験こそ可能性",
+      "image": "/images/dance-recommend-user-2.webp",
+      "color": "#88DDFF"
+    },
+    {
+      "id": 3,
+      "role": "Lesson",
+      "title": "もちろん本気のレッスンもできます",
+      "image": "/images/dance-recommend-user-3.webp",
+      "color": "#AA99EE"
+    },
+    {
+      "id": 4,
+      "title": "SNS配信を<br>MAXサポート",
+      "image": "/images/dance-recommend-user-4.webp",
+      "color": "#88DD77"
+    },
+    {
+      "id": 5,
+      "title": "圧倒的に安い月会費、<br>通い方も自由自在",
+      "image": "/images/dance-recommend-user-5.webp",
+      "color": "#FF88BB"
+    },
+    {
+      "id": 6,
+      "title": "プロデビューの夢、<br>叶えます",
+      "image": "/images/dance-recommend-user-6.webp",
+      "color": "#66DDDD"
+    },
+    {
+      "id": 7,
+      "title": "スタジオ＆オンラインで<br>全国津々浦々までカバー",
+      "image": "/images/dance-recommend-user-7.webp",
+      "color": "#55CCAA"
+    }
+  ]
+]

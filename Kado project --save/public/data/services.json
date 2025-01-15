@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "logo": "/images/logo-school.svg",
+    "logo_width": 80,
+    "logo_height": 25,
+    "title": "EYS音楽教室"
+  },
+  {
+    "id": 2,
+    "logo": "/images/logo_InspiartZ.svg",
+    "logo_width": 100,
+    "logo_height": 22,
+    "title": "Z世代向け芸術教室"
+  },
+  {
+    "id": 3,
+    "logo": "/images/logo_kids_music.svg",
+    "logo_width": 82,
+    "logo_height": 35,
+    "title": "子供向け音楽教室"
+  },
+  {
+    "id": 4,
+    "logo": "/images/logo_dance.svg",
+    "logo_width": 111,
+    "logo_height": 25,
+    "title": "子供向けダンス教室"
+  },
+  {
+    "id": 5,
+    "logo": "/images/logo_ballet.svg",
+    "logo_width": 72,
+    "logo_height": 30,
+    "title": "子供向けバレエ教室"
+  },
+  {
+    "id": 6,
+    "logo": "/images/logo_eys-kids.svg",
+    "logo_width": 90,
+    "logo_height": 25,
+    "title": "子供向け芸術教室"
+  },
+  {
+    "id": 7,
+    "logo": "/images/logo_egaq.svg",
+    "logo_width": 76,
+    "logo_height": 25,
+    "title": "子供向け英語教室"
+  }
+]

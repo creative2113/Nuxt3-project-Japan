@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="343" height="343" viewBox="0 0 343 343">
+  <defs>
+    <filter id="_80" x="89.155" y="204.068" width="65" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_" x="148.82" y="227.218" width="32" height="44" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_20" x="185.869" y="68.613" width="65" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_2" x="245.534" y="91.763" width="32" height="44" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="chart" transform="translate(1.5 1.5)">
+    <g id="Group_195126" data-name="Group 195126" transform="translate(0 0)">
+      <path id="Path_232838" data-name="Path 232838" d="M3.394,170l161.679-52.532C141.862,46.033,78.5,0,3.394,0Z" transform="translate(166.606 0)" fill="#f9b" stroke="#eeeeef" stroke-width="1"/>
+      <path id="Path_232839" data-name="Path 232839" d="M170,170V0A170,170,0,1,0,340,170a161.587,161.587,0,0,0-8.321-52.532Z" fill="#aaf" stroke="#eeeeef" stroke-width="3"/>
+    </g>
+    <text id="経験者" transform="translate(225.347 78.434)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="16" font-family="YuGothicUI-Regular, Yu Gothic UI" letter-spacing="0.1em"><tspan x="-25.6" y="0">経験者</tspan></text>
+    <text id="初心者" transform="translate(125.349 216.125)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="16" font-family="YuGothicUI-Regular, Yu Gothic UI" letter-spacing="0.1em"><tspan x="-25.6" y="0">初心者</tspan></text>
+    <g id="figure-group" transform="translate(91.655 206.568)">
+      <g transform="matrix(1, 0, 0, 1, -93.16, -208.07)" filter="url(#_80)">
+        <text id="_80-2" data-name="80" transform="translate(150.16 261.07)" fill="#fff" font-size="51" font-family="SegoeUI-BoldItalic, Segoe UI" font-weight="700" font-style="italic"><tspan x="-58.77" y="0">80</tspan></text>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -93.16, -208.07)" filter="url(#_)">
+        <text id="_3" data-name="%" transform="translate(163.82 260.22)" fill="#fff" font-size="29" font-family="SegoeUI-BoldItalic, Segoe UI" font-weight="700" font-style="italic"><tspan x="-12.588" y="0">%</tspan></text>
+      </g>
+    </g>
+    <g id="figure-group-2" data-name="figure-group" transform="translate(188.369 71.113)">
+      <g transform="matrix(1, 0, 0, 1, -189.87, -72.61)" filter="url(#_20)">
+        <text id="_20-2" data-name="20" transform="translate(246.87 125.61)" fill="#fff" font-size="51" font-family="SegoeUI-BoldItalic, Segoe UI" font-weight="700" font-style="italic"><tspan x="-58.77" y="0">20</tspan></text>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -189.87, -72.61)" filter="url(#_2)">
+        <text id="_4" data-name="%" transform="translate(260.53 124.76)" fill="#fff" font-size="29" font-family="SegoeUI-BoldItalic, Segoe UI" font-weight="700" font-style="italic"><tspan x="-12.588" y="0">%</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

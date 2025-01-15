@@ -1,0 +1,86 @@
+[
+  {
+    "id": 0,
+    "title": "レコーディング<br>で音源を<br>作りましょう",
+    "title_bg": "/images/support-item-title-1.svg",
+    "desc": "最近、デビューのためにCDを作ることはありません。まず、Tunecore、YouTubeに投稿です。そのためのレコーディングサービスをお手伝いします。",
+    "color": "#77BBDD",
+    "subs": [
+      {
+        "title": "無料でスタジオを利用可能",
+        "image": "/images/support-item-image-11.webp",
+        "desc": "まずは、入会特典のレコーディング無料チケットを利用して、音源を作りましょう。"
+      },
+      {
+        "title": "学割で何度も利用可能",
+        "image": "/images/support-item-image-12.webp",
+        "desc": "1回本格的なスタジオレコーディングを経験すると、“やみつき”になります。<br>Inspiartのレッスン生/所属アーティストは学割で何度も利用が可能です。"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "ユビフェス<br>Spotlightで<br>動画作品作り",
+    "title_bg": "/images/support-item-title-2.svg",
+    "desc": "今や、アーティストにとってYoutube/Tiktokを利用した拡散は不可欠。Inspiartでは、所属アーティスト/レッスン生のミュージックプロモーション動画の撮影会を年間2回開催しています。",
+    "banner": "/images/support-item-banner-2.webp",
+    "color": "#55CCAA",
+    "subs": [
+      {
+        "title": "ハイレベルな撮影チーム",
+        "image": "/images/support-item-image-21.webp",
+        "desc": "当日は完璧な音響・照明のもと、プロカメラマンによる撮影で映像化します。"
+      },
+      {
+        "title": "バッグバンドは最高峰のミュージシャン",
+        "image": "/images/support-item-image-22.webp",
+        "desc": "駆け出しの所属アーティスト/レッスン生にとっては、最前線のスタジオミュージシャンとコラボして演奏と撮影をする形になります。<br>彼らの力をかりて、スタート地点に過ぎない自分のブランドを高めることができます。"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "オリジナル曲の<br>制作を<br>しましょう",
+    "title_bg": "/images/support-item-title-3.svg",
+    "desc": "オリジナル曲なら、すぐにYouTubeなどで発信もできて有利だが、なかなか自己完結は難しい。",
+    "banner": "/images/support-item-banner-3.webp",
+    "special_svg": "/images/support-item-special-3.svg",
+    "color": "#6688DD",
+    "subs": [
+      {
+        "title": "作詞・作曲の専門講座を用意",
+        "image": "/images/support-item-image-31.webp",
+        "desc": "オプションレッスンにて、作詞・作曲講座を受講し、経験豊かなクリエイターから学べます。"
+      },
+      {
+        "title": "いっそのこと外注も可能",
+        "image": "/images/support-item-image-32.webp",
+        "desc": "経験も実績も豊富なクリエイターがオリジナル曲の制作を請け負います。"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "ミュージック<br>ビデオ、CD、<br>ライブをトー<br>タルサポート",
+    "title_bg": "/images/support-item-title-4.svg",
+    "desc": "最近、デビューのためにCDを作ることはありません。まず、Tunecore、YouTubeに投稿です。<br>そのためのレコーディングサービスをお手伝いします。",
+    "color": "#FF5555",
+    "subs": [
+      {
+        "title": "CD/DVD制作",
+        "image": "/images/support-item-image-41.webp",
+        "desc": "本格的なCDやDVDから、デモ用のCD-Rまで、ご予算に合わせて制作可能です。"
+      },
+      {
+        "title": "音楽配信",
+        "image": "/images/support-item-image-42.webp",
+        "desc": "TuneCoreへの配信を通じて、iTunes・Amazonなど、主要ストリーミングを全世界でカバーします。"
+      },
+      {
+        "title": "販促物・グッズ",
+        "image": "/images/support-item-image-43.webp",
+        "desc": "チラシ・ポスターの販促物、Tシャツ・タオル・ステッカー・トートバックなどのグッズのデザイン/製作を一手にお引き受けします。"
+      }
+    ]
+  }
+]

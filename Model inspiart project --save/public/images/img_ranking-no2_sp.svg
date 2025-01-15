@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="40" viewBox="0 0 160 40">
+  <g id="Group_192985" data-name="Group 192985" transform="translate(-105.035 -2611)">
+    <rect id="Rectangle_107401" data-name="Rectangle 107401" width="160" height="32" transform="translate(105.035 2617)" fill="#5ca" opacity="0.396"/>
+    <rect id="Rectangle_107402" data-name="Rectangle 107402" width="160" height="24" transform="translate(105.035 2621)" fill="#5ca"/>
+    <g id="Group_192983" data-name="Group 192983" transform="translate(129.014 2617)">
+      <text id="第_位" data-name="第　 位" transform="translate(57.021 21)" fill="#fff" font-size="14" font-family="HiraKakuStd-W6, Hiragino Kaku Gothic Std"><tspan x="-23.331" y="0">第　 位</tspan></text>
+      <text id="_2" data-name="2" transform="translate(57.021 26)" fill="#fff" font-size="30" font-family="SegoeUI-Italic, Segoe UI" font-style="italic"><tspan x="-8.086" y="0">2</tspan></text>
+    </g>
+  </g>
+</svg>

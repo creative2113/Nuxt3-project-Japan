@@ -1,0 +1,53 @@
+[
+  {
+    "date": "11.16",
+    "day": "Fri",
+    "status": "申込受付中",
+    "seats": "残席わずか：2席",
+    "thumbnail": "/images/group-stage-1.webp",
+    "title": "ショコラ de クラシーク",
+    "companyImage": "/images/group-stage-icon.svg",
+    "organizer": "EVNTR",
+    "label": "恋活",
+    "labelColor": "bg-[#F0679D]",
+    "fullHouse": false,
+    "school": "EYS Music School",
+    "description": "大音量と腹に響くリズムで今夜は熱く叫び倒せ！ROCKな曲しかやりません！ROCKな曲しかかけません！",
+    "price": "無料",
+    "url": "/"
+  },
+  {
+    "date": "11.16",
+    "day": "Fri",
+    "status": "申込受付中",
+    "seats": "残席わずか：2席",
+    "thumbnail": "/images/group-stage-2.webp",
+    "title": "ROCK魂",
+    "companyImage": "/images/group-stage-icon.svg",
+    "organizer": "EVNTR",
+    "label": "ユビフェス",
+    "labelColor": "bg-[#39AEDA]",
+    "fullHouse": false,
+    "school": "EYS Music School",
+    "description": "大音量と腹に響くリズムで今夜は熱く叫び倒せ！ROCKな曲しかやりません！ROCKな曲しかかけません！",
+    "price": "無料",
+    "url": "/"
+  },
+  {
+    "date": "11.16",
+    "day": "Fri",
+    "status": "申込受付中",
+    "seats": "残席わずか：2席",
+    "thumbnail": "/images/group-stage-3.webp",
+    "title": "女子限定 PARTY NIGHT",
+    "companyImage": "/images/group-stage-icon.svg",
+    "organizer": "EVNTR",
+    "label": "恋活",
+    "labelColor": "bg-[#F0679D]",
+    "fullHouse": true,
+    "school": "EYS Music School",
+    "description": "大音量と腹に響くリズムで今夜は熱く叫び倒せ！ROCKな曲しかやりません！ROCKな曲しかかけません！",
+    "price": "無料",
+    "url": "/"
+  }
+]

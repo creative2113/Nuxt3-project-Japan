@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44.885" height="40.4" viewBox="0 0 44.885 40.4">
+  <g id="icon" transform="translate(-41 -977)">
+    <g id="icon_user" transform="translate(41 991)">
+      <path id="パス_191" data-name="パス 191" d="M12,0a6.3,6.3,0,1,0,6.3,6.3h0A6.3,6.3,0,0,0,12,0Zm0,2.4a3.892,3.892,0,1,1-.016,0Zm0,12a12.035,12.035,0,0,0-12,12H2.4a9.6,9.6,0,0,1,19.2,0H24A12.016,12.016,0,0,0,12,14.4Z" fill="#fff"/>
+    </g>
+    <g id="icon_bubble" transform="translate(63 977)">
+      <path id="パス_192" data-name="パス 192" d="M11.506,0C5.114,0,0,4.475,0,10.1a9.94,9.94,0,0,0,4.219,7.927l.256,3.708a.6.6,0,0,0,1.023.511l3.068-2.3a10.476,10.476,0,0,0,2.813.256c6.392,0,11.506-4.475,11.506-10.1S17.9,0,11.506,0Z" fill="#fff"/>
+    </g>
+    <text id="_" data-name="♪" transform="translate(68 992)" fill="#8d7" font-size="13" font-family="SegoeUISymbol, Segoe UI Symbol"><tspan x="0" y="0">♪</tspan></text>
+  </g>
+</svg>

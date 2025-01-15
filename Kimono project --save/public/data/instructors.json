@@ -1,0 +1,1265 @@
+[
+  {
+    "image": "/images/instructor-ranking-1.webp",
+    "icon": "/images/instructor-icon-1.webp",
+    "name": "赤木 俊祐",
+    "rank": "/images/icon_satisfaction-rank-s.svg",
+    "mobile_photo": "/images/satisfaction-ranking-user-1.webp",
+    "satisfactionCount": {
+      "verySatisfied": 530,
+      "mostlySatisfied": 32,
+      "average": 72,
+      "slightlyDissatisfied": 2,
+      "veryDissatisfied": 1
+    },
+    "rankImageName": "ranking-no-1",
+    "profile": "香港出身、昭和音楽大学大学院卒業。6歳からピアノと二胡を始め、以来香港のコンクールを多数受賞。ピアノはDr. Mary Mei-loc Wu、尾崎有飛の各氏に、二胡は黄安源に師事し、現在は演奏活動と作曲活動を行なっている。英国王立音楽検定DipABRSM取得。中央音楽学院二胡検定9級取得。",
+    "studios": ["新宿", "WeArt銀座", "横浜", "川崎", "吉祥寺", "オンライン"],
+    "courses": ["クラシック／ポップスピアノ", "二胡"],
+    "availableDays": {
+      "monday": true,
+      "tuesday": true,
+      "wednesday": false,
+      "thursday": false,
+      "friday": true,
+      "saturday": true,
+      "sunday": true
+    },
+    "videos": [
+      "/images/welcome-instructor-video-1.webp",
+      "/images/welcome-instructor-video-2.webp",
+      "/images/welcome-instructor-video-1.webp",
+      "/images/welcome-instructor-video-2.webp"
+    ],
+    "level": {
+      "easiness": 10,
+      "beginner": 10,
+      "theory": 60
+    },
+    "philosophy": "お客様一人一人の目的、要望に合わせてレッスンをします。音楽は楽しむものだと考えています。演奏の楽しさ、自分の演奏が人に感動を与える時の喜びを感じていただけるように、全力サポートします！一緒に楽しく弾きましょう！",
+    "policies": [
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/1.svg",
+        "heading": "EYS for Beginners",
+        "description": "初心者の生徒様には、姿勢や理論よりも、直接演奏に関わる音の出し方や譜読みを先にやるようにしてます。また、EYS for Beginnersのステージに立つと誰でも緊張します。本番では、普段のレッスンでも本番と同じような雰囲気を作ります。レッスンでは、本番を想定して緊張感を持ってレッスンに臨んでいただきます。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/21.svg",
+        "heading": "アンサンブルしてみたい方へ",
+        "description": "アンサンブルは、人と合わせる時、人のパートも聞かなければなりません。譜面を追うことに集中してしまうと自分の楽器の音も聞こえなくなることもあります。レッスンでは、まず、自分の出している音をちゃんと聞くように練習します。それができましたら、周りの音も聞く余裕ができるようになります。次のステップは、正確なテンポで演奏するためのリズム感のトレーニング、合図の出し方などです。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/24.svg",
+        "heading": "伝統音楽を学んでみたい方へ",
+        "description": "音楽には様々なジャンルがありますが、楽器で演奏するのは同工異曲です。新たなジャンルを始めるとき不安もあるかと思います。しかし、楽器を演奏する基礎的な部分は変わりません。それぞれのジャンルの譜面の読み方や理解の仕方、理論が異なるだけだと気楽にとらえてもらえれば良いです。慣れるまでは、一緒にゆっくり少しずつ進めていきます。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/4.svg",
+        "heading": "ひとつ上のレベルへ進みたい方へ",
+        "description": "二胡の上手い人と下手な人の違いは、やはり音の質にあります。どれだけテクニックがあっても、音が綺麗でないと、二胡の良さが伝わりません。ひとつ上のレベルを目指すには、初心に戻って開放弦と音階を一つずつ丁寧に弾くことが大切です。何十年もやっているプロでも、常に更にいい音を求めて、日々行っているのが基礎練習です。"
+      }
+    ],
+    "reviews": [
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "評価は最高です歳を取って頭の回転も悪く、指も思う様に行えてない私ですが、的確に根気よく優しく丁寧に教えてくれます。ゆっくりですが確実に上達していると思ってます。毎回、次のレッスンが楽しみです^ ^",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "レッスンを始めて約2ヶ月、先生の丁寧なご指導により、着実に上達していることを実感しています。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "とても丁寧に教えて頂きました。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "楽しくレッスンできました。的確にわかりやすくアドバイスをしていただいています。いつもありがとうございます。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "評価は最高です歳を取って頭の回転も悪く、指も思う様に行えてない私ですが、的確に根気よく優しく丁寧に教えてくれます。ゆっくりですが確実に上達していると思ってます。毎回、次のレッスンが楽しみです^ ^",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "レッスンを始めて約2ヶ月、先生の丁寧なご指導により、着実に上達していることを実感しています。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "とても丁寧に教えて頂きました。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "楽しくレッスンできました。的確にわかりやすくアドバイスをしていただいています。いつもありがとうございます。",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "image": "/images/instructor-ranking-2.webp",
+    "icon": "/images/instructor-icon-1.webp",
+    "name": "赤木 俊祐2",
+    "rank": "/images/icon_satisfaction-rank-s.svg",
+    "mobile_photo": "/images/satisfaction-ranking-user-1.webp",
+    "satisfactionCount": {
+      "verySatisfied": 530,
+      "mostlySatisfied": 32,
+      "average": 72,
+      "slightlyDissatisfied": 2,
+      "veryDissatisfied": 1
+    },
+    "rankImageName": "ranking-no-2",
+    "profile": "香港出身、昭和音楽大学大学院卒業。6歳からピアノと二胡を始め、以来香港のコンクールを多数受賞。ピアノはDr. Mary Mei-loc Wu、尾崎有飛の各氏に、二胡は黄安源に師事し、現在は演奏活動と作曲活動を行なっている。英国王立音楽検定DipABRSM取得。中央音楽学院二胡検定9級取得。",
+    "studios": ["新宿", "WeArt銀座", "横浜", "川崎", "吉祥寺", "オンライン"],
+    "courses": ["クラシック／ポップスピアノ", "二胡"],
+    "availableDays": {
+      "monday": true,
+      "tuesday": true,
+      "wednesday": false,
+      "thursday": false,
+      "friday": true,
+      "saturday": true,
+      "sunday": true
+    },
+    "videos": [
+      "/images/welcome-instructor-video-1.webp",
+      "/images/welcome-instructor-video-2.webp",
+      "/images/welcome-instructor-video-1.webp",
+      "/images/welcome-instructor-video-2.webp"
+    ],
+    "level": {
+      "easiness": 10,
+      "beginner": 10,
+      "theory": 60
+    },
+    "philosophy": "お客様一人一人の目的、要望に合わせてレッスンをします。音楽は楽しむものだと考えています。演奏の楽しさ、自分の演奏が人に感動を与える時の喜びを感じていただけるように、全力サポートします！一緒に楽しく弾きましょう！",
+    "policies": [
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/1.svg",
+        "heading": "EYS for Beginners",
+        "description": "初心者の生徒様には、姿勢や理論よりも、直接演奏に関わる音の出し方や譜読みを先にやるようにしてます。また、EYS for Beginnersのステージに立つと誰でも緊張します。本番では、普段のレッスンでも本番と同じような雰囲気を作ります。レッスンでは、本番を想定して緊張感を持ってレッスンに臨んでいただきます。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/21.svg",
+        "heading": "アンサンブルしてみたい方へ",
+        "description": "アンサンブルは、人と合わせる時、人のパートも聞かなければなりません。譜面を追うことに集中してしまうと自分の楽器の音も聞こえなくなることもあります。レッスンでは、まず、自分の出している音をちゃんと聞くように練習します。それができましたら、周りの音も聞く余裕ができるようになります。次のステップは、正確なテンポで演奏するためのリズム感のトレーニング、合図の出し方などです。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/24.svg",
+        "heading": "伝統音楽を学んでみたい方へ",
+        "description": "音楽には様々なジャンルがありますが、楽器で演奏するのは同工異曲です。新たなジャンルを始めるとき不安もあるかと思います。しかし、楽器を演奏する基礎的な部分は変わりません。それぞれのジャンルの譜面の読み方や理解の仕方、理論が異なるだけだと気楽にとらえてもらえれば良いです。慣れるまでは、一緒にゆっくり少しずつ進めていきます。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/4.svg",
+        "heading": "ひとつ上のレベルへ進みたい方へ",
+        "description": "二胡の上手い人と下手な人の違いは、やはり音の質にあります。どれだけテクニックがあっても、音が綺麗でないと、二胡の良さが伝わりません。ひとつ上のレベルを目指すには、初心に戻って開放弦と音階を一つずつ丁寧に弾くことが大切です。何十年もやっているプロでも、常に更にいい音を求めて、日々行っているのが基礎練習です。"
+      }
+    ],
+    "reviews": [
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "評価は最高です歳を取って頭の回転も悪く、指も思う様に行えてない私ですが、的確に根気よく優しく丁寧に教えてくれます。ゆっくりですが確実に上達していると思ってます。毎回、次のレッスンが楽しみです^ ^",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "レッスンを始めて約2ヶ月、先生の丁寧なご指導により、着実に上達していることを実感しています。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "とても丁寧に教えて頂きました。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "楽しくレッスンできました。的確にわかりやすくアドバイスをしていただいています。いつもありがとうございます。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "評価は最高です歳を取って頭の回転も悪く、指も思う様に行えてない私ですが、的確に根気よく優しく丁寧に教えてくれます。ゆっくりですが確実に上達していると思ってます。毎回、次のレッスンが楽しみです^ ^",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "レッスンを始めて約2ヶ月、先生の丁寧なご指導により、着実に上達していることを実感しています。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "とても丁寧に教えて頂きました。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "楽しくレッスンできました。的確にわかりやすくアドバイスをしていただいています。いつもありがとうございます。",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "image": "/images/instructor-ranking-3.webp",
+    "icon": "/images/instructor-icon-1.webp",
+    "name": "赤木 俊祐3",
+    "rank": "/images/icon_satisfaction-rank-s.svg",
+    "mobile_photo": "/images/satisfaction-ranking-user-1.webp",
+    "satisfactionCount": {
+      "verySatisfied": 530,
+      "mostlySatisfied": 32,
+      "average": 72,
+      "slightlyDissatisfied": 2,
+      "veryDissatisfied": 1
+    },
+    "rankImageName": "ranking-no-3",
+    "profile": "香港出身、昭和音楽大学大学院卒業。6歳からピアノと二胡を始め、以来香港のコンクールを多数受賞。ピアノはDr. Mary Mei-loc Wu、尾崎有飛の各氏に、二胡は黄安源に師事し、現在は演奏活動と作曲活動を行なっている。英国王立音楽検定DipABRSM取得。中央音楽学院二胡検定9級取得。",
+    "studios": ["新宿", "WeArt銀座", "横浜", "川崎", "吉祥寺", "オンライン"],
+    "courses": ["クラシック／ポップスピアノ", "二胡"],
+    "availableDays": {
+      "monday": true,
+      "tuesday": true,
+      "wednesday": false,
+      "thursday": false,
+      "friday": true,
+      "saturday": true,
+      "sunday": true
+    },
+    "videos": [
+      "/images/welcome-instructor-video-1.webp",
+      "/images/welcome-instructor-video-2.webp",
+      "/images/welcome-instructor-video-1.webp",
+      "/images/welcome-instructor-video-2.webp"
+    ],
+    "level": {
+      "easiness": 10,
+      "beginner": 10,
+      "theory": 60
+    },
+    "philosophy": "お客様一人一人の目的、要望に合わせてレッスンをします。音楽は楽しむものだと考えています。演奏の楽しさ、自分の演奏が人に感動を与える時の喜びを感じていただけるように、全力サポートします！一緒に楽しく弾きましょう！",
+    "policies": [
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/1.svg",
+        "heading": "EYS for Beginners",
+        "description": "初心者の生徒様には、姿勢や理論よりも、直接演奏に関わる音の出し方や譜読みを先にやるようにしてます。また、EYS for Beginnersのステージに立つと誰でも緊張します。本番では、普段のレッスンでも本番と同じような雰囲気を作ります。レッスンでは、本番を想定して緊張感を持ってレッスンに臨んでいただきます。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/21.svg",
+        "heading": "アンサンブルしてみたい方へ",
+        "description": "アンサンブルは、人と合わせる時、人のパートも聞かなければなりません。譜面を追うことに集中してしまうと自分の楽器の音も聞こえなくなることもあります。レッスンでは、まず、自分の出している音をちゃんと聞くように練習します。それができましたら、周りの音も聞く余裕ができるようになります。次のステップは、正確なテンポで演奏するためのリズム感のトレーニング、合図の出し方などです。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/24.svg",
+        "heading": "伝統音楽を学んでみたい方へ",
+        "description": "音楽には様々なジャンルがありますが、楽器で演奏するのは同工異曲です。新たなジャンルを始めるとき不安もあるかと思います。しかし、楽器を演奏する基礎的な部分は変わりません。それぞれのジャンルの譜面の読み方や理解の仕方、理論が異なるだけだと気楽にとらえてもらえれば良いです。慣れるまでは、一緒にゆっくり少しずつ進めていきます。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/4.svg",
+        "heading": "ひとつ上のレベルへ進みたい方へ",
+        "description": "二胡の上手い人と下手な人の違いは、やはり音の質にあります。どれだけテクニックがあっても、音が綺麗でないと、二胡の良さが伝わりません。ひとつ上のレベルを目指すには、初心に戻って開放弦と音階を一つずつ丁寧に弾くことが大切です。何十年もやっているプロでも、常に更にいい音を求めて、日々行っているのが基礎練習です。"
+      }
+    ],
+    "reviews": [
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "評価は最高です歳を取って頭の回転も悪く、指も思う様に行えてない私ですが、的確に根気よく優しく丁寧に教えてくれます。ゆっくりですが確実に上達していると思ってます。毎回、次のレッスンが楽しみです^ ^",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "レッスンを始めて約2ヶ月、先生の丁寧なご指導により、着実に上達していることを実感しています。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "とても丁寧に教えて頂きました。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "楽しくレッスンできました。的確にわかりやすくアドバイスをしていただいています。いつもありがとうございます。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "評価は最高です歳を取って頭の回転も悪く、指も思う様に行えてない私ですが、的確に根気よく優しく丁寧に教えてくれます。ゆっくりですが確実に上達していると思ってます。毎回、次のレッスンが楽しみです^ ^",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "レッスンを始めて約2ヶ月、先生の丁寧なご指導により、着実に上達していることを実感しています。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "とても丁寧に教えて頂きました。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "楽しくレッスンできました。的確にわかりやすくアドバイスをしていただいています。いつもありがとうございます。",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "image": "/images/instructor-ranking-4.webp",
+    "icon": "/images/instructor-icon-1.webp",
+    "name": "赤木 俊祐4",
+    "rank": "/images/icon_satisfaction-rank-s.svg",
+    "mobile_photo": "/images/satisfaction-ranking-user-1.webp",
+    "satisfactionCount": {
+      "verySatisfied": 530,
+      "mostlySatisfied": 32,
+      "average": 72,
+      "slightlyDissatisfied": 2,
+      "veryDissatisfied": 1
+    },
+    "profile": "香港出身、昭和音楽大学大学院卒業。6歳からピアノと二胡を始め、以来香港のコンクールを多数受賞。ピアノはDr. Mary Mei-loc Wu、尾崎有飛の各氏に、二胡は黄安源に師事し、現在は演奏活動と作曲活動を行なっている。英国王立音楽検定DipABRSM取得。中央音楽学院二胡検定9級取得。",
+    "studios": ["新宿", "WeArt銀座", "横浜", "川崎", "吉祥寺", "オンライン"],
+    "courses": ["クラシック／ポップスピアノ", "二胡"],
+    "availableDays": {
+      "monday": true,
+      "tuesday": true,
+      "wednesday": false,
+      "thursday": false,
+      "friday": true,
+      "saturday": true,
+      "sunday": true
+    },
+    "videos": [
+      "/images/welcome-instructor-video-1.webp",
+      "/images/welcome-instructor-video-2.webp",
+      "/images/welcome-instructor-video-1.webp",
+      "/images/welcome-instructor-video-2.webp"
+    ],
+    "level": {
+      "easiness": 10,
+      "beginner": 10,
+      "theory": 60
+    },
+    "philosophy": "お客様一人一人の目的、要望に合わせてレッスンをします。音楽は楽しむものだと考えています。演奏の楽しさ、自分の演奏が人に感動を与える時の喜びを感じていただけるように、全力サポートします！一緒に楽しく弾きましょう！",
+    "policies": [
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/1.svg",
+        "heading": "EYS for Beginners",
+        "description": "初心者の生徒様には、姿勢や理論よりも、直接演奏に関わる音の出し方や譜読みを先にやるようにしてます。また、EYS for Beginnersのステージに立つと誰でも緊張します。本番では、普段のレッスンでも本番と同じような雰囲気を作ります。レッスンでは、本番を想定して緊張感を持ってレッスンに臨んでいただきます。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/21.svg",
+        "heading": "アンサンブルしてみたい方へ",
+        "description": "アンサンブルは、人と合わせる時、人のパートも聞かなければなりません。譜面を追うことに集中してしまうと自分の楽器の音も聞こえなくなることもあります。レッスンでは、まず、自分の出している音をちゃんと聞くように練習します。それができましたら、周りの音も聞く余裕ができるようになります。次のステップは、正確なテンポで演奏するためのリズム感のトレーニング、合図の出し方などです。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/24.svg",
+        "heading": "伝統音楽を学んでみたい方へ",
+        "description": "音楽には様々なジャンルがありますが、楽器で演奏するのは同工異曲です。新たなジャンルを始めるとき不安もあるかと思います。しかし、楽器を演奏する基礎的な部分は変わりません。それぞれのジャンルの譜面の読み方や理解の仕方、理論が異なるだけだと気楽にとらえてもらえれば良いです。慣れるまでは、一緒にゆっくり少しずつ進めていきます。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/4.svg",
+        "heading": "ひとつ上のレベルへ進みたい方へ",
+        "description": "二胡の上手い人と下手な人の違いは、やはり音の質にあります。どれだけテクニックがあっても、音が綺麗でないと、二胡の良さが伝わりません。ひとつ上のレベルを目指すには、初心に戻って開放弦と音階を一つずつ丁寧に弾くことが大切です。何十年もやっているプロでも、常に更にいい音を求めて、日々行っているのが基礎練習です。"
+      }
+    ],
+    "reviews": [
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "評価は最高です歳を取って頭の回転も悪く、指も思う様に行えてない私ですが、的確に根気よく優しく丁寧に教えてくれます。ゆっくりですが確実に上達していると思ってます。毎回、次のレッスンが楽しみです^ ^",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "レッスンを始めて約2ヶ月、先生の丁寧なご指導により、着実に上達していることを実感しています。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "とても丁寧に教えて頂きました。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "楽しくレッスンできました。的確にわかりやすくアドバイスをしていただいています。いつもありがとうございます。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "評価は最高です歳を取って頭の回転も悪く、指も思う様に行えてない私ですが、的確に根気よく優しく丁寧に教えてくれます。ゆっくりですが確実に上達していると思ってます。毎回、次のレッスンが楽しみです^ ^",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "レッスンを始めて約2ヶ月、先生の丁寧なご指導により、着実に上達していることを実感しています。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "とても丁寧に教えて頂きました。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "楽しくレッスンできました。的確にわかりやすくアドバイスをしていただいています。いつもありがとうございます。",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "image": "/images/instructor-ranking-5.webp",
+    "icon": "/images/instructor-icon-1.webp",
+    "name": "赤木 俊祐5",
+    "rank": "/images/icon_satisfaction-rank-s.svg",
+    "mobile_photo": "/images/satisfaction-ranking-user-1.webp",
+    "satisfactionCount": {
+      "verySatisfied": 530,
+      "mostlySatisfied": 32,
+      "average": 72,
+      "slightlyDissatisfied": 2,
+      "veryDissatisfied": 1
+    },
+    "profile": "香港出身、昭和音楽大学大学院卒業。6歳からピアノと二胡を始め、以来香港のコンクールを多数受賞。ピアノはDr. Mary Mei-loc Wu、尾崎有飛の各氏に、二胡は黄安源に師事し、現在は演奏活動と作曲活動を行なっている。英国王立音楽検定DipABRSM取得。中央音楽学院二胡検定9級取得。",
+    "studios": ["新宿", "WeArt銀座", "横浜", "川崎", "吉祥寺", "オンライン"],
+    "courses": ["クラシック／ポップスピアノ", "二胡"],
+    "availableDays": {
+      "monday": true,
+      "tuesday": true,
+      "wednesday": false,
+      "thursday": false,
+      "friday": true,
+      "saturday": true,
+      "sunday": true
+    },
+    "videos": [
+      "/images/welcome-instructor-video-1.webp",
+      "/images/welcome-instructor-video-2.webp",
+      "/images/welcome-instructor-video-1.webp",
+      "/images/welcome-instructor-video-2.webp"
+    ],
+    "level": {
+      "easiness": 10,
+      "beginner": 10,
+      "theory": 60
+    },
+    "philosophy": "お客様一人一人の目的、要望に合わせてレッスンをします。音楽は楽しむものだと考えています。演奏の楽しさ、自分の演奏が人に感動を与える時の喜びを感じていただけるように、全力サポートします！一緒に楽しく弾きましょう！",
+    "policies": [
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/1.svg",
+        "heading": "EYS for Beginners",
+        "description": "初心者の生徒様には、姿勢や理論よりも、直接演奏に関わる音の出し方や譜読みを先にやるようにしてます。また、EYS for Beginnersのステージに立つと誰でも緊張します。本番では、普段のレッスンでも本番と同じような雰囲気を作ります。レッスンでは、本番を想定して緊張感を持ってレッスンに臨んでいただきます。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/21.svg",
+        "heading": "アンサンブルしてみたい方へ",
+        "description": "アンサンブルは、人と合わせる時、人のパートも聞かなければなりません。譜面を追うことに集中してしまうと自分の楽器の音も聞こえなくなることもあります。レッスンでは、まず、自分の出している音をちゃんと聞くように練習します。それができましたら、周りの音も聞く余裕ができるようになります。次のステップは、正確なテンポで演奏するためのリズム感のトレーニング、合図の出し方などです。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/24.svg",
+        "heading": "伝統音楽を学んでみたい方へ",
+        "description": "音楽には様々なジャンルがありますが、楽器で演奏するのは同工異曲です。新たなジャンルを始めるとき不安もあるかと思います。しかし、楽器を演奏する基礎的な部分は変わりません。それぞれのジャンルの譜面の読み方や理解の仕方、理論が異なるだけだと気楽にとらえてもらえれば良いです。慣れるまでは、一緒にゆっくり少しずつ進めていきます。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/4.svg",
+        "heading": "ひとつ上のレベルへ進みたい方へ",
+        "description": "二胡の上手い人と下手な人の違いは、やはり音の質にあります。どれだけテクニックがあっても、音が綺麗でないと、二胡の良さが伝わりません。ひとつ上のレベルを目指すには、初心に戻って開放弦と音階を一つずつ丁寧に弾くことが大切です。何十年もやっているプロでも、常に更にいい音を求めて、日々行っているのが基礎練習です。"
+      }
+    ],
+    "reviews": [
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "評価は最高です歳を取って頭の回転も悪く、指も思う様に行えてない私ですが、的確に根気よく優しく丁寧に教えてくれます。ゆっくりですが確実に上達していると思ってます。毎回、次のレッスンが楽しみです^ ^",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "レッスンを始めて約2ヶ月、先生の丁寧なご指導により、着実に上達していることを実感しています。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "とても丁寧に教えて頂きました。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "楽しくレッスンできました。的確にわかりやすくアドバイスをしていただいています。いつもありがとうございます。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "評価は最高です歳を取って頭の回転も悪く、指も思う様に行えてない私ですが、的確に根気よく優しく丁寧に教えてくれます。ゆっくりですが確実に上達していると思ってます。毎回、次のレッスンが楽しみです^ ^",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "レッスンを始めて約2ヶ月、先生の丁寧なご指導により、着実に上達していることを実感しています。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "とても丁寧に教えて頂きました。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "楽しくレッスンできました。的確にわかりやすくアドバイスをしていただいています。いつもありがとうございます。",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "image": "/images/instructor-ranking-1.webp",
+    "icon": "/images/instructor-icon-1.webp",
+    "name": "赤木 俊祐6",
+    "rank": "/images/icon_satisfaction-rank-s.svg",
+    "mobile_photo": "/images/satisfaction-ranking-user-1.webp",
+    "satisfactionCount": {
+      "verySatisfied": 530,
+      "mostlySatisfied": 32,
+      "average": 72,
+      "slightlyDissatisfied": 2,
+      "veryDissatisfied": 1
+    },
+    "profile": "香港出身、昭和音楽大学大学院卒業。6歳からピアノと二胡を始め、以来香港のコンクールを多数受賞。ピアノはDr. Mary Mei-loc Wu、尾崎有飛の各氏に、二胡は黄安源に師事し、現在は演奏活動と作曲活動を行なっている。英国王立音楽検定DipABRSM取得。中央音楽学院二胡検定9級取得。",
+    "studios": ["新宿", "WeArt銀座", "横浜", "川崎", "吉祥寺", "オンライン"],
+    "courses": ["クラシック／ポップスピアノ", "二胡"],
+    "availableDays": {
+      "monday": true,
+      "tuesday": true,
+      "wednesday": false,
+      "thursday": false,
+      "friday": true,
+      "saturday": true,
+      "sunday": true
+    },
+    "videos": [
+      "/images/welcome-instructor-video-1.webp",
+      "/images/welcome-instructor-video-2.webp",
+      "/images/welcome-instructor-video-1.webp",
+      "/images/welcome-instructor-video-2.webp"
+    ],
+    "level": {
+      "easiness": 10,
+      "beginner": 10,
+      "theory": 60
+    },
+    "philosophy": "お客様一人一人の目的、要望に合わせてレッスンをします。音楽は楽しむものだと考えています。演奏の楽しさ、自分の演奏が人に感動を与える時の喜びを感じていただけるように、全力サポートします！一緒に楽しく弾きましょう！",
+    "policies": [
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/1.svg",
+        "heading": "EYS for Beginners",
+        "description": "初心者の生徒様には、姿勢や理論よりも、直接演奏に関わる音の出し方や譜読みを先にやるようにしてます。また、EYS for Beginnersのステージに立つと誰でも緊張します。本番では、普段のレッスンでも本番と同じような雰囲気を作ります。レッスンでは、本番を想定して緊張感を持ってレッスンに臨んでいただきます。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/21.svg",
+        "heading": "アンサンブルしてみたい方へ",
+        "description": "アンサンブルは、人と合わせる時、人のパートも聞かなければなりません。譜面を追うことに集中してしまうと自分の楽器の音も聞こえなくなることもあります。レッスンでは、まず、自分の出している音をちゃんと聞くように練習します。それができましたら、周りの音も聞く余裕ができるようになります。次のステップは、正確なテンポで演奏するためのリズム感のトレーニング、合図の出し方などです。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/24.svg",
+        "heading": "伝統音楽を学んでみたい方へ",
+        "description": "音楽には様々なジャンルがありますが、楽器で演奏するのは同工異曲です。新たなジャンルを始めるとき不安もあるかと思います。しかし、楽器を演奏する基礎的な部分は変わりません。それぞれのジャンルの譜面の読み方や理解の仕方、理論が異なるだけだと気楽にとらえてもらえれば良いです。慣れるまでは、一緒にゆっくり少しずつ進めていきます。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/4.svg",
+        "heading": "ひとつ上のレベルへ進みたい方へ",
+        "description": "二胡の上手い人と下手な人の違いは、やはり音の質にあります。どれだけテクニックがあっても、音が綺麗でないと、二胡の良さが伝わりません。ひとつ上のレベルを目指すには、初心に戻って開放弦と音階を一つずつ丁寧に弾くことが大切です。何十年もやっているプロでも、常に更にいい音を求めて、日々行っているのが基礎練習です。"
+      }
+    ],
+    "reviews": [
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "評価は最高です歳を取って頭の回転も悪く、指も思う様に行えてない私ですが、的確に根気よく優しく丁寧に教えてくれます。ゆっくりですが確実に上達していると思ってます。毎回、次のレッスンが楽しみです^ ^",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "レッスンを始めて約2ヶ月、先生の丁寧なご指導により、着実に上達していることを実感しています。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "とても丁寧に教えて頂きました。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "楽しくレッスンできました。的確にわかりやすくアドバイスをしていただいています。いつもありがとうございます。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "評価は最高です歳を取って頭の回転も悪く、指も思う様に行えてない私ですが、的確に根気よく優しく丁寧に教えてくれます。ゆっくりですが確実に上達していると思ってます。毎回、次のレッスンが楽しみです^ ^",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "レッスンを始めて約2ヶ月、先生の丁寧なご指導により、着実に上達していることを実感しています。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "とても丁寧に教えて頂きました。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "楽しくレッスンできました。的確にわかりやすくアドバイスをしていただいています。いつもありがとうございます。",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "image": "/images/instructor-ranking-2.webp",
+    "icon": "/images/instructor-icon-1.webp",
+    "name": "赤木 俊祐7",
+    "rank": "/images/icon_satisfaction-rank-s.svg",
+    "mobile_photo": "/images/satisfaction-ranking-user-1.webp",
+    "satisfactionCount": {
+      "verySatisfied": 530,
+      "mostlySatisfied": 32,
+      "average": 72,
+      "slightlyDissatisfied": 2,
+      "veryDissatisfied": 1
+    },
+    "profile": "香港出身、昭和音楽大学大学院卒業。6歳からピアノと二胡を始め、以来香港のコンクールを多数受賞。ピアノはDr. Mary Mei-loc Wu、尾崎有飛の各氏に、二胡は黄安源に師事し、現在は演奏活動と作曲活動を行なっている。英国王立音楽検定DipABRSM取得。中央音楽学院二胡検定9級取得。",
+    "studios": ["新宿", "WeArt銀座", "横浜", "川崎", "吉祥寺", "オンライン"],
+    "courses": ["クラシック／ポップスピアノ", "二胡"],
+    "availableDays": {
+      "monday": true,
+      "tuesday": true,
+      "wednesday": false,
+      "thursday": false,
+      "friday": true,
+      "saturday": true,
+      "sunday": true
+    },
+    "videos": [
+      "/images/welcome-instructor-video-1.webp",
+      "/images/welcome-instructor-video-2.webp",
+      "/images/welcome-instructor-video-1.webp",
+      "/images/welcome-instructor-video-2.webp"
+    ],
+    "level": {
+      "easiness": 10,
+      "beginner": 10,
+      "theory": 60
+    },
+    "philosophy": "お客様一人一人の目的、要望に合わせてレッスンをします。音楽は楽しむものだと考えています。演奏の楽しさ、自分の演奏が人に感動を与える時の喜びを感じていただけるように、全力サポートします！一緒に楽しく弾きましょう！",
+    "policies": [
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/1.svg",
+        "heading": "EYS for Beginners",
+        "description": "初心者の生徒様には、姿勢や理論よりも、直接演奏に関わる音の出し方や譜読みを先にやるようにしてます。また、EYS for Beginnersのステージに立つと誰でも緊張します。本番では、普段のレッスンでも本番と同じような雰囲気を作ります。レッスンでは、本番を想定して緊張感を持ってレッスンに臨んでいただきます。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/21.svg",
+        "heading": "アンサンブルしてみたい方へ",
+        "description": "アンサンブルは、人と合わせる時、人のパートも聞かなければなりません。譜面を追うことに集中してしまうと自分の楽器の音も聞こえなくなることもあります。レッスンでは、まず、自分の出している音をちゃんと聞くように練習します。それができましたら、周りの音も聞く余裕ができるようになります。次のステップは、正確なテンポで演奏するためのリズム感のトレーニング、合図の出し方などです。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/24.svg",
+        "heading": "伝統音楽を学んでみたい方へ",
+        "description": "音楽には様々なジャンルがありますが、楽器で演奏するのは同工異曲です。新たなジャンルを始めるとき不安もあるかと思います。しかし、楽器を演奏する基礎的な部分は変わりません。それぞれのジャンルの譜面の読み方や理解の仕方、理論が異なるだけだと気楽にとらえてもらえれば良いです。慣れるまでは、一緒にゆっくり少しずつ進めていきます。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/4.svg",
+        "heading": "ひとつ上のレベルへ進みたい方へ",
+        "description": "二胡の上手い人と下手な人の違いは、やはり音の質にあります。どれだけテクニックがあっても、音が綺麗でないと、二胡の良さが伝わりません。ひとつ上のレベルを目指すには、初心に戻って開放弦と音階を一つずつ丁寧に弾くことが大切です。何十年もやっているプロでも、常に更にいい音を求めて、日々行っているのが基礎練習です。"
+      }
+    ],
+    "reviews": [
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "評価は最高です歳を取って頭の回転も悪く、指も思う様に行えてない私ですが、的確に根気よく優しく丁寧に教えてくれます。ゆっくりですが確実に上達していると思ってます。毎回、次のレッスンが楽しみです^ ^",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "レッスンを始めて約2ヶ月、先生の丁寧なご指導により、着実に上達していることを実感しています。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "とても丁寧に教えて頂きました。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "楽しくレッスンできました。的確にわかりやすくアドバイスをしていただいています。いつもありがとうございます。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "評価は最高です歳を取って頭の回転も悪く、指も思う様に行えてない私ですが、的確に根気よく優しく丁寧に教えてくれます。ゆっくりですが確実に上達していると思ってます。毎回、次のレッスンが楽しみです^ ^",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "レッスンを始めて約2ヶ月、先生の丁寧なご指導により、着実に上達していることを実感しています。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "とても丁寧に教えて頂きました。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "楽しくレッスンできました。的確にわかりやすくアドバイスをしていただいています。いつもありがとうございます。",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "image": "/images/instructor-ranking-3.webp",
+    "icon": "/images/instructor-icon-1.webp",
+    "name": "赤木 俊祐8",
+    "rank": "/images/icon_satisfaction-rank-s.svg",
+    "mobile_photo": "/images/satisfaction-ranking-user-1.webp",
+    "satisfactionCount": {
+      "verySatisfied": 530,
+      "mostlySatisfied": 32,
+      "average": 72,
+      "slightlyDissatisfied": 2,
+      "veryDissatisfied": 1
+    },
+    "profile": "香港出身、昭和音楽大学大学院卒業。6歳からピアノと二胡を始め、以来香港のコンクールを多数受賞。ピアノはDr. Mary Mei-loc Wu、尾崎有飛の各氏に、二胡は黄安源に師事し、現在は演奏活動と作曲活動を行なっている。英国王立音楽検定DipABRSM取得。中央音楽学院二胡検定9級取得。",
+    "studios": ["新宿", "WeArt銀座", "横浜", "川崎", "吉祥寺", "オンライン"],
+    "courses": ["クラシック／ポップスピアノ", "二胡"],
+    "availableDays": {
+      "monday": true,
+      "tuesday": true,
+      "wednesday": false,
+      "thursday": false,
+      "friday": true,
+      "saturday": true,
+      "sunday": true
+    },
+    "videos": [
+      "/images/welcome-instructor-video-1.webp",
+      "/images/welcome-instructor-video-2.webp",
+      "/images/welcome-instructor-video-1.webp",
+      "/images/welcome-instructor-video-2.webp"
+    ],
+    "level": {
+      "easiness": 10,
+      "beginner": 10,
+      "theory": 60
+    },
+    "philosophy": "お客様一人一人の目的、要望に合わせてレッスンをします。音楽は楽しむものだと考えています。演奏の楽しさ、自分の演奏が人に感動を与える時の喜びを感じていただけるように、全力サポートします！一緒に楽しく弾きましょう！",
+    "policies": [
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/1.svg",
+        "heading": "EYS for Beginners",
+        "description": "初心者の生徒様には、姿勢や理論よりも、直接演奏に関わる音の出し方や譜読みを先にやるようにしてます。また、EYS for Beginnersのステージに立つと誰でも緊張します。本番では、普段のレッスンでも本番と同じような雰囲気を作ります。レッスンでは、本番を想定して緊張感を持ってレッスンに臨んでいただきます。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/21.svg",
+        "heading": "アンサンブルしてみたい方へ",
+        "description": "アンサンブルは、人と合わせる時、人のパートも聞かなければなりません。譜面を追うことに集中してしまうと自分の楽器の音も聞こえなくなることもあります。レッスンでは、まず、自分の出している音をちゃんと聞くように練習します。それができましたら、周りの音も聞く余裕ができるようになります。次のステップは、正確なテンポで演奏するためのリズム感のトレーニング、合図の出し方などです。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/24.svg",
+        "heading": "伝統音楽を学んでみたい方へ",
+        "description": "音楽には様々なジャンルがありますが、楽器で演奏するのは同工異曲です。新たなジャンルを始めるとき不安もあるかと思います。しかし、楽器を演奏する基礎的な部分は変わりません。それぞれのジャンルの譜面の読み方や理解の仕方、理論が異なるだけだと気楽にとらえてもらえれば良いです。慣れるまでは、一緒にゆっくり少しずつ進めていきます。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/4.svg",
+        "heading": "ひとつ上のレベルへ進みたい方へ",
+        "description": "二胡の上手い人と下手な人の違いは、やはり音の質にあります。どれだけテクニックがあっても、音が綺麗でないと、二胡の良さが伝わりません。ひとつ上のレベルを目指すには、初心に戻って開放弦と音階を一つずつ丁寧に弾くことが大切です。何十年もやっているプロでも、常に更にいい音を求めて、日々行っているのが基礎練習です。"
+      }
+    ],
+    "reviews": [
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "評価は最高です歳を取って頭の回転も悪く、指も思う様に行えてない私ですが、的確に根気よく優しく丁寧に教えてくれます。ゆっくりですが確実に上達していると思ってます。毎回、次のレッスンが楽しみです^ ^",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "レッスンを始めて約2ヶ月、先生の丁寧なご指導により、着実に上達していることを実感しています。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "とても丁寧に教えて頂きました。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "楽しくレッスンできました。的確にわかりやすくアドバイスをしていただいています。いつもありがとうございます。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "評価は最高です歳を取って頭の回転も悪く、指も思う様に行えてない私ですが、的確に根気よく優しく丁寧に教えてくれます。ゆっくりですが確実に上達していると思ってます。毎回、次のレッスンが楽しみです^ ^",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "レッスンを始めて約2ヶ月、先生の丁寧なご指導により、着実に上達していることを実感しています。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "とても丁寧に教えて頂きました。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "楽しくレッスンできました。的確にわかりやすくアドバイスをしていただいています。いつもありがとうございます。",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "image": "/images/instructor-ranking-5.webp",
+    "icon": "/images/instructor-icon-1.webp",
+    "name": "赤木 俊祐9",
+    "rank": "/images/icon_satisfaction-rank-s.svg",
+    "mobile_photo": "/images/satisfaction-ranking-user-1.webp",
+    "satisfactionCount": {
+      "verySatisfied": 530,
+      "mostlySatisfied": 32,
+      "average": 72,
+      "slightlyDissatisfied": 2,
+      "veryDissatisfied": 1
+    },
+    "profile": "香港出身、昭和音楽大学大学院卒業。6歳からピアノと二胡を始め、以来香港のコンクールを多数受賞。ピアノはDr. Mary Mei-loc Wu、尾崎有飛の各氏に、二胡は黄安源に師事し、現在は演奏活動と作曲活動を行なっている。英国王立音楽検定DipABRSM取得。中央音楽学院二胡検定9級取得。",
+    "studios": ["新宿", "WeArt銀座", "横浜", "川崎", "吉祥寺", "オンライン"],
+    "courses": ["クラシック／ポップスピアノ", "二胡"],
+    "availableDays": {
+      "monday": true,
+      "tuesday": true,
+      "wednesday": false,
+      "thursday": false,
+      "friday": true,
+      "saturday": true,
+      "sunday": true
+    },
+    "videos": [
+      "/images/welcome-instructor-video-1.webp",
+      "/images/welcome-instructor-video-2.webp",
+      "/images/welcome-instructor-video-1.webp",
+      "/images/welcome-instructor-video-2.webp"
+    ],
+    "level": {
+      "easiness": 10,
+      "beginner": 10,
+      "theory": 60
+    },
+    "philosophy": "お客様一人一人の目的、要望に合わせてレッスンをします。音楽は楽しむものだと考えています。演奏の楽しさ、自分の演奏が人に感動を与える時の喜びを感じていただけるように、全力サポートします！一緒に楽しく弾きましょう！",
+    "policies": [
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/1.svg",
+        "heading": "EYS for Beginners",
+        "description": "初心者の生徒様には、姿勢や理論よりも、直接演奏に関わる音の出し方や譜読みを先にやるようにしてます。また、EYS for Beginnersのステージに立つと誰でも緊張します。本番では、普段のレッスンでも本番と同じような雰囲気を作ります。レッスンでは、本番を想定して緊張感を持ってレッスンに臨んでいただきます。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/21.svg",
+        "heading": "アンサンブルしてみたい方へ",
+        "description": "アンサンブルは、人と合わせる時、人のパートも聞かなければなりません。譜面を追うことに集中してしまうと自分の楽器の音も聞こえなくなることもあります。レッスンでは、まず、自分の出している音をちゃんと聞くように練習します。それができましたら、周りの音も聞く余裕ができるようになります。次のステップは、正確なテンポで演奏するためのリズム感のトレーニング、合図の出し方などです。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/24.svg",
+        "heading": "伝統音楽を学んでみたい方へ",
+        "description": "音楽には様々なジャンルがありますが、楽器で演奏するのは同工異曲です。新たなジャンルを始めるとき不安もあるかと思います。しかし、楽器を演奏する基礎的な部分は変わりません。それぞれのジャンルの譜面の読み方や理解の仕方、理論が異なるだけだと気楽にとらえてもらえれば良いです。慣れるまでは、一緒にゆっくり少しずつ進めていきます。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/4.svg",
+        "heading": "ひとつ上のレベルへ進みたい方へ",
+        "description": "二胡の上手い人と下手な人の違いは、やはり音の質にあります。どれだけテクニックがあっても、音が綺麗でないと、二胡の良さが伝わりません。ひとつ上のレベルを目指すには、初心に戻って開放弦と音階を一つずつ丁寧に弾くことが大切です。何十年もやっているプロでも、常に更にいい音を求めて、日々行っているのが基礎練習です。"
+      }
+    ],
+    "reviews": [
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "評価は最高です歳を取って頭の回転も悪く、指も思う様に行えてない私ですが、的確に根気よく優しく丁寧に教えてくれます。ゆっくりですが確実に上達していると思ってます。毎回、次のレッスンが楽しみです^ ^",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "レッスンを始めて約2ヶ月、先生の丁寧なご指導により、着実に上達していることを実感しています。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "とても丁寧に教えて頂きました。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "楽しくレッスンできました。的確にわかりやすくアドバイスをしていただいています。いつもありがとうございます。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "評価は最高です歳を取って頭の回転も悪く、指も思う様に行えてない私ですが、的確に根気よく優しく丁寧に教えてくれます。ゆっくりですが確実に上達していると思ってます。毎回、次のレッスンが楽しみです^ ^",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "レッスンを始めて約2ヶ月、先生の丁寧なご指導により、着実に上達していることを実感しています。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "とても丁寧に教えて頂きました。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "楽しくレッスンできました。的確にわかりやすくアドバイスをしていただいています。いつもありがとうございます。",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "image": "/images/instructor-ranking-5.webp",
+    "icon": "/images/instructor-icon-1.webp",
+    "name": "赤木 俊祐10",
+    "rank": "/images/icon_satisfaction-rank-s.svg",
+    "mobile_photo": "/images/satisfaction-ranking-user-1.webp",
+    "satisfactionCount": {
+      "verySatisfied": 530,
+      "mostlySatisfied": 32,
+      "average": 72,
+      "slightlyDissatisfied": 2,
+      "veryDissatisfied": 1
+    },
+    "profile": "香港出身、昭和音楽大学大学院卒業。6歳からピアノと二胡を始め、以来香港のコンクールを多数受賞。ピアノはDr. Mary Mei-loc Wu、尾崎有飛の各氏に、二胡は黄安源に師事し、現在は演奏活動と作曲活動を行なっている。英国王立音楽検定DipABRSM取得。中央音楽学院二胡検定9級取得。",
+    "studios": ["新宿", "WeArt銀座", "横浜", "川崎", "吉祥寺", "オンライン"],
+    "courses": ["クラシック／ポップスピアノ", "二胡"],
+    "availableDays": {
+      "monday": true,
+      "tuesday": true,
+      "wednesday": false,
+      "thursday": false,
+      "friday": true,
+      "saturday": true,
+      "sunday": true
+    },
+    "videos": [
+      "/images/welcome-instructor-video-1.webp",
+      "/images/welcome-instructor-video-2.webp",
+      "/images/welcome-instructor-video-1.webp",
+      "/images/welcome-instructor-video-2.webp"
+    ],
+    "level": {
+      "easiness": 10,
+      "beginner": 10,
+      "theory": 60
+    },
+    "philosophy": "お客様一人一人の目的、要望に合わせてレッスンをします。音楽は楽しむものだと考えています。演奏の楽しさ、自分の演奏が人に感動を与える時の喜びを感じていただけるように、全力サポートします！一緒に楽しく弾きましょう！",
+    "policies": [
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/1.svg",
+        "heading": "EYS for Beginners",
+        "description": "初心者の生徒様には、姿勢や理論よりも、直接演奏に関わる音の出し方や譜読みを先にやるようにしてます。また、EYS for Beginnersのステージに立つと誰でも緊張します。本番では、普段のレッスンでも本番と同じような雰囲気を作ります。レッスンでは、本番を想定して緊張感を持ってレッスンに臨んでいただきます。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/21.svg",
+        "heading": "アンサンブルしてみたい方へ",
+        "description": "アンサンブルは、人と合わせる時、人のパートも聞かなければなりません。譜面を追うことに集中してしまうと自分の楽器の音も聞こえなくなることもあります。レッスンでは、まず、自分の出している音をちゃんと聞くように練習します。それができましたら、周りの音も聞く余裕ができるようになります。次のステップは、正確なテンポで演奏するためのリズム感のトレーニング、合図の出し方などです。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/24.svg",
+        "heading": "伝統音楽を学んでみたい方へ",
+        "description": "音楽には様々なジャンルがありますが、楽器で演奏するのは同工異曲です。新たなジャンルを始めるとき不安もあるかと思います。しかし、楽器を演奏する基礎的な部分は変わりません。それぞれのジャンルの譜面の読み方や理解の仕方、理論が異なるだけだと気楽にとらえてもらえれば良いです。慣れるまでは、一緒にゆっくり少しずつ進めていきます。"
+      },
+      {
+        "icon": "https://art-lesson.s3-ap-northeast-1.amazonaws.com/images/policy/4.svg",
+        "heading": "ひとつ上のレベルへ進みたい方へ",
+        "description": "二胡の上手い人と下手な人の違いは、やはり音の質にあります。どれだけテクニックがあっても、音が綺麗でないと、二胡の良さが伝わりません。ひとつ上のレベルを目指すには、初心に戻って開放弦と音階を一つずつ丁寧に弾くことが大切です。何十年もやっているプロでも、常に更にいい音を求めて、日々行っているのが基礎練習です。"
+      }
+    ],
+    "reviews": [
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "評価は最高です歳を取って頭の回転も悪く、指も思う様に行えてない私ですが、的確に根気よく優しく丁寧に教えてくれます。ゆっくりですが確実に上達していると思ってます。毎回、次のレッスンが楽しみです^ ^",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "レッスンを始めて約2ヶ月、先生の丁寧なご指導により、着実に上達していることを実感しています。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "とても丁寧に教えて頂きました。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "楽しくレッスンできました。的確にわかりやすくアドバイスをしていただいています。いつもありがとうございます。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "評価は最高です歳を取って頭の回転も悪く、指も思う様に行えてない私ですが、的確に根気よく優しく丁寧に教えてくれます。ゆっくりですが確実に上達していると思ってます。毎回、次のレッスンが楽しみです^ ^",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage_female.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2024年のレッスンを評価",
+        "content": "レッスンを始めて約2ヶ月、先生の丁寧なご指導により、着実に上達していることを実感しています。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "とても丁寧に教えて頂きました。",
+        "rating": 5
+      },
+      {
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/images/profile_noimage.webp",
+        "name": "評価者情報非公開",
+        "course": "二胡",
+        "date": "2023年のレッスンを評価",
+        "content": "楽しくレッスンできました。的確にわかりやすくアドバイスをしていただいています。いつもありがとうございます。",
+        "rating": 5
+      }
+    ]
+  }
+]

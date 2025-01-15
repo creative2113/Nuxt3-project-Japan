@@ -1,0 +1,72 @@
+[
+  {
+    "for": "超入門者",
+    "banner_img": "/images/enjoy-offer-1.webp",
+    "cost": "13,800",
+    "genre": "音楽",
+    "course": "初心者コース",
+    "number": "回数の定めなし",
+    "duration": "2020/9/1~",
+    "method": "ライブ配信",
+    "capacity": "定員 10名 / 残席数 3名",
+    "present_img": "/images/enjoy-offer-present-1.webp",
+    "follow_num": 12,
+    "graph_url": "/images/enjoy-offer-graph-1.webp"
+  },
+  {
+    "for": "超入門者",
+    "banner_img": "/images/enjoy-offer-2.webp",
+    "cost": "13,800",
+    "genre": "音楽",
+    "course": "初心者コース",
+    "number": "回数の定めなし",
+    "duration": "2020/9/1~",
+    "method": "ライブ配信",
+    "capacity": "定員 10名 / 残席数 3名",
+    "present_img": "/images/enjoy-offer-present-2.webp",
+    "follow_num": 12,
+    "graph_url": "/images/enjoy-offer-graph-2.webp"
+  },
+  {
+    "for": "超入門者",
+    "banner_img": "/images/enjoy-offer-1.webp",
+    "cost": "13,800",
+    "genre": "音楽",
+    "course": "初心者コース",
+    "number": "回数の定めなし",
+    "duration": "2020/9/1~",
+    "method": "ライブ配信",
+    "capacity": "定員 10名 / 残席数 3名",
+    "present_img": "/images/enjoy-offer-present-1.webp",
+    "follow_num": 12,
+    "graph_url": "/images/enjoy-offer-graph-1.webp"
+  },
+  {
+    "for": "超入門者",
+    "banner_img": "/images/enjoy-offer-2.webp",
+    "cost": "13,800",
+    "genre": "音楽",
+    "course": "初心者コース",
+    "number": "回数の定めなし",
+    "duration": "2020/9/1~",
+    "method": "ライブ配信",
+    "capacity": "定員 10名 / 残席数 3名",
+    "present_img": "/images/enjoy-offer-present-2.webp",
+    "follow_num": 12,
+    "graph_url": "/images/enjoy-offer-graph-2.webp"
+  },
+  {
+    "for": "超入門者",
+    "banner_img": "/images/enjoy-offer-2.webp",
+    "cost": "13,800",
+    "genre": "音楽",
+    "course": "初心者コース",
+    "number": "回数の定めなし",
+    "duration": "2020/9/1~",
+    "method": "ライブ配信",
+    "capacity": "定員 10名 / 残席数 3名",
+    "present_img": "/images/enjoy-offer-present-2.webp",
+    "follow_num": 12,
+    "graph_url": "/images/enjoy-offer-graph-2.webp"
+  }
+]

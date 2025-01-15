@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="315" height="233.354" viewBox="0 0 315 233.354">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7bd"/>
+      <stop offset="1" stop-color="#68d"/>
+    </linearGradient>
+    <filter id="Union_12" x="0" y="38.354" width="315" height="195" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="0" x2="0.5" y2="1" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="fukidashi" transform="translate(-39.747 -6644.646)">
+    <g transform="matrix(1, 0, 0, 1, 39.75, 6644.65)" filter="url(#Union_12)">
+      <path id="Union_12-2" data-name="Union 12" d="M362.332,11329H266.747a20,20,0,0,1-20-20v-80a20,20,0,0,1,20-20h215a20,20,0,0,1,20,20v80a20,20,0,0,1-20,20H386.159l-11.913,15Z" transform="translate(-216.75 -11145.65)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="solution" transform="translate(9.746 3262)">
+      <rect id="Rectangle_510" data-name="Rectangle 510" width="200" height="40" rx="10" transform="translate(88 3506)" fill="#fff"/>
+      <text id="解決_" data-name="解決！" transform="translate(198 3535)" fill="#68d" font-size="24" font-family="YuGothic-Bold, Yu Gothic" font-weight="700" letter-spacing="0.1em"><tspan x="-38.4" y="0">解決！</tspan></text>
+    </g>
+    <text id="InspiartZなら" transform="translate(196.78 6746.054)" fill="#fff" font-size="18" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-57.313" y="0">InspiartZなら</tspan></text>
+    <g id="Group_195679" data-name="Group 195679" transform="translate(0 5)">
+      <path id="arrow" d="M12.663,37.06l2.076,2.047,17.924-17.67L14.739,3.767,12.663,5.814,28.511,21.437Z" transform="matrix(0, 1, -1, 0, 219.062, 6626.982)" fill="url(#linear-gradient-2)"/>
+      <path id="arrow-2" data-name="arrow" d="M12.663,37.06l2.076,2.047,17.924-17.67L14.739,3.767,12.663,5.814,28.511,21.437Z" transform="matrix(0, 1, -1, 0, 219.062, 6641.982)" fill="url(#linear-gradient-2)"/>
+      <path id="arrow-3" data-name="arrow" d="M12.663,37.06l2.076,2.047,17.924-17.67L14.739,3.767,12.663,5.814,28.511,21.437Z" transform="matrix(0, 1, -1, 0, 219.062, 6656.982)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>

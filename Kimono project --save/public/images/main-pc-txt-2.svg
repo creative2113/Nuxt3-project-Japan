@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="400" viewBox="0 0 40 400">
+  <g id="txt" transform="translate(-73 -180)">
+    <rect id="bg" width="40" height="400" transform="translate(73 180)" fill="#fff"/>
+    <text id="音_ガ_ル_着_付_け_教_室" data-name="音
+ガ
+　
+ル
+着
+付
+け
+教
+室" transform="translate(93 228)" fill="#454545" font-size="20" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-10" y="0">音</tspan><tspan y="0" font-family="SegoeUI, Segoe UI"></tspan><tspan x="-8.008" y="40">ガ</tspan><tspan y="40" font-family="SegoeUI, Segoe UI"></tspan><tspan x="-10" y="80">　</tspan><tspan y="80" font-family="SegoeUI, Segoe UI"></tspan><tspan x="-8.262" y="120">ル</tspan><tspan y="120" font-family="SegoeUI, Segoe UI"></tspan><tspan x="-10" y="160">着</tspan><tspan y="160" font-family="SegoeUI, Segoe UI"></tspan><tspan x="-10" y="200">付</tspan><tspan y="200" font-family="SegoeUI, Segoe UI"></tspan><tspan x="-7.832" y="240">け</tspan><tspan y="240" font-family="SegoeUI, Segoe UI"></tspan><tspan x="-10" y="280">教</tspan><tspan y="280" font-family="SegoeUI, Segoe UI"></tspan><tspan x="-10" y="320">室</tspan></text>
+    <text id="_ー" data-name="ー" transform="translate(85 300) rotate(90)" fill="#454545" font-size="20" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-6.431" y="0">ー</tspan></text>
+  </g>
+</svg>

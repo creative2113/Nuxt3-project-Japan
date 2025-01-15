@@ -1,0 +1,475 @@
+[
+  {
+    "grid_cols": 4,
+    "theads": [
+      {
+        "width": 134,
+        "text": "種目（通称）"
+      },
+      {
+        "width": 158,
+        "text": "取得の目安",
+        "colspan": 2
+      },
+      {
+        "width": 428,
+        "text": "概要"
+      }
+    ],
+    "data": [
+      {
+        "category": "入門",
+        "time": "8単位",
+        "sub_costs": [
+          {
+            "subtime": "4単位",
+            "overview": "花意匠：かたちの基本　たてること"
+          },
+          {
+            "subtime": "4単位",
+            "overview": "花意匠：かたちの基本　かたむけること"
+          }
+        ]
+      },
+      {
+        "category": "初等科",
+        "time": "16単位",
+        "sub_costs": [
+          {
+            "subtime": "4単位",
+            "overview": "盛花立花型"
+          },
+          {
+            "subtime": "4単位",
+            "overview": "盛花傾斜型"
+          },
+          {
+            "subtime": "2単位",
+            "overview": "花意匠：かたちの展開　ひらくかたち"
+          },
+          {
+            "subtime": "2単位",
+            "overview": "花意匠：かたちの展開　ひらくかたち"
+          },
+          {
+            "subtime": "4単位",
+            "overview": "選択科目：ここまで学んだことから選んで履修"
+          }
+        ]
+      },
+      {
+        "category": "本科",
+        "time": "16単位",
+        "sub_costs": [
+          {
+            "subtime": "4単位",
+            "overview": "盛花立花型"
+          },
+          {
+            "subtime": "4単位",
+            "overview": "盛花傾斜型"
+          },
+          {
+            "subtime": "2単位",
+            "overview": "盛花観水型"
+          },
+          {
+            "subtime": "1単位",
+            "overview": "色彩盛花様式本科"
+          },
+          {
+            "subtime": "5単位",
+            "overview": "選択科目：ここまで学んだことから選んで履修"
+          }
+        ]
+      },
+      {
+        "category": "師範科一期",
+        "time": "16単位",
+        "sub_costs": [
+          {
+            "subtime": "5単位",
+            "overview": "盛花（直立型、傾斜型、観水型）"
+          },
+          {
+            "subtime": "4単位",
+            "overview": "瓶花傾斜型"
+          },
+          {
+            "subtime": "3単位",
+            "overview": "瓶花直立型"
+          },
+          {
+            "subtime": "4単位",
+            "overview": "選択科目：ここまで学んだことから選んで履修"
+          }
+        ]
+      },
+      {
+        "category": "師範科二期",
+        "time": "16単位",
+        "sub_costs": [
+          {
+            "subtime": "5単位",
+            "overview": "盛花（直立型、傾斜型、観水型）"
+          },
+          {
+            "subtime": "2単位",
+            "overview": "写景盛花様式本科"
+          },
+          {
+            "subtime": "5単位",
+            "overview": "瓶花（傾斜型、直立型、下垂型）"
+          },
+          {
+            "subtime": "4単位",
+            "overview": "選択科目：ここまで学んだことから選んで履修"
+          }
+        ]
+      },
+      {
+        "category": "准教授",
+        "time": "48単位",
+        "sub_costs": [
+          {
+            "overview": "教授者として小原流のいけばなを教えることができる"
+          },
+          {
+            "subtime": "4単位",
+            "overview": "花意匠：かたちの展開　まわるかたち"
+          },
+          {
+            "subtime": "4単位",
+            "overview": "花舞"
+          },
+          {
+            "subtime": "4単位",
+            "overview": "花奏"
+          },
+          {
+            "subtime": "6単位",
+            "overview": "盛花（写景盛花様式本科（近景）、色彩盛花様式本科、色彩盛花色彩本科）"
+          },
+          {
+            "subtime": "6単位",
+            "overview": "瓶花（傾斜型、直立型、下垂型）"
+          },
+          {
+            "subtime": "24単位",
+            "overview": "選択科目：ここまで学んだことから選んで履修"
+          }
+        ]
+      },
+      {
+        "category": "四級家元教授",
+        "time": "48単位",
+        "sub_costs": [
+          {
+            "subtime": "3単位",
+            "overview": "写景盛花様式本科（中級）"
+          },
+          {
+            "subtime": "2単位",
+            "overview": "写景盛花様式本科（近景）"
+          },
+          {
+            "subtime": "2単位",
+            "overview": "色彩盛花様式本科"
+          },
+          {
+            "subtime": "6単位",
+            "overview": "瓶花"
+          },
+          {
+            "subtime": "3単位",
+            "overview": "花舞"
+          },
+          {
+            "subtime": "3単位",
+            "overview": "花奏"
+          },
+          {
+            "subtime": "3単位",
+            "overview": "自由表現：花材の植物としての姿を生かし型のないいけばな、<br class='max-lg:hidden'>および、その姿を変貌させたいけばなのこと。"
+          },
+          {
+            "subtime": "26単位",
+            "overview": "選択科目：ここまで学んだことから選んで履修"
+          }
+        ]
+      },
+      {
+        "category": "三級家元教授",
+        "time": "3カ年",
+        "sub_costs": [
+          {
+            "subtime": "12単位",
+            "overview": "写景盛花自然本位"
+          },
+          {
+            "subtime": "10単位",
+            "overview": "写景盛花様式本位（遠景、中景、近景）"
+          },
+          {
+            "subtime": "3単位",
+            "overview": "自由表現"
+          },
+          {
+            "subtime": "",
+            "overview": "選択科目：ここまで学んだことから選んで履修"
+          }
+        ]
+      },
+      {
+        "overview": "地区別教授者研修会の受講が可能：参加することで、資格進級の年数が短縮される"
+      },
+      {
+        "category": "二級家元脇教授",
+        "time": "4カ年",
+        "sub_costs": [
+          {
+            "subtime": "",
+            "overview": "琳派調いけばな　および既習科目の反復習得"
+          }
+        ]
+      },
+      {
+        "category": "二級家元教授",
+        "time": "5カ年",
+        "sub_costs": [
+          {
+            "subtime": "",
+            "overview": "文人調いけばな　および既習科目の反復習得"
+          }
+        ]
+      },
+      {
+        "category": "一級家元脇教授",
+        "time": "5カ年",
+        "sub_costs": [
+          {
+            "subtime": "",
+            "overview": "小品花　および既習科目の反復習得"
+          }
+        ]
+      },
+      {
+        "category": "一級家元教授",
+        "time": "",
+        "sub_costs": [
+          {
+            "subtime": "",
+            "overview": "小原流のすべての表現を究める"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "grid_cols": 5,
+    "theads": [
+      {
+        "width": 110,
+        "text": "種目（通称）"
+      },
+      {
+        "width": 100,
+        "text": "免状の名称"
+      },
+      {
+        "width": 100,
+        "text": "取得の目安"
+      },
+      {
+        "width": 400,
+        "text": "概要",
+        "colspan": 2
+      }
+    ],
+    "data": [
+      {
+        "sub_costs": [
+          {
+            "category": "入門",
+            "time": "入門",
+            "subtime": "お稽古８回",
+            "overview": "「自由花」や道具の扱いなど、池坊華道の基礎を習得"
+          },
+          {
+            "category": "初等科",
+            "time": "初等科",
+            "subtime": "お稽古12回",
+            "overview": "花材の扱いを習得、雅号（本名の他につ<br class='max-lg:hidden'>ける別名）の申請が可能"
+          },
+          {
+            "category": "中等科",
+            "time": "中伝",
+            "subtime": "お稽古16回",
+            "overview": "「生花」の基礎を習得"
+          },
+          {
+            "category": "高等科",
+            "time": "皆伝",
+            "subtime": "",
+            "overview": ""
+          },
+          {
+            "category": "師範科",
+            "time": "華掌",
+            "subtime": "",
+            "overview": "「立花」の習得が可能"
+          }
+        ],
+        "description": "・免状と共に職位に応じた「花伝書」という小冊子と、職位、雅号が書かれた「席札」を頂ける。<br class='max-lg:hidden'><br class='max-lg:hidden'>・免状は次の段階で学べる「許可証」の意味合いが強い。<br class='max-lg:hidden'><br class='max-lg:hidden'>・免状の取得には「申請料」必要。入門で約５千円に始まり、職位が上がるにつれ数万円に上る。"
+      },
+      {
+        "category": "脇教授三級",
+        "time": "准華匡",
+        "subtime": "",
+        "overview": "「自由花」「生花正風体」「生花新風体」の<br class='max-lg:hidden'>指導資格の授与",
+        "description": "・教室を構えられる。"
+      },
+      {
+        "category": "脇教授二級",
+        "time": "准華監",
+        "subtime": "",
+        "overview": "",
+        "description": ""
+      },
+      {
+        "category": "脇教授一級",
+        "time": "准華綱",
+        "subtime": "",
+        "overview": "",
+        "description": ""
+      },
+      {
+        "category": "准教授三級",
+        "time": "華匡",
+        "subtime": "",
+        "overview": "",
+        "description": ""
+      },
+      {
+        "category": "准教授二級",
+        "time": "華監",
+        "subtime": "",
+        "overview": "",
+        "description": ""
+      },
+      {
+        "category": "准教授一級",
+        "time": "華綱",
+        "subtime": "",
+        "overview": "",
+        "description": ""
+      },
+      {
+        "category": "正教授三級",
+        "time": "総華匡",
+        "subtime": "",
+        "overview": "",
+        "description": ""
+      },
+      {
+        "category": "正教授二級",
+        "time": "総華監",
+        "subtime": "",
+        "overview": "「生花別伝」・「立花正風体」・「立花新風体」<br class='max-lg:hidden'>の指導資格の授与",
+        "description": ""
+      },
+      {
+        "category": "正教授一級",
+        "time": "総華綱",
+        "subtime": "",
+        "overview": "",
+        "description": ""
+      },
+      {
+        "category": "最高職位",
+        "sub_costs": [
+          {
+            "time": "准華督",
+            "subtime": "",
+            "overview": "40歳以上かつ、正教授一級 総華綱を取得してから5年が経過していることが条件となる名誉職（ここからは推薦が必要）",
+            "description": ""
+          },
+          {
+            "time": "華督",
+            "subtime": "",
+            "overview": "45歳以上かつ、最高職位 准華督を取得してから5年が経過していることが名誉職",
+            "description": ""
+          },
+          {
+            "time": "副総華督",
+            "subtime": "",
+            "overview": "",
+            "description": ""
+          },
+          {
+            "time": "総華督",
+            "subtime": "",
+            "overview": "",
+            "description": ""
+          },
+          {
+            "time": "華老",
+            "subtime": "",
+            "overview": "池坊において、かなりの功績が認められた華道家のみに与えられる名誉",
+            "description": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "theads": [
+      {
+        "width": 104,
+        "text": "本科コース"
+      },
+      {
+        "width": 117,
+        "text": "師範科コース"
+      },
+      { "width": 497, "text": "概要", "colspan": 2 }
+    ],
+    "data": [
+      {
+        "main": "入門",
+        "instructor": "",
+        "overview": "１２単位（１回の稽古１単位 月３回稽古(３単位)）４ヶ月で初伝取得"
+      },
+      {
+        "main": "初伝",
+        "instructor": "",
+        "overview": "１２単位"
+      },
+      {
+        "main": "中伝",
+        "instructor": "",
+        "overview": "１５単位"
+      },
+      {
+        "main": "奥伝",
+        "instructor": "",
+        "overview": "１８単位　最短1年７ヶ月で本科を終了。<br class='max-lg:hidden'>皆伝を取得して古流の雅名「理」がついた華号がもらえます。"
+      },
+      {
+        "both": "皆伝",
+        "overview": "これから先は教室での稽古と平行して、各地の支部が主催する研究会に参加し、資格の認定を受けることになります。"
+      },
+      {
+        "main": "",
+        "instructor": "準師範",
+        "overview": "準師範になると、「松○斎」という称号が許されます。"
+      },
+      {
+        "main": "",
+        "instructor": "師範",
+        "overview": "師範に進むと、古流松藤会の正会員に登録され、看板を取得して正式に教授資格者となります。"
+      }
+    ],
+    "description": "最低限必要な道具は、鋏・剣山・花器の三つです。<br class='max-lg:hidden'><br class='max-lg:hidden'>・花切り鋏：安い物は2000円ぐらいから、数万円もする高価な鋏もあります。5000円ぐらいの鋏で始められると良いかと思います。<br class='max-lg:hidden'>・剣山：価格は1000円以下のものから形・大きさや材質によって様々な種類があります。<br class='max-lg:hidden'>・花器：水盤と呼ばれる底が平らなものから、縦長の花瓶の様なものまで様々な色や形があります。汎用性の高い物を先生に教えてもらって購入するのが良いでしょう。2000円程度で買うことができます。<br class='max-lg:hidden'><br class='max-lg:hidden'>お稽古に行く場合に、どうしても必要なのは鋏だけで、花器や剣山はたいての場合お稽古場で借りられますから、すぐに買いそろえる必要は無いと思います。"
+  }
+]

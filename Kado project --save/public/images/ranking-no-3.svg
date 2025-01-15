@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="78.764" viewBox="0 0 80 78.764">
+  <g id="rank" transform="translate(-293 -5943.413)">
+    <path id="bg" d="M22.7,11.759A18.123,18.123,0,0,0,33.49,6.565a15.326,15.326,0,0,1,21.573,0,18.122,18.122,0,0,0,10.786,5.194A15.327,15.327,0,0,1,79.3,28.625,18.128,18.128,0,0,0,81.963,40.3a15.326,15.326,0,0,1-4.8,21.032,18.123,18.123,0,0,0-7.464,9.36,15.327,15.327,0,0,1-19.437,9.36,18.121,18.121,0,0,0-11.971,0,15.327,15.327,0,0,1-19.437-9.36,18.123,18.123,0,0,0-7.464-9.36A15.327,15.327,0,0,1,6.589,40.3,18.124,18.124,0,0,0,9.253,28.625,15.327,15.327,0,0,1,22.7,11.759" transform="translate(288.724 5941.287)" fill="#47d59c" fill-rule="evenodd"/>
+    <g id="copy">
+      <text id="堂々の" transform="translate(332 5974)" fill="#fff" font-size="9" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-12.672" y="0">堂々の</tspan></text>
+      <text id="第" transform="translate(317 6000)" fill="#fff" font-size="14" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-7" y="0">第</tspan></text>
+      <text id="位" transform="translate(352 6000)" fill="#fff" font-size="14" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-7" y="0">位</tspan></text>
+      <text id="_3" data-name="3" transform="translate(334 6004)" fill="#fff" font-size="34" font-family="SegoeUI, Segoe UI"><tspan x="-9.164" y="0">3</tspan></text>
+      <path id="icon" d="M858.725,24144.006l.212-1.092h10.119l.212,1.092Zm5.272-1.516H858.84l-1.769-5.92,3.733,2.23,3.193-4.58,3.193,4.58,3.733-2.23-1.769,5.92Zm6.768-6.453a.613.613,0,1,1,.612.654A.636.636,0,0,1,870.765,24136.037Zm-14.767,0a.616.616,0,1,1,1.23,0,.616.616,0,1,1-1.23,0Zm7.38-2.574a.616.616,0,1,1,1.23,0,.616.616,0,1,1-1.23,0Z" transform="translate(-531.037 -18181.217)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

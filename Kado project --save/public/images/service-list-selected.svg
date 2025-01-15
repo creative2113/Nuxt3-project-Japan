@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125" height="80" viewBox="0 0 125 80">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#99e"/>
+      <stop offset="1" stop-color="#e2a1c4"/>
+    </linearGradient>
+    <filter id="check" x="32" y="18" width="62" height="54" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_206694" data-name="Group 206694" transform="translate(-457 -4865)">
+    <rect id="bg" width="125" height="80" transform="translate(457 4865)" opacity="0.802" fill="url(#linear-gradient)"/>
+    <g transform="matrix(1, 0, 0, 1, 457, 4865)" filter="url(#check)">
+      <path id="check-2" data-name="check" d="M28.474,0h0L26.711,1.787C21.851,6.68,16.666,12.235,11.811,17.2L5.1,11.647l-1.935-1.6L0,13.92l1.919,1.6,8.488,7.023L12.17,24l1.591-1.615c5.377-5.414,11.2-11.745,16.476-17.055L32,3.543Z" transform="translate(47 28)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

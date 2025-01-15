@@ -1,0 +1,36 @@
+{
+  "ikebana": [
+    {
+      "name": "小原流",
+      "image": "/images/ikebana-select-1-pc.webp",
+      "sp_image": "/images/ikebana-select-1-sp.webp"
+    },
+    {
+      "name": "草月流",
+      "image": "/images/ikebana-select-2-pc.webp",
+      "sp_image": "/images/ikebana-select-2-sp.webp"
+    },
+    {
+      "name": "池坊",
+      "image": "/images/ikebana-select-3-pc.webp",
+      "sp_image": "/images/ikebana-select-3-sp.webp"
+    },
+    {
+      "name": "超入門",
+      "image": "/images/ikebana-select-4-pc.webp",
+      "sp_image": "/images/ikebana-select-4-sp.webp"
+    }
+  ],
+  "flowers": [
+    {
+      "name": "未経験者",
+      "image": "/images/flower-select-1-pc.webp",
+      "sp_image": "/images/flower-select-1-sp.webp"
+    },
+    {
+      "name": "経験者向け",
+      "image": "/images/flower-select-2-pc.webp",
+      "sp_image": "/images/flower-select-2-sp.webp"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="307" height="399.469" viewBox="0 0 307 399.469">
+  <defs>
+    <filter id="Path_134" x="20.771" y="152.919" width="246.549" height="246.549" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6dd"/>
+      <stop offset="1" stop-color="#7bd"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="1" y1="0.5" x2="0" y2="0.5" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Group_197572" data-name="Group 197572" transform="translate(-45 -5374.645)">
+    <g id="graph" transform="matrix(0.966, -0.259, 0.259, 0.966, -1246.281, 2394.157)" opacity="0.804">
+      <g transform="matrix(0.97, 0.26, -0.26, 0.97, 475.88, 3213.14)" filter="url(#Path_134)">
+        <g id="Path_134-2" data-name="Path 134" transform="matrix(0.97, -0.26, 0.26, 0.97, 29.77, 207.22)" fill="#f9f9f9">
+          <path d="M 118.1719055175781 186.1098022460938 L 68.43791961669922 186.1098022460938 L 25.36702919006348 161.2427215576172 L 0.5000200867652893 118.1719055175781 L 0.4999964237213135 68.43794250488281 L 25.36700439453125 25.36705207824707 L 68.43789672851562 0.5000200867652893 L 118.1719055175781 0.4999964237213135 L 161.2427520751953 25.36702919006348 L 186.1098022460938 68.43791961669922 L 186.1098022460938 118.1719055175781 L 161.2427215576172 161.2427215576172 L 118.1719055175781 186.1098022460938 Z" stroke="none"/>
+          <path d="M 118.037956237793 1 L 68.57184600830078 1.000015258789062 L 25.73300170898438 25.73304748535156 L 1 68.57189178466797 L 1 118.037956237793 L 25.73304748535156 160.876708984375 L 68.57186889648438 185.6098022460938 L 118.037956237793 185.6098022460938 L 160.876708984375 160.876708984375 L 185.6098022460938 118.037956237793 L 185.6098022460938 68.57186889648438 L 160.8767395019531 25.73301696777344 L 118.037956237793 1 M 118.3059005737305 0 L 161.6087799072266 25.0009765625 L 186.6098022460938 68.30392456054688 L 186.6098022460938 118.3059005737305 L 161.6087646484375 161.6087646484375 L 118.3059005737305 186.6098022460938 L 68.30392456054688 186.6098022460938 L 25.00099182128906 161.6087646484375 L 0 118.3059005737305 L 0 68.30394744873047 L 25.00094604492188 25.00099182128906 L 68.30390167236328 1.52587890625e-05 L 118.3059005737305 0 Z" stroke="none" fill="#ddd"/>
+        </g>
+      </g>
+      <line id="Line_8" data-name="Line 8" x2="184.744" y2="49.452" transform="translate(451.467 3489.579)" fill="none" stroke="#ddd" stroke-width="1"/>
+      <line id="Line_9" data-name="Line 9" y1="49.452" x2="184.744" transform="translate(451.467 3489.579)" fill="none" stroke="#ddd" stroke-width="1"/>
+      <line id="Line_10" data-name="Line 10" x2="184.744" y2="49.452" transform="translate(519.579 3607.143) rotate(-90)" fill="none" stroke="#ddd" stroke-width="1"/>
+      <line id="Line_11" data-name="Line 11" y1="49.452" x2="184.744" transform="translate(519.579 3607.143) rotate(-90)" fill="none" stroke="#ddd" stroke-width="1"/>
+      <line id="Line_12" data-name="Line 12" y1="134.359" x2="134.359" transform="translate(476.659 3447.592)" fill="none" stroke="#ddd" stroke-width="1"/>
+      <line id="Line_13" data-name="Line 13" x2="134.359" y2="134.359" transform="translate(476.659 3447.592)" fill="none" stroke="#ddd" stroke-width="1"/>
+      <path id="Path_133" data-name="Path 133" d="M74.716-18.4,100.231,9.655l16.888,28.181-8.305,31-3.26,36.353-31.732,19.39L40.6,108.906-.621,110.985,4.355,68.333-16.7,35.2l42.992-8.355L42.165,4.573Z" transform="translate(489.017 3459.928)" fill="#6dd" opacity="0.647"/>
+      <g id="txt" transform="matrix(0.966, 0.259, -0.259, 0.966, 1906.929, -2293.766)">
+        <text id="フォーム" transform="translate(188 5856)" fill="#999" font-size="10" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-20" y="0">フォーム</tspan></text>
+        <text id="ステージ" transform="translate(118 5874)" fill="#999" font-size="10" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-20" y="0">ステージ</tspan></text>
+        <text id="セオリー" transform="translate(63 5967)" fill="#999" font-size="10" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-20" y="0">セオリー</tspan></text>
+        <text id="ビブラート" transform="translate(116 6059)" fill="#999" font-size="10" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-25" y="0">ビブラート</tspan></text>
+        <text id="レンジ" transform="translate(188 6075)" fill="#999" font-size="10" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-15" y="0">レンジ</tspan></text>
+        <text id="ピッチ_インターバル" data-name="ピッチ＆
+インターバル" transform="translate(269 6053)" fill="#999" font-size="10" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-20" y="0">ピッチ＆</tspan><tspan x="-30" y="12">インターバル</tspan></text>
+        <text id="リズム" transform="translate(291 6023)" fill="#999" font-size="10" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-15" y="0">リズム</tspan></text>
+        <text id="プロナウン_シエイション" data-name="プロナウン
+シエイション" transform="translate(320 5962)" fill="#999" font-size="10" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-25" y="0">プロナウン</tspan><tspan x="-30" y="12">シエイション</tspan></text>
+        <text id="レゾナンス" transform="translate(300 5912)" fill="#999" font-size="10" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-25" y="0">レゾナンス</tspan></text>
+        <text id="ブレス" transform="translate(250 5874)" fill="#999" font-size="10" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-15" y="0">ブレス</tspan></text>
+        <text id="ワード" transform="translate(82 6019)" fill="#999" font-size="10" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-15" y="0">ワード</tspan></text>
+        <text id="インストゥル_メンタル" data-name="インストゥル
+メンタル" transform="translate(75 5906)" fill="#999" font-size="10" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-30" y="0">インストゥル</tspan><tspan x="-20" y="12">メンタル</tspan></text>
+      </g>
+      <path id="Path_1689" data-name="Path 1689" d="M69.1,2.573l7.21,30.552,34.965,6.252-10.858,27.2v33.6L71.993,116.851,43.739,97.207,6.558,103.545,9.3,66.581,3.858,40.709l28.3-9.269L44.067,12.68Z" transform="translate(489.017 3459.927)" fill="#8cd" opacity="0.647"/>
+    </g>
+    <g id="Group_1161" data-name="Group 1161" transform="translate(4 -4639.001)">
+      <text id="プロヴォーカルコースなら" transform="translate(184 10086)" fill="#222" font-size="14" font-family="YuGothic-Bold, Yu Gothic" font-weight="700" letter-spacing="0.1em"><tspan x="-91.7" y="0">プロヴォーカルコースなら</tspan></text>
+      <g id="Group_1158" data-name="Group 1158" transform="translate(81.79 10013.646)">
+        <path id="arrow" d="M12.663,37.06l2.076,2.047,17.924-17.67L14.739,3.767,12.663,5.814,28.511,21.437Z" transform="matrix(0, 1, -1, 0, 123.316, -12.663)" fill="url(#linear-gradient)"/>
+        <path id="arrow-2" data-name="arrow" d="M12.663,37.06l2.076,2.047,17.924-17.67L14.739,3.767,12.663,5.814,28.511,21.437Z" transform="matrix(0, 1, -1, 0, 123.316, 2.337)" fill="url(#linear-gradient)"/>
+        <path id="arrow-3" data-name="arrow" d="M12.663,37.06l2.076,2.047,17.924-17.67L14.739,3.767,12.663,5.814,28.511,21.437Z" transform="matrix(0, 1, -1, 0, 123.316, 17.337)" fill="url(#linear-gradient)"/>
+      </g>
+      <rect id="Rectangle_529" data-name="Rectangle 529" width="225" height="46" rx="10" transform="translate(71 10098)" fill="url(#linear-gradient-4)"/>
+      <rect id="Rectangle_532" data-name="Rectangle 532" width="219" height="40" rx="8" transform="translate(74 10101)" fill="#fff"/>
+      <text id="解決_" data-name="解決！" transform="translate(193 10129)" fill="#6dd" font-size="24" font-family="YuGothic-Bold, Yu Gothic" font-weight="700" letter-spacing="0.1em"><tspan x="-38.4" y="0">解決！</tspan></text>
+    </g>
+  </g>
+</svg>

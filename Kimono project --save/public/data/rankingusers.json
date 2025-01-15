@@ -1,0 +1,51 @@
+[
+  {
+    "rank_title": "Present",
+    "link": "present",
+    "image": "/images/ranking-user-1.webp",
+    "title": "着物も小物も<br>全部プレゼント",
+    "description": "必要なものは全部プレゼント！<br>何も買う必要はありません"
+  },
+  {
+    "rank_title": "Welcome",
+    "link": "welcome",
+    "image": "/images/ranking-user-2.webp",
+    "title": "カッコよさに<br>こだわる着付け",
+    "description": "楽しく習って仲間もできる<br>初心者も安心のカリキュラム"
+  },
+  {
+    "rank_title": "Cool",
+    "link": "cool",
+    "image": "/images/ranking-user-3.webp",
+    "title": "着物も小物も<br>全部プレゼント",
+    "description": "ただ着るだけじゃない！<br>コンテストも開催して、カッコイイを追求！"
+  },
+  {
+    "rank_title": "Enjoy",
+    "link": "enjoy",
+    "image": "/images/ranking-user-4.webp",
+    "title": "親しみやすいコースや<br>クラスが盛り沢山",
+    "description": "堅苦しさは一切なし！"
+  },
+  {
+    "rank_title": "Price",
+    "link": "price",
+    "image": "/images/ranking-user-5.webp",
+    "title": "安い月会費と<br>自由自在な通い方",
+    "description": "業界最安値に挑戦！"
+  },
+  {
+    "rank_title": "Online or Real",
+    "link": "online",
+    "image": "/images/ranking-user-6.webp",
+    "title": "オンラインorリアル？<br>通い方はお好みで",
+    "description": "駅近で通いやすい全国16スタジオ"
+  },
+  {
+    "rank_title": "Event",
+    "link": "event",
+    "image": "/images/ranking-user-7.webp",
+    "title": "着物を来て出かけよう<br>様々なイベントも開催",
+    "description": "ここはあなたのセカンドコミュニティー"
+  }
+]

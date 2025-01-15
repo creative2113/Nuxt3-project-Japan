@@ -1,0 +1,109 @@
+[
+  {
+    "updated": "2022.11.4.UPDATE",
+    "title": "代官山スタジオがグランドOPEN",
+    "text": "音楽教室激戦区・代官山にEYSの新たな代官山スタジオをOPEN！高級感のあるカ…",
+    "images": [
+      "/images/news-photo1@2x.avif",
+      "/images/news-photo1@2x.avif",
+      "/images/news-photo1@2x.avif",
+      "/images/news-photo1@2x.avif",
+      "/images/news-photo1@2x.avif"
+    ],
+    "category": "新規OPEN",
+    "created": "2022.11.4",
+    "contributor": "上塚えり",
+    "contributorImage": ["/images/avatar@2x.avif"],
+    "comment":
+      "アクセス抜群の立地で、仕事帰りでも気軽にお越しいただけます。さらに、近くにはおしゃれなカフェやアパレルショップ、…",
+    "bgColor": {
+      "start_r": 255,
+      "start_g": 68,
+      "start_b": 85,
+      "middle_r": 255,
+      "middle_g": 112,
+      "middle_b": 164,
+      "end_r": 255,
+      "end_g": 153,
+      "end_b": 238
+    }
+  },
+  {
+    "updated": "2022.11.4.UPDATE",
+    "title": "代官山スタジオがグランドOPEN",
+    "text": "音楽教室激戦区・代官山にEYSの新たな代官山スタジオをOPEN！高級感のあるカ…",
+    "images": [
+      "/images/news-photo1@2x.avif",
+      "/images/news-photo1@2x.avif",
+      "/images/news-photo1@2x.avif",
+      "/images/news-photo1@2x.avif",
+      "/images/news-photo1@2x.avif"
+    ],
+    "category": "発表会 [ユビフェス]",
+    "created": "2022.11.4",
+    "contributor": "上塚えり",
+    "contributorImage": ["/images/avatar@2x.avif"],
+    "comment":
+      "アクセス抜群の立地で、仕事帰りでも気軽にお越しいただけます。さらに、近くにはおしゃれなカフェやアパレルショップ、…",
+    "bgColor": {
+      "start_r": 0,
+      "start_g": 204,
+      "start_b": 238,
+      "end_r": 68,
+      "end_g": 238,
+      "end_b": 204
+    }
+  },
+  {
+    "updated": "2022.11.4.UPDATE",
+    "title": "代官山スタジオがグランドOPEN",
+    "text": "音楽教室激戦区・代官山にEYSの新たな代官山スタジオをOPEN！高級感のあるカ…",
+    "images": [
+      "/images/news-photo1@2x.avif",
+      "/images/news-photo1@2x.avif",
+      "/images/news-photo1@2x.avif",
+      "/images/news-photo1@2x.avif",
+      "/images/news-photo1@2x.avif"
+    ],
+    "category": "イベント",
+    "created": "2022.11.4",
+    "contributor": "上塚えり",
+    "contributorImage": ["/images/avatar@2x.avif"],
+    "comment":
+      "アクセス抜群の立地で、仕事帰りでも気軽にお越しいただけます。さらに、近くにはおしゃれなカフェやアパレルショップ、…",
+    "bgColor": {
+      "start_r": 0,
+      "start_g": 187,
+      "start_b": 187,
+      "end_r": 102,
+      "end_g": 238,
+      "end_b": 187
+    }
+  },
+  {
+    "updated": "2022.11.4.UPDATE",
+    "title": "代官山スタジオがグランドOPEN",
+    "text": "音楽教室激戦区・代官山にEYSの新たな代官山スタジオをOPEN！高級感のあるカ…",
+    "images": [
+      "/images/news-photo1@2x.avif",
+      "/images/news-photo1@2x.avif",
+      "/images/news-photo1@2x.avif",
+      "/images/news-photo1@2x.avif",
+      "/images/news-photo1@2x.avif"
+    ],
+    "category": "バンド",
+    "created": "2022.11.4",
+    "contributor": "上塚えり",
+    "contributorImage": ["/images/avatar@2x.avif"],
+    "comment":
+      "アクセス抜群の立地で、仕事帰りでも気軽にお越しいただけます。さらに、近くにはおしゃれなカフェやアパレルショップ、…",
+    "bgColor": {
+      "start_r": 0,
+      "start_g": 136,
+      "start_b": 238,
+      "end_r": 102,
+      "end_g": 204,
+      "end_b": 255
+    }
+  }
+]

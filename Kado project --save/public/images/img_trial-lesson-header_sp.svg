@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="311" viewBox="0 0 375 311">
+  <defs>
+    <filter id="Ellipse_11453" x="11" y="128" width="85" height="85" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_11453-2" x="100" y="128" width="85" height="85" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_11453-3" x="190" y="128" width="85" height="85" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_11453-4" x="279" y="128" width="85" height="85" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_107098" x="11" y="6" width="353" height="90" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_106863" x="11" y="207" width="353" height="98" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_207053" data-name="Group 207053" transform="translate(0 -288)">
+    <rect id="Rectangle_109827" data-name="Rectangle 109827" width="375" height="111" transform="translate(0 288)" fill="#ddd"/>
+    <rect id="Rectangle_106887" data-name="Rectangle 106887" width="375" height="200" transform="translate(0 399)" fill="#c7c7c7" opacity="0.199"/>
+    <g id="process" transform="translate(-560 -226)">
+      <g id="set" transform="translate(580 648)">
+        <g transform="matrix(1, 0, 0, 1, -20, -134)" filter="url(#Ellipse_11453)">
+          <circle id="Ellipse_11453-5" data-name="Ellipse 11453" cx="33.5" cy="33.5" r="33.5" transform="translate(20 134)" fill="#fff"/>
+        </g>
+        <g id="text-group" transform="translate(9.262 12.77)">
+          <text id="STEP" transform="translate(15.738 10.23)" fill="#888" font-size="8" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-9.172" y="0">STEP</tspan></text>
+          <text id="_01" data-name="01" transform="translate(34.738 11.23)" fill="#a794ec" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-8.625" y="0">01</tspan></text>
+          <text id="フォーム_より予約" data-name="フォーム
+より予約" transform="translate(23.738 26.23)" fill="#222" font-size="10" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-20" y="0">フォーム</tspan><tspan x="-20" y="14">より予約</tspan></text>
+        </g>
+      </g>
+      <g id="set-2" data-name="set" transform="translate(669.45 648)">
+        <g transform="matrix(1, 0, 0, 1, -109.45, -134)" filter="url(#Ellipse_11453-2)">
+          <circle id="Ellipse_11453-6" data-name="Ellipse 11453" cx="33.5" cy="33.5" r="33.5" transform="translate(109 134)" fill="#fff"/>
+        </g>
+        <g id="text-group-2" data-name="text-group" transform="translate(9.262 14.77)">
+          <text id="STEP-2" data-name="STEP" transform="translate(15.288 8.23)" fill="#888" font-size="8" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-9.172" y="0">STEP</tspan></text>
+          <text id="_02" data-name="02" transform="translate(35.288 9.23)" fill="#a794ec" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-8.625" y="0">02</tspan></text>
+          <text id="体験日確定_のご連絡" data-name="体験日確定
+のご連絡" transform="translate(24.288 24.23)" fill="#222" font-size="10" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-25" y="0">体験日確定</tspan><tspan x="-20" y="14">のご連絡</tspan></text>
+        </g>
+      </g>
+      <g id="set-3" data-name="set" transform="translate(758.901 648)">
+        <g transform="matrix(1, 0, 0, 1, -198.9, -134)" filter="url(#Ellipse_11453-3)">
+          <circle id="Ellipse_11453-7" data-name="Ellipse 11453" cx="33.5" cy="33.5" r="33.5" transform="translate(199 134)" fill="#fff"/>
+        </g>
+        <g id="text-group-3" data-name="text-group" transform="translate(17.154 14.77)">
+          <text id="STEP-3" data-name="STEP" transform="translate(7.945 8.23)" fill="#888" font-size="8" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-9.172" y="0">STEP</tspan></text>
+          <text id="_03" data-name="03" transform="translate(27.945 9.23)" fill="#a794ec" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-8.625" y="0">03</tspan></text>
+          <text id="スクールに_ご来店" data-name="スクールに
+ご来店" transform="translate(16.945 24.23)" fill="#222" font-size="10" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-25" y="0">スクールに</tspan><tspan x="-15" y="14">ご来店</tspan></text>
+        </g>
+      </g>
+      <g id="set-4" data-name="set" transform="translate(848.351 648)">
+        <g transform="matrix(1, 0, 0, 1, -288.35, -134)" filter="url(#Ellipse_11453-4)">
+          <circle id="Ellipse_11453-8" data-name="Ellipse 11453" cx="33.5" cy="33.5" r="33.5" transform="translate(288 134)" fill="#fff"/>
+        </g>
+        <g id="text-group-4" data-name="text-group" transform="translate(9.262 14.77)">
+          <text id="STEP-4" data-name="STEP" transform="translate(16.387 8.23)" fill="#888" font-size="8" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-9.172" y="0">STEP</tspan></text>
+          <text id="_04" data-name="04" transform="translate(34.387 9.23)" fill="#a794ec" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-8.625" y="0">04</tspan></text>
+          <text id="いよいよ_体験_" data-name="いよいよ
+体験！" transform="translate(24.387 24.23)" fill="#222" font-size="10" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-20" y="0">いよいよ</tspan><tspan x="-15" y="14">体験！</tspan></text>
+        </g>
+      </g>
+      <path id="Polygon_38" data-name="Polygon 38" d="M8,0l8,14H0Z" transform="translate(664 673) rotate(90)" fill="#888" opacity="0.303"/>
+      <path id="Polygon_39" data-name="Polygon 39" d="M8,0l8,14H0Z" transform="translate(755 673) rotate(90)" fill="#888" opacity="0.303"/>
+      <path id="Polygon_40" data-name="Polygon 40" d="M8,0l8,14H0Z" transform="translate(844 673) rotate(90)" fill="#888" opacity="0.303"/>
+      <g id="title" transform="translate(-33 9)">
+        <g id="Rectangle_106888" data-name="Rectangle 106888" transform="translate(613 601)" fill="#a794ec" stroke="#fff" stroke-width="1">
+          <rect width="335" height="28.001" rx="14" stroke="none"/>
+          <rect x="-0.5" y="-0.5" width="336" height="29.001" rx="14.5" fill="none"/>
+        </g>
+        <text id="お申込みから無料体験レッスン受講までの流れ" transform="translate(781 620)" fill="#fff" font-size="14" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-147" y="0">お申込みから無料体験レッスン受講までの流れ</tspan></text>
+      </g>
+    </g>
+    <g id="contac-tel" transform="translate(-1055 -233)">
+      <g transform="matrix(1, 0, 0, 1, 1055, 521)" filter="url(#Rectangle_107098)">
+        <g id="Rectangle_107098-2" data-name="Rectangle 107098" transform="translate(20 12)" fill="#fff" stroke="#a794ec" stroke-width="1">
+          <rect width="335" height="72" stroke="none"/>
+          <rect x="0.5" y="0.5" width="334" height="71" fill="none"/>
+        </g>
+      </g>
+      <rect id="Rectangle_107097" data-name="Rectangle 107097" width="335" height="28.001" transform="translate(1075 533)" fill="#a794ec"/>
+      <text id="お電話でもお申込みいただけます" transform="translate(1243 552)" fill="#fff" font-size="14" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-105" y="0">お電話でもお申込みいただけます</tspan></text>
+      <g id="Group_191336" data-name="Group 191336" transform="translate(1105.462 566)">
+        <text id="お電話受付時間_8:00_25:00" data-name="お電話受付時間
+8:00〜25:00" transform="translate(35 14)" fill="#666" font-size="10" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="-34.131" y="0">お電話受付時間</tspan><tspan y="0" font-size="12" font-family="SegoeUI-Bold, Segoe UI"></tspan><tspan font-size="11" font-family="SegoeUI-Bold, Segoe UI"><tspan x="-30.626" y="14">8:00</tspan><tspan y="14" font-family="YuGothicUI-Bold, Yu Gothic UI">〜</tspan><tspan y="14">25:00</tspan></tspan></text>
+        <g id="Group_155450" data-name="Group 155450" transform="translate(91.077)">
+          <text id="_0120-978-900" data-name="0120-978-900" transform="translate(111.923 25)" fill="#666" font-size="24" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-78.727" y="0">0120-978-900</tspan></text>
+          <path id="freedial" d="M183.67,220.907a3.444,3.444,0,1,0,6.885,0c0-1.851-1.862-3.33-3.442-4.215C185.531,217.577,183.67,219.056,183.67,220.907Zm-3.593-10.419v18h28v-18Zm28,4.377a14.358,14.358,0,0,0-5.329,1c1.73,1.139,3.4,2.866,3.4,5.046a5.162,5.162,0,0,1-5.153,5.081,5.092,5.092,0,0,1-5.07-5.081c0-2.18,1.59-3.907,3.32-5.046a13.937,13.937,0,0,0-10.344,0c1.731,1.139,3.32,2.866,3.32,5.046a5.091,5.091,0,0,1-5.07,5.081,5.2,5.2,0,0,1-5.191-5.081c0-2.18,1.712-3.907,3.441-5.046a14.334,14.334,0,0,0-5.324-1v-1.576a15.956,15.956,0,0,1,7.074,1.575,15.993,15.993,0,0,1,13.843,0,15.977,15.977,0,0,1,7.078-1.575Zm-10.411,6a3.443,3.443,0,1,0,6.883,0c0-1.852-1.86-3.332-3.441-4.216C199.523,217.536,197.662,219.015,197.662,220.868Z" transform="translate(-180.077 -202)" fill="#666"/>
+        </g>
+      </g>
+    </g>
+    <g id="info-panel" transform="translate(-572 -281)">
+      <g transform="matrix(1, 0, 0, 1, 572, 569)" filter="url(#Rectangle_106863)">
+        <g id="Rectangle_106863-2" data-name="Rectangle 106863" transform="translate(20 213)" fill="#fff" stroke="#a794ec" stroke-width="1">
+          <rect width="335" height="80" stroke="none"/>
+          <rect x="0.5" y="0.5" width="334" height="79" fill="none"/>
+        </g>
+      </g>
+      <text id="特にありませんので身軽でお越しください_" data-name="特にありませんので身軽でお越しください。" transform="translate(760 846.318)" fill="#666" font-size="14" font-family="YuGothic-Bold, Yu Gothic" font-weight="700" letter-spacing="0.05em"><tspan x="-146.65" y="0">特にありませんので身軽でお越しください。</tspan></text>
+      <g id="title-2" data-name="title" transform="translate(636 797)">
+        <text id="当日ご用意いただくもの" transform="translate(155 19)" fill="#a794ec" font-size="16" font-family="YuGothic-Bold, Yu Gothic" font-weight="700" letter-spacing="0.05em"><tspan x="-92" y="0">当日ご用意いただくもの</tspan></text>
+        <g id="count">
+          <path id="Union_76" data-name="Union 76" d="M7.969,24.845c-.47-.538-.442-1.171-.273-2.28S9.231,16.128,9.4,15.28s-.614-.766-1.44-1.407A5.792,5.792,0,0,1,4.935,8.806,5.917,5.917,0,0,1,8.672,3.421s-.157-.012,2.687-.012A25.723,25.723,0,0,0,21.863.494,3.281,3.281,0,0,1,23.622,0,3.494,3.494,0,0,1,26,.944a6.509,6.509,0,0,1,1.481,2.04c.075.159.15.317.218.488a13.878,13.878,0,0,1,.947,5.182,13.872,13.872,0,0,1-.934,5.189c-.075.177-.15.341-.225.506A6.56,6.56,0,0,1,26,16.388a3.472,3.472,0,0,1-2.367,1.153,3.888,3.888,0,0,1-1.37-.3c-2.578-.912-4.3-2.008-7.591-2.008-1.76,0-1.126,6.119-1.126,8.344s.321,2.774-.941,2.774A10.572,10.572,0,0,1,7.969,24.845ZM22.4,3.94a12.269,12.269,0,0,0-.839,4.745,12.224,12.224,0,0,0,.839,4.732c.437,1,1.016,1.786,1.65,1.786s1.4-.791,1.834-1.786a11.917,11.917,0,0,0-.014-9.477,2.363,2.363,0,0,0-1.828-1.584C23.411,2.356,22.832,2.952,22.4,3.94ZM5.179,14.433a6.086,6.086,0,0,1-4.4-4.268A.918.918,0,0,1,0,9.185.947.947,0,0,1,.712,8.2,5.387,5.387,0,0,1,6.041,3.58a.212.212,0,0,1,.123.4A5.985,5.985,0,0,0,3.035,9.2a6.394,6.394,0,0,0,2.417,4.738.286.286,0,0,1-.205.5A.358.358,0,0,1,5.179,14.433Z" transform="translate(0 1.647)" fill="#a794ec"/>
+          <path id="線_319" data-name="線 319" d="M.325,5.179a1.107,1.107,0,0,1-.86-.4A.937.937,0,0,1-.32,3.4L5.408-.552a1.137,1.137,0,0,1,1.5.2A.937.937,0,0,1,6.7,1.029L.969,4.982A1.132,1.132,0,0,1,.325,5.179Z" transform="translate(30.466 0.75)" fill="#a794ec"/>
+          <path id="線_320" data-name="線 320" d="M6.052,3.862a1.146,1.146,0,0,1-.48-.1L-.156,1.122A.953.953,0,0,1-.637-.2,1.119,1.119,0,0,1,.8-.646L6.533,1.99a.953.953,0,0,1,.48,1.326A1.088,1.088,0,0,1,6.052,3.862Z" transform="translate(30.466 15.244)" fill="#a794ec"/>
+          <path id="線_321" data-name="線 321" d="M6.052,1.226H.324A1.034,1.034,0,0,1-.75.238,1.034,1.034,0,0,1,.324-.75H6.052A1.034,1.034,0,0,1,7.127.238,1.034,1.034,0,0,1,6.052,1.226Z" transform="translate(33.33 9.974)" fill="#a794ec"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

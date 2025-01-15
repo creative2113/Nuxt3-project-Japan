@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="330.328" height="234.001" viewBox="0 0 330.328 234.001">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.607" y1="1" x2="0.607" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fe99bb"/>
+      <stop offset="1" stop-color="#fce"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1" x2="0.025" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="chart" transform="translate(-700.225 -5932.999)">
+    <text id="_40" data-name="40" transform="translate(769.225 6162)" fill="#666" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-11.504" y="0">40</tspan></text>
+    <text id="人" transform="translate(790.225 6163)" fill="#666" font-size="14" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-7" y="0">人</tspan></text>
+    <text id="_2024" data-name="2024" transform="translate(717.225 5949)" fill="#666" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-16.105" y="0">2024</tspan></text>
+    <text id="_2009" data-name="2009" transform="translate(717.225 6156)" fill="#666" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-16.105" y="0">2009</tspan></text>
+    <path id="chart-2" data-name="chart" d="M209.126,278.563V0H228V278.563a9.437,9.437,0,1,1-18.875,0Zm-26.046-65.42V0h18.874V213.143a9.437,9.437,0,0,1-18.874,0Zm-26.047-33.533V0h18.875V179.609a9.437,9.437,0,0,1-18.875,0Zm-26.047-25.757V0h18.875V153.852a9.437,9.437,0,0,1-18.875,0Zm-26.423-33.047V0h18.874V120.805a9.437,9.437,0,1,1-18.874,0ZM78.516,85.329V0H97.391V85.329a9.437,9.437,0,0,1-18.875,0ZM52.47,57.628V0H71.344V57.628a9.437,9.437,0,1,1-18.874,0ZM26.423,38.189V0H45.3V38.189a9.437,9.437,0,1,1-18.875,0ZM8.384,8.384A8.384,8.384,0,0,1,0,0H18.874A8.384,8.384,0,0,1,10.49,8.384Z" transform="translate(741.226 6161) rotate(-90)" fill="url(#linear-gradient)"/>
+    <path id="arrow" d="M129.268,174.142l18.355,3.93C136.054,142.454,95.963,39.518,0,0,100.405,28.617,146.684,140.48,158.16,172.888l8.232-14.737-.275,50.177Z" transform="translate(822.225 6154) rotate(-90)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

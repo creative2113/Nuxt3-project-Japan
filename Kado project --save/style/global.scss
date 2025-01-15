@@ -1,0 +1,95 @@
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family:
+    'ヒラギノ角ゴシック',
+    Hiragino Sans,
+    '游ゴシック',
+    Yu Gothic,
+    sans-serif;
+  color: #222222;
+  background-color: #ffffff;
+  width: 100%;
+  overflow-x: hidden;
+  position: relative;
+}
+
+@font-face {
+  font-family: "HiraginoMin";
+  src: url("https://db.onlinewebfonts.com/t/bea966241a46ab5d2866e39dcf447953.eot");
+  src: url("https://db.onlinewebfonts.com/t/bea966241a46ab5d2866e39dcf447953.eot?#iefix")format("embedded-opentype"),
+  url("https://db.onlinewebfonts.com/t/bea966241a46ab5d2866e39dcf447953.woff2")format("woff2"),
+  url("https://db.onlinewebfonts.com/t/bea966241a46ab5d2866e39dcf447953.woff")format("woff"),
+  url("https://db.onlinewebfonts.com/t/bea966241a46ab5d2866e39dcf447953.ttf")format("truetype"),
+  url("https://db.onlinewebfonts.com/t/bea966241a46ab5d2866e39dcf447953.svg#HiraginoMin")format("svg");
+  font-display: swap;
+}
+
+.hiragino-mp {
+  font-family: 'HiraginoMin', sans-serif;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("https://db.onlinewebfonts.com/t/0033a2fbc0329740fb86c1cfd134cb94.eot");
+  src: url("https://db.onlinewebfonts.com/t/0033a2fbc0329740fb86c1cfd134cb94.eot?#iefix")format("embedded-opentype"),
+  url("https://db.onlinewebfonts.com/t/0033a2fbc0329740fb86c1cfd134cb94.woff2")format("woff2"),
+  url("https://db.onlinewebfonts.com/t/0033a2fbc0329740fb86c1cfd134cb94.woff")format("woff"),
+  url("https://db.onlinewebfonts.com/t/0033a2fbc0329740fb86c1cfd134cb94.ttf")format("truetype"),
+  url("https://db.onlinewebfonts.com/t/0033a2fbc0329740fb86c1cfd134cb94.svg#Roboto")format("svg");
+  font-display: swap;
+}
+
+.roboto {
+  font-family: 'Roboto', sans-serif;
+}
+
+@font-face {
+  font-family: "Mamelon";
+  src: url("/fonts/Mamelon-5-Hi-Regular.woff2")format("woff2");
+  font-display: swap;
+}
+
+.mamelon {
+  font-family: "Mamelon", sans-serif;
+}
+
+@font-face {
+  font-family: "Savoye LET Plain:1.0";
+  src: url("https://db.onlinewebfonts.com/t/005369b1bccd49c6f752348e3261eec3.eot");
+  src: url("https://db.onlinewebfonts.com/t/005369b1bccd49c6f752348e3261eec3.eot?#iefix")format("embedded-opentype"),
+  url("https://db.onlinewebfonts.com/t/005369b1bccd49c6f752348e3261eec3.woff2")format("woff2"),
+  url("https://db.onlinewebfonts.com/t/005369b1bccd49c6f752348e3261eec3.woff")format("woff"),
+  url("https://db.onlinewebfonts.com/t/005369b1bccd49c6f752348e3261eec3.ttf")format("truetype"),
+  url("https://db.onlinewebfonts.com/t/005369b1bccd49c6f752348e3261eec3.svg#Savoye LET Plain:1.0")format("svg");
+  font-display: swap;
+}
+
+.savoye {
+  font-family: "Savoye LET Plain:1.0", sans-serif;
+}
+
+@font-face {
+  font-family: "RyuminProM";
+  src: url("/fonts/A-OTF-Ryumin-Pro-M-KL.otf")format("woff2");
+  font-display: swap;
+}
+
+.ryumin-pm {
+  font-family: "RyuminProM", sans-serif;
+}
+
+.pb-1 {
+  padding-bottom: 0.25rem;
+}
+.pb-2 {
+  padding-bottom: 0.5rem;
+}
+.pt-1 {
+  padding-top: 0.25rem;
+}
+.pt-2 {
+  padding-top: 0.5rem;
+}

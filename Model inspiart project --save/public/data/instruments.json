@@ -1,0 +1,148 @@
+[
+  {
+    "typeName": "木管楽器コース",
+    "typeImage": "/images/img_woodwind.avif",
+    "instruments": [
+      { "value": "soprano-sax", "label": "ソプラノサックス", "image": "/images/img_soprano-sax.avif" },
+      { "value": "alto-sax", "label": "アルトサックス", "image": "/images/img_alto-sax.avif" },
+      { "value": "tenor-sax", "label": "テナーサックス", "image": "/images/img_tenor-sax.avif" },
+      { "value": "baritone-sax", "label": "バリトンサックス", "image": "/images/img_baritone-sax.avif" },
+      { "value": "flute", "label": "フルート", "image": "/images/img_flute.avif" },
+      { "value": "jazz-flute", "label": "ジャズフルート", "image": "/images/img_jazz-flute.avif" },
+      { "value": "piccolo", "label": "ピッコロ", "image": "/images/img_piccolo.avif" },
+      { "value": "clarinet", "label": "クラリネット", "image": "/images/img_clarinet.avif" },
+      { "value": "fagotto", "label": "ファゴット", "image": "/images/img_fagotto.avif" },
+      { "value": "oboe", "label": "オーボエ", "image": "/images/img_oboe.avif" },
+      { "value": "recorder", "label": "リコーダー", "image": "/images/img_recorder.avif" },
+      { "value": "ocarina", "label": "オカリナ", "image": "/images/img_ocarina.avif" }
+    ],
+    "isOpen": false
+  },
+  {
+    "typeName": "金管楽器コース",
+    "typeImage": "/images/img_brass.avif",
+    "instruments": [
+      { "value": "trumpet", "label": "トランペット", "image": "/images/img_trumpet.avif" },
+      { "value": "trombone", "label": "トロンボーン", "image": "/images/img_trombone.avif" },
+      { "value": "horn", "label": "ホルン", "image": "/images/img_horn.avif" },
+      { "value": "tuba", "label": "チューバ", "image": "/images/img_tuba.avif" },
+      { "value": "euphonium", "label": "ユーフォニアム", "image": "/images/img_euphonium.avif" },
+      { "value": "sousaphone", "label": "スーザフォン", "image": "/images/img_sousaphone.avif" }
+    ],
+    "isOpen": false
+  },
+  {
+    "typeName": "鍵盤楽器コース",
+    "typeImage": "/images/img_keyboard.avif",
+    "instruments": [
+      { "value": "classic-piano", "label": "クラシックピアノ", "image": "/images/img_classic-piano.avif" },
+      { "value": "pops-piano", "label": "ポップスピアノ", "image": "/images/img_pops-piano.avif" },
+      { "value": "jazz-piano", "label": "ジャズピアノ", "image": "/images/img_jazz-piano.avif" },
+      { "value": "keyboard", "label": "キーボード", "image": "/images/img_keyboard.avif" },
+      { "value": "synthesizer", "label": "シンセサイザー", "image": "/images/img_synthesizer.avif" }
+    ],
+    "isOpen": false
+  },
+  {
+    "typeName": "和楽器/民族音楽コース",
+    "typeImage": "/images/img_japanese.avif",
+    "instruments": [
+      { "value": "tsugaru-shamisen", "label": "津軽三味線", "image": "/images/img_tsugaru-shamisen.avif" },
+      { "value": "nagauta-shamisen", "label": "長唄三味線", "image": "/images/img_nagauta-shamisen.avif" },
+      { "value": "erhu", "label": "二胡", "image": "/images/img_erhu.avif" },
+      { "value": "okinawa-sanshin", "label": "沖縄三線", "image": "/images/img_okinawa-sanshin.avif" },
+      { "value": "wadaiko", "label": "和太鼓", "image": "/images/img_wadaiko.avif" },
+      { "value": "koto", "label": "箏", "image": "/images/img_koto.avif" },
+      { "value": "shakuhachi", "label": "尺八", "image": "/images/img_shakuhachi.avif" },
+      { "value": "biwa", "label": "琵琶", "image": "/images/img_biwa.avif" },
+      { "value": "tsuzumi", "label": "鼓", "image": "/images/img_tsuzumi.avif" },
+      { "value": "ukulele", "label": "ウクレレ", "image": "/images/img_ukulele.avif" },
+      { "value": "shinobue", "label": "篠笛", "image": "/images/img_shinobue.avif" }
+    ],
+    "isOpen": false
+  },
+  {
+    "typeName": "ギター/ベースコース",
+    "typeImage": "/images/img_guitar.avif",
+    "instruments": [
+      { "value": "electric-guitar", "label": "エレキギター", "image": "/images/img_electric-guitar.avif" },
+      { "value": "acoustic-guitar", "label": "アコースティックギター", "image": "/images/img_acoustic-guitar.avif" },
+      { "value": "classic-guitar", "label": "クラシックギター", "image": "/images/img_classic-guitar.avif" },
+      { "value": "jazz-guitar", "label": "ジャズギター", "image": "/images/img_jazz-guitar.avif" },
+      { "value": "bossa-nova-guitar", "label": "ボサノバギター", "image": "/images/img_bossa-nova-guitar.avif" },
+      { "value": "flamenco-guitar", "label": "フラメンコギター", "image": "/images/img_flamenco-guitar.avif" },
+      { "value": "electric-bass", "label": "エレキベース", "image": "/images/img_electric-bass.avif" },
+      { "value": "wood-bass", "label": "ウッドベース", "image": "/images/img_wood-bass.avif" }
+    ],
+    "isOpen": false
+  },
+  {
+    "typeName": "打楽器コース",
+    "typeImage": "/images/img_percussion.avif",
+    "instruments": [
+      { "value": "drum", "label": "ドラム", "image": "/images/img_drum.avif" },
+      { "value": "percussion", "label": "パーカッション", "image": "/images/img_percussion.avif" },
+      { "value": "pandeiro", "label": "パンデイロ", "image": "/images/img_pandeiro.avif" }
+    ],
+    "isOpen": false
+  },
+  {
+    "typeName": "弦楽器コース",
+    "typeImage": "/images/img_strings.avif",
+    "instruments": [
+      { "value": "violin", "label": "ヴァイオリン", "image": "/images/img_violin.avif" },
+      { "value": "viola", "label": "ヴィオラ", "image": "/images/img_viola.avif" },
+      { "value": "cello", "label": "チェロ", "image": "/images/img_cello.avif" },
+      { "value": "contrabass", "label": "コントラバス", "image": "/images/img_contrabass.avif" },
+      { "value": "harp", "label": "ハープ", "image": "/images/img_harp.avif" }
+    ],
+    "isOpen": false
+  },
+  {
+    "typeName": "ヴォーカルコース",
+    "typeImage": "/images/img_vocal.avif",
+    "instruments": [
+      { "value": "vocal-training", "label": "ヴォーカル(ヴォイストレーニング)", "image": "/images/img_vocal-training.avif" },
+      { "value": "pro-vocal", "label": "ヴォーカル(プロヴォーカル)", "image": "/images/img_pro-vocal.avif" },
+      { "value": "vocal-pops", "label": "ヴォーカル(ポップス)", "image": "/images/img_vocal-pops.avif" },
+      { "value": "speech-improvement", "label": "話し方改善(話し方改善)", "image": "/images/img_speech-improvement.avif" },
+      { "value": "tone-deafness-correction", "label": "音痴矯正(音痴矯正)", "image": "/images/img_tone-deafness-correction.avif" },
+      { "value": "piano-and-vocal", "label": "ピアノ弾き語り", "image": "/images/img_piano-and-vocal.avif" },
+      { "value": "guitar-and-vocal", "label": "ギター弾き語り", "image": "/images/img_guitar-and-vocal.avif" },
+      { "value": "vocal-rock", "label": "ヴォーカル(ロック)", "image": "/images/img_vocal-rock.avif" },
+      { "value": "vocal-jazz", "label": "ヴォーカル(ジャズ)", "image": "/images/img_vocal-jazz.avif" },
+      { "value": "bel-canto", "label": "声楽", "image": "/images/img_bel-canto.avif" },
+      { "value": "enka", "label": "ヴォーカル(演歌)", "image": "/images/img_enka.avif" },
+      { "value": "western-music", "label": "ヴォーカル(洋楽)", "image": "/images/img_western-music.avif" },
+      { "value": "anime-songs", "label": "ヴォーカル(アニソン)", "image": "/images/img_anime-songs.avif" },
+      { "value": "dance-vocal", "label": "ヴォーカル(ダンスヴォーカル)", "image": "/images/img_dance-vocal.avif" },
+      { "value": "voice-actor", "label": "ヴォーカル(声優)", "image": "/images/img_voice-actor.avif" },
+      { "value": "gospel", "label": "ゴスペル", "image": "/images/img_gospel.avif" },
+      { "value": "a-cappella", "label": "アカペラ", "image": "/images/img_a-cappella.avif" },
+      { "value": "beatbox", "label": "ヴォイスパーカッション", "image": "/images/img_beatbox.avif" },
+      { "value": "musical", "label": "ヴォーカル(ミュージカル)", "image": "/images/img_musical.avif" }
+    ],
+    "isOpen": false
+  },
+  {
+    "typeName": "バンドコース",
+    "typeImage": "/images/img_band.avif",
+    "instruments": [
+      { "value": "band", "label": "バンド", "image": "/images/img_band.avif" },
+      { "value": "ensemble", "label": "アンサンブルレッスン", "image": "/images/img_ensemble.avif" }
+    ],
+    "isOpen": false
+  },
+  {
+    "typeName": "その他コース",
+    "typeImage": "/images/img_other.avif",
+    "instruments": [
+      { "value": "songwriting", "label": "作詞", "image": "/images/img_songwriting.avif" },
+      { "value": "composing", "label": "作曲", "image": "/images/img_composing.avif" },
+      { "value": "ear-training", "label": "イヤートレーニング", "image": "/images/img_ear-training.avif" },
+      { "value": "dj", "label": "ＤＪ", "image": "/images/img_dj.avif" },
+      { "value": "dtm", "label": "DTM", "image": "/images/img_dtm.avif" }
+    ],
+    "isOpen": false
+  }
+]

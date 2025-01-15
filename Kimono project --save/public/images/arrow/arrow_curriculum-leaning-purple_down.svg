@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54" height="54" viewBox="0 0 54 54">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a4a4dd"/>
+      <stop offset="0.648" stop-color="#b9b9e5"/>
+      <stop offset="1" stop-color="#cccced"/>
+    </linearGradient>
+    <filter id="長方形_108602" x="0" y="0" width="54" height="54" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="グループ_196179" data-name="グループ 196179" transform="translate(-318 -3104)">
+    <g transform="matrix(1, 0, 0, 1, 318, 3104)" filter="url(#長方形_108602)">
+      <rect id="長方形_108602-2" data-name="長方形 108602" width="36" height="36" rx="18" transform="translate(9 6)" fill="url(#linear-gradient)"/>
+    </g>
+    <path id="パス_378229" data-name="パス 378229" d="M-12759.242-3113.476v4.771l7.012-4.771-5.6-4.888" transform="translate(-2768.535 15885.604) rotate(90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

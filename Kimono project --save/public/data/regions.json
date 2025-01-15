@@ -1,0 +1,108 @@
+[
+  {
+    "region": "北海道・東北",
+    "prefectures": [
+      {
+        "prefecture": "北海道",
+        "studios": [
+          { "name": "北海道スタジオ", "address": "北海道の住所", "access": "最寄り駅からのアクセス情報" }
+        ]
+      }
+    ],
+    "color": "#FBA322"
+  },
+  {
+    "region": "東京",
+    "prefectures": [
+      {
+        "prefecture": "東京都",
+        "studios": [
+          {
+            "name": "東京スタジオ",
+            "address": "東京都中央区銀座1丁目8−19 キラリト銀座 6F",
+            "access": "最寄り駅からのアクセス情報"
+          }
+        ]
+      }
+    ],
+    "color": "#BB87EE"
+  },
+  {
+    "region": "関東（東京以外）",
+    "prefectures": [
+      {
+        "prefecture": "神奈川県",
+        "studios": [
+          {
+            "name": "神奈川スタジオ1",
+            "address": "神奈川県の住所",
+            "access": "最寄り駅からのアクセス情報"
+          },
+          {
+            "name": "神奈川スタジオ2",
+            "address": "神奈川県の住所",
+            "access": "最寄り駅からのアクセス情報"
+          }
+        ]
+      },
+      {
+        "prefecture": "埼玉県",
+        "studios": [
+          { "name": "埼玉スタジオ", "address": "埼玉県の住所", "access": "最寄り駅からのアクセス情報" }
+        ]
+      },
+      {
+        "prefecture": "千葉県",
+        "studios": [
+          { "name": "千葉スタジオ", "address": "千葉県の住所", "access": "最寄り駅からのアクセス情報" }
+        ]
+      }
+    ],
+    "color": "#BB87EE"
+  },
+  {
+    "region": "北陸・中部",
+    "prefectures": [
+      {
+        "prefecture": "新潟県",
+        "studios": [
+          { "name": "新潟スタジオ", "address": "新潟県の住所", "access": "最寄り駅からのアクセス情報" }
+        ]
+      },
+      {
+        "prefecture": "愛知県",
+        "studios": [
+          { "name": "愛知スタジオ", "address": "愛知県の住所", "access": "最寄り駅からのアクセス情報" }
+        ]
+      },
+      {
+        "prefecture": "静岡県",
+        "studios": [
+          { "name": "静岡スタジオ", "address": "静岡県の住所", "access": "最寄り駅からのアクセス情報" }
+        ]
+      }
+    ],
+    "color": "#7799FF"
+  },
+  {
+    "region": "関西",
+    "prefectures": [
+      {
+        "prefecture": "大阪府",
+        "studios": [
+          { "name": "大阪スタジオ1", "address": "大阪府の住所", "access": "最寄り駅からのアクセス情報" },
+          { "name": "大阪スタジオ2", "address": "大阪府の住所", "access": "最寄り駅からのアクセス情報" },
+          { "name": "大阪スタジオ3", "address": "大阪府の住所", "access": "最寄り駅からのアクセス情報" },
+          { "name": "大阪スタジオ4", "address": "大阪府の住所", "access": "最寄り駅からのアクセス情報" }
+        ]
+      },
+      {
+        "prefecture": "京都府",
+        "studios": [
+          { "name": "京都スタジオ", "address": "京都府の住所", "access": "最寄り駅からのアクセス情報" }
+        ]
+      }
+    ],
+    "color": "#77D088"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "rank_num": "/images/top-feature-num-1.svg",
+    "to": "#01",
+    "image": "/images/top-feature-1.webp",
+    "flower": "/images/top-feature-flower-1.webp",
+    "title": "花にまつわる全部、<br>まとめて楽しめる！",
+    "description": "華道も生け花もアレンジフラワーも、ジャンルを気にせず、お好きなコースを学べます。"
+  },
+  {
+    "rank_num": "/images/top-feature-num-2.svg",
+    "to": "#02",
+    "image": "/images/top-feature-2.webp",
+    "flower": "/images/top-feature-flower-2.webp",
+    "title": "華道道具一式、<br>無料プレゼント！",
+    "description": "ご⼊会特典として、レッスンで使える道具一式をプレゼント！すぐにレッスンを始めることができます。"
+  },
+  {
+    "rank_num": "/images/top-feature-num-3.svg",
+    "to": "#03",
+    "image": "/images/top-feature-3.webp",
+    "flower": "/images/top-feature-flower-3.webp",
+    "title": "先生との相性も重視！<br>相性保証で安心！",
+    "description": "流派もレッスン流儀も様々な先生が在籍！あなたにピッタリの先生が見つかります。"
+  },
+  {
+    "rank_num": "/images/top-feature-num-4.svg",
+    "to": "#04",
+    "image": "/images/top-feature-4.webp",
+    "flower": "/images/top-feature-flower-4.webp",
+    "title": "未経験者 <br>大歓迎",
+    "description": ""
+  },
+  {
+    "rank_num": "/images/top-feature-num-5.svg",
+    "to": "#05",
+    "image": "/images/top-feature-5.webp",
+    "flower": "/images/top-feature-flower-5.webp",
+    "title": "ハナを学ぶ<br>最高の空間",
+    "description": ""
+  },
+  {
+    "rank_num": "/images/top-feature-num-6.svg",
+    "to": "#06",
+    "image": "/images/top-feature-6.webp",
+    "flower": "/images/top-feature-flower-6.webp",
+    "title": "わかりやすい安心料金と<br>自由自在なスケジュール",
+    "description": ""
+  },
+  {
+    "rank_num": "/images/top-feature-num-7.svg",
+    "to": "#07",
+    "image": "/images/top-feature-7.webp",
+    "flower": "/images/top-feature-flower-7.webp",
+    "title": "ハナをより極めたい方<br>へのプログラム",
+    "description": ""
+  },
+  {
+    "rank_num": "/images/top-feature-num-8.svg",
+    "to": "#08",
+    "image": "/images/top-feature-8.webp",
+    "flower": "/images/top-feature-flower-8.webp",
+    "title": "イベント・スク婚、<br>ハナを通じた出会い",
+    "description": ""
+  }
+]

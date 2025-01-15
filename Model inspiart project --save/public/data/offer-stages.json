@@ -1,0 +1,62 @@
+[
+  {
+    "title": "毎月ステージレッスンに<br>参加してもらいます",
+    "title_bg": "/images/offer-stage-title-bg-1.svg",
+    "title_w": 230,
+    "title_h": 104,
+    "contents": [
+      {
+        "banner": "/images/offer-stage-11.webp",
+        "title": "習うより慣れる！<br>ステージの数だけ磨かれます"
+      }
+    ]
+  },
+  {
+    "title": "ステージレッスンをそのまま<br>ライブ配信として公開！",
+    "title_bg": "/images/offer-stage-title-bg-2.svg",
+    "title_w": 269,
+    "title_h": 102,
+    "contents": [
+      {
+        "banner": "/images/offer-stage-21.webp",
+        "title": "毎回のステージレッスンが撮影＆作品づくりの<br>場に！ライブ配信×SNS発信でファンを獲得！"
+      }
+    ]
+  },
+  {
+    "title": "バックバンドは、<br>プロでも選りすぐりの<br>ステージミュージシャン。",
+    "title_bg": "/images/offer-stage-title-bg-3.svg",
+    "title_w": 280,
+    "title_h": 131,
+    "contents": [
+      {
+        "banner": "/images/offer-stage-31.webp",
+        "title": "レッスンの枠を超えて作品としても十分"
+      },
+      {
+        "banner": "/images/offer-stage-32.webp",
+        "title": "更にInspiart公式チャンネルへ公開！<br>公式アカウントだから知名度もアップ！"
+      },
+      {
+        "banner": "/images/offer-stage-33.webp",
+        "title": "もちろん自分のアカウントにも投稿可能！<br>どんどんファンを増やしていこう！"
+      }
+    ]
+  },
+  {
+    "title": "バックバンドは、<br>プロでも選りすぐりの<br>ステージミュージシャン。",
+    "title_bg": "/images/offer-stage-title-bg-4.svg",
+    "title_w": 293,
+    "title_h": 104,
+    "contents": [
+      {
+        "banner": "/images/offer-stage-41.webp",
+        "title": "ライブ配信では「投げ銭」システムで<br>ファンから応援してもらえます！"
+      },
+      {
+        "banner": "/images/offer-stage-42.webp",
+        "title": "ステージレッスン後に届く、あなただけの動画を<br>NFTマーケットで販売できます！"
+      }
+    ]
+  }
+]

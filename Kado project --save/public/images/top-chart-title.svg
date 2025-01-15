@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="266.497" height="122.675" viewBox="0 0 266.497 122.675">
+  <defs>
+    <linearGradient id="linear-gradient" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#99e"/>
+      <stop offset="1" stop-color="#e2a1c4"/>
+    </linearGradient>
+  </defs>
+  <g id="fukidashi" transform="translate(-21.006 12.013)" opacity="0.9">
+    <path id="bg" d="M792.807,6717.39l-31.846,78.4-99.378,10.791-4.186,17.644-11.923-16.137-71.764,6.628-45.9-51.3,101.986-60.194Z" transform="translate(-506.021 -6714.724)" stroke="#fff" stroke-miterlimit="10" stroke-width="1" fill="url(#linear-gradient)"/>
+    <text id="年代別_レベル別の_クラス分けで安心_" data-name="年代別・レベル別の
+クラス分けで安心！" transform="translate(153.579 44.605) rotate(-7)" fill="#fff" font-size="18" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700" letter-spacing="0.1em"><tspan x="-77.095" y="0">年代別・レベル別の</tspan><tspan x="-78.128" y="24">クラス分けで安心！</tspan></text>
+  </g>
+</svg>

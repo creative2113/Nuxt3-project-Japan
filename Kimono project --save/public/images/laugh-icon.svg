@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="fb-icon-laugh" transform="translate(-2.343 -2.343)">
+    <circle id="Ellipse_304" data-name="Ellipse 304" cx="8" cy="8" r="8" transform="translate(2.343 2.343)" fill="#ffde75"/>
+    <path id="Path_169809" data-name="Path 169809" d="M318.495,209.863l-1.262-.637,1.262-.636a.382.382,0,1,0-.344-.682l-1.895.955a.382.382,0,0,0-.209.358v.01a.382.382,0,0,0,.209.358l1.895.955a.382.382,0,1,0,.344-.682Z" transform="translate(-303.232 -201.51)" fill="#1d2738"/>
+    <path id="Path_169810" data-name="Path 169810" d="M280.376,209.863l1.262-.637-1.262-.636a.382.382,0,0,1,.344-.682l1.9.955a.381.381,0,0,1,.209.358v.01a.381.381,0,0,1-.209.358l-1.9.955a.382.382,0,0,1-.344-.682Z" transform="translate(-274.836 -201.51)" fill="#1d2738"/>
+    <path id="Path_169811" data-name="Path 169811" d="M278.445,228.4a5.308,5.308,0,0,0,10.606,0Z" transform="translate(-273.474 -217.763)" fill="#1d2738"/>
+    <path id="Path_169812" data-name="Path 169812" d="M290.572,235.671a12.865,12.865,0,0,0-9.516,0,5.415,5.415,0,0,0,9.516,0Z" transform="translate(-275.541 -222.793)" fill="#ff3e6c"/>
+  </g>
+</svg>

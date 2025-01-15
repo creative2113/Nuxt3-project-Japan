@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="218" height="98.334" viewBox="0 0 218 98.334">
+  <g id="fukidashi" transform="translate(-78.558 -2455.666)">
+    <g id="Polygon_501" data-name="Polygon 501" transform="translate(207.558 2554) rotate(180)" fill="none">
+      <path d="M19.5,0,39,30H0Z" stroke="none"/>
+      <path d="M 19.5 1.834897994995117 L 1.842681884765625 29 L 37.15731811523438 29 L 19.5 1.834897994995117 M 19.5 0 L 39 30 L 0 30 L 19.5 0 Z" stroke="none" fill="#d87e80"/>
+    </g>
+    <g id="base" transform="translate(0.058 -174.42)">
+      <g id="line">
+        <rect id="Rectangle_109811" data-name="Rectangle 109811" width="218" height="1" transform="translate(78.5 2637.42)" fill="#d87e80"/>
+        <rect id="Rectangle_109812" data-name="Rectangle 109812" width="218" height="1" transform="translate(78.5 2710.42)" fill="#d87e80"/>
+        <rect id="Rectangle_109813" data-name="Rectangle 109813" width="1" height="89" transform="translate(83.5 2630.086)" fill="#d87e80"/>
+        <rect id="Rectangle_109814" data-name="Rectangle 109814" width="1" height="89" transform="translate(290.5 2630.086)" fill="#d87e80"/>
+      </g>
+      <g id="txt" transform="translate(-11.687 -32.893)">
+        <rect id="Rectangle_109810" data-name="Rectangle 109810" width="196" height="62" transform="translate(101.187 2676.313)" fill="#e39597"/>
+        <text id="リアル教室でも_オンラインでも" data-name="リアル教室でも
+オンラインでも" transform="translate(199.187 2702.313)" fill="#fff" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI" letter-spacing="0.1em"><tspan x="-58.196" y="0">リアル教室でも</tspan><tspan y="0" font-family="SegoeUI, Segoe UI"></tspan><tspan x="-52.408" y="24">オンラインでも</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

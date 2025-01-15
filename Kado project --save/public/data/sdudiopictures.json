@@ -1,0 +1,42 @@
+[
+  {
+    "btn_picture": "/images/studio-slider-pan-1.webp",
+    "detailpicture_sp": "/images/studio-detail-slider-1-sp.webp",
+    "detailpicture_pc": "/images/studio-detail-slider-1.webp"
+  },
+  {
+    "btn_picture": "/images/studio-slider-pan-2.webp",
+    "detailpicture_sp": "/images/studio-detail-slider-2-sp.webp",
+    "detailpicture_pc": "/images/studio-detail-slider-2.webp"
+  },
+  {
+    "btn_picture": "/images/studio-slider-pan-3.webp",
+    "detailpicture_sp": "/images/studio-detail-slider-3-sp.webp",
+    "detailpicture_pc": "/images/studio-detail-slider-3.webp"
+  },
+  {
+    "btn_picture": "/images/studio-slider-pan-4.webp",
+    "detailpicture_sp": "/images/studio-detail-slider-4-sp.webp",
+    "detailpicture_pc": "/images/studio-detail-slider-4.webp"
+  },
+  {
+    "btn_picture": "/images/studio-slider-pan-1.webp",
+    "detailpicture_sp": "/images/studio-detail-slider-1-sp.webp",
+    "detailpicture_pc": "/images/studio-detail-slider-1.webp"
+  },
+  {
+    "btn_picture": "/images/studio-slider-pan-2.webp",
+    "detailpicture_sp": "/images/studio-detail-slider-2-sp.webp",
+    "detailpicture_pc": "/images/studio-detail-slider-2.webp"
+  },
+  {
+    "btn_picture": "/images/studio-slider-pan-3.webp",
+    "detailpicture_sp": "/images/studio-detail-slider-3-sp.webp",
+    "detailpicture_pc": "/images/studio-detail-slider-3.webp"
+  },
+  {
+    "btn_picture": "/images/studio-slider-pan-4.webp",
+    "detailpicture_sp": "/images/studio-detail-slider-4-sp.webp",
+    "detailpicture_pc": "/images/studio-detail-slider-4.webp"
+  }
+]

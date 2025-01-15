@@ -1,0 +1,978 @@
+{
+  "total": 563,
+  "items": [
+    {
+      "eys_class_id": 7002,
+      "title": "EYS音楽教室・音楽教室・二胡",
+      "short_title": "二胡",
+      "description": null,
+      "join_condition": null,
+      "course": "二胡",
+      "course_image_key": "instrument_32",
+      "type": "個別指導型",
+      "common_room": "G2-1",
+      "area": "関東",
+      "studio": "新宿",
+      "begin_date": "2011/07/19",
+      "end_date": "9999/99/99",
+      "fixed_type": "月固定",
+      "lesson_count": 2,
+      "schedule_pattern": [
+        {
+          "week_count": 2,
+          "weekday": 0,
+          "begin_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "week_count": 4,
+          "weekday": 0,
+          "begin_time": "13:00",
+          "end_time": "14:00"
+        }
+      ],
+      "max_member_count": null,
+      "teacher": {
+        "id": 164,
+        "name": "村井鉄也",
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/164/bustup_SKelv0q4VFCn5ieuEmW7dQ.jpg",
+        "desc": "中国北京、中央音楽学院及び中央民族大学に留学し二胡を専攻。\r\n聶靖宇教授に師事。帰国後は東京富士美術館名曲コンサート等、各種コンサートで演奏。\r\nまた廣東音楽の大家、甘尚時教授（広州星海音楽院）より高胡、椰胡の指導を受ける。\r\nギター、三味線、沖縄三線等との共演など新たな分野を意欲的に活動中。"
+      },
+      "files": [
+        {
+          "class_title_detail": false,
+          "id": 431708,
+          "name": "phonto.jpeg",
+          "file_path": "/images/course-file-path.webp",
+          "title": "画像が3:2のパタン画像が3:2のパタン画像が3:2のパタン画像が3:2のパタン…",
+          "mime_type": "image/jpeg",
+          "file_type": "image",
+          "landscape": false,
+          "thumbnail": null
+        },
+        {
+          "class_title_detail": false,
+          "id": 431708,
+          "name": "phonto.jpeg",
+          "file_path": "/images/course-file-path.webp",
+          "title": "画像が3:2のパタン画像が3:2のパタン画像が3:2のパタン画像が3:2のパタン…",
+          "mime_type": "image/jpeg",
+          "file_type": "image",
+          "landscape": false,
+          "thumbnail": null
+        },
+        {
+          "class_title_detail": false,
+          "id": 431708,
+          "name": "phonto.jpeg",
+          "file_path": "/images/course-file-path.webp",
+          "title": "画像が3:2のパタン画像が3:2のパタン画像が3:2のパタン画像が3:2のパタン…",
+          "mime_type": "image/jpeg",
+          "file_type": "image",
+          "landscape": false,
+          "thumbnail": null
+        }
+      ],
+      "level": null,
+      "onkatsu_category": "",
+      "onkatsu_category_english": "",
+      "class_categories": [],
+      "purposes": [],
+      "wanted_parts": [],
+      "set_pieces": [],
+      "tags": [],
+      "service_id": 3,
+      "service_name": "EYS音楽教室",
+      "share_service_id": null,
+      "share_service_name": null,
+      "service": "EYS音楽教室",
+      "course_name": "二胡",
+      "chat_data": [],
+      "chat_room_data": {
+        "id": 75786,
+        "avatars": [
+          {
+            "id": 553745,
+            "member_id": 2097,
+            "name": "村井鉄也",
+            "avatar_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/164/bustup_SKelv0q4VFCn5ieuEmW7dQ.jpg",
+            "welcome": false
+          },
+          {
+            "id": 555035,
+            "member_id": 2703,
+            "name": "大高典子",
+            "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+            "welcome": false
+          },
+          {
+            "id": 555036,
+            "member_id": 106754,
+            "name": "柳澤健",
+            "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/man-bust-up-pc.png",
+            "welcome": false
+          }
+        ],
+        "first_member_name": "村井鉄也",
+        "total_comment": 0
+      },
+      "join_members": [
+        {
+          "id": 2097,
+          "avatar_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/164/bustup_SKelv0q4VFCn5ieuEmW7dQ.jpg",
+          "name": "村井鉄也",
+          "welcome": false
+        },
+        {
+          "id": 2703,
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+          "name": "大高典子",
+          "welcome": false
+        },
+        {
+          "id": 106754,
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/man-bust-up-pc.png",
+          "name": "柳澤健",
+          "welcome": false
+        }
+      ],
+      "chat_total_comment": 0,
+      "halfway_joinable": true,
+      "join_price": null
+    },
+    {
+      "eys_class_id": 7002,
+      "title": "EYS音楽教室・音楽教室・二胡",
+      "short_title": "二胡",
+      "description": null,
+      "join_condition": null,
+      "course": "二胡",
+      "course_image_key": "instrument_32",
+      "type": "個別指導型",
+      "common_room": "G2-1",
+      "area": "関東",
+      "studio": "新宿",
+      "begin_date": "2011/07/19",
+      "end_date": "9999/99/99",
+      "fixed_type": "月固定",
+      "lesson_count": 2,
+      "schedule_pattern": [
+        {
+          "week_count": 2,
+          "weekday": 0,
+          "begin_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "week_count": 4,
+          "weekday": 0,
+          "begin_time": "13:00",
+          "end_time": "14:00"
+        }
+      ],
+      "max_member_count": null,
+      "teacher": {
+        "id": 164,
+        "name": "村井鉄也",
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/164/bustup_SKelv0q4VFCn5ieuEmW7dQ.jpg",
+        "desc": "中国北京、中央音楽学院及び中央民族大学に留学し二胡を専攻。\r\n聶靖宇教授に師事。帰国後は東京富士美術館名曲コンサート等、各種コンサートで演奏。\r\nまた廣東音楽の大家、甘尚時教授（広州星海音楽院）より高胡、椰胡の指導を受ける。\r\nギター、三味線、沖縄三線等との共演など新たな分野を意欲的に活動中。"
+      },
+      "files": [
+        {
+          "class_title_detail": false,
+          "id": 431708,
+          "name": "phonto.jpeg",
+          "file_path": "/images/course-file-path.webp",
+          "title": "画像が3:2のパタン画像が3:2のパタン画像が3:2のパタン画像が3:2のパタン…",
+          "mime_type": "image/jpeg",
+          "file_type": "image",
+          "landscape": false,
+          "thumbnail": null
+        },
+        {
+          "class_title_detail": false,
+          "id": 431708,
+          "name": "phonto.jpeg",
+          "file_path": "/images/course-file-path.webp",
+          "title": "画像が3:2のパタン画像が3:2のパタン画像が3:2のパタン画像が3:2のパタン…",
+          "mime_type": "image/jpeg",
+          "file_type": "image",
+          "landscape": false,
+          "thumbnail": null
+        },
+        {
+          "class_title_detail": false,
+          "id": 431708,
+          "name": "phonto.jpeg",
+          "file_path": "/images/course-file-path.webp",
+          "title": "画像が3:2のパタン画像が3:2のパタン画像が3:2のパタン画像が3:2のパタン…",
+          "mime_type": "image/jpeg",
+          "file_type": "image",
+          "landscape": false,
+          "thumbnail": null
+        }
+      ],
+      "level": null,
+      "onkatsu_category": "",
+      "onkatsu_category_english": "",
+      "class_categories": [],
+      "purposes": [],
+      "wanted_parts": [],
+      "set_pieces": [],
+      "tags": [],
+      "service_id": 3,
+      "service_name": "EYS音楽教室",
+      "share_service_id": null,
+      "share_service_name": null,
+      "service": "EYS音楽教室",
+      "course_name": "二胡",
+      "chat_data": [],
+      "chat_room_data": {
+        "id": 75786,
+        "avatars": [
+          {
+            "id": 553745,
+            "member_id": 2097,
+            "name": "村井鉄也",
+            "avatar_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/164/bustup_SKelv0q4VFCn5ieuEmW7dQ.jpg",
+            "welcome": false
+          },
+          {
+            "id": 555035,
+            "member_id": 2703,
+            "name": "大高典子",
+            "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+            "welcome": false
+          },
+          {
+            "id": 555036,
+            "member_id": 106754,
+            "name": "柳澤健",
+            "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/man-bust-up-pc.png",
+            "welcome": false
+          }
+        ],
+        "first_member_name": "村井鉄也",
+        "total_comment": 0
+      },
+      "join_members": [
+        {
+          "id": 2097,
+          "avatar_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/164/bustup_SKelv0q4VFCn5ieuEmW7dQ.jpg",
+          "name": "村井鉄也",
+          "welcome": false
+        },
+        {
+          "id": 2703,
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+          "name": "大高典子",
+          "welcome": false
+        },
+        {
+          "id": 106754,
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/man-bust-up-pc.png",
+          "name": "柳澤健",
+          "welcome": false
+        }
+      ],
+      "chat_total_comment": 0,
+      "halfway_joinable": true,
+      "join_price": null
+    },
+    {
+      "eys_class_id": 7002,
+      "title": "EYS音楽教室・音楽教室・二胡",
+      "short_title": "二胡",
+      "description": null,
+      "join_condition": null,
+      "course": "二胡",
+      "course_image_key": "instrument_32",
+      "type": "個別指導型",
+      "common_room": "G2-1",
+      "area": "関東",
+      "studio": "新宿",
+      "begin_date": "2011/07/19",
+      "end_date": "9999/99/99",
+      "fixed_type": "月固定",
+      "lesson_count": 2,
+      "schedule_pattern": [
+        {
+          "week_count": 2,
+          "weekday": 0,
+          "begin_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "week_count": 4,
+          "weekday": 0,
+          "begin_time": "13:00",
+          "end_time": "14:00"
+        }
+      ],
+      "max_member_count": null,
+      "teacher": {
+        "id": 164,
+        "name": "村井鉄也",
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/164/bustup_SKelv0q4VFCn5ieuEmW7dQ.jpg",
+        "desc": "中国北京、中央音楽学院及び中央民族大学に留学し二胡を専攻。\r\n聶靖宇教授に師事。帰国後は東京富士美術館名曲コンサート等、各種コンサートで演奏。\r\nまた廣東音楽の大家、甘尚時教授（広州星海音楽院）より高胡、椰胡の指導を受ける。\r\nギター、三味線、沖縄三線等との共演など新たな分野を意欲的に活動中。"
+      },
+      "files": [
+        {
+          "class_title_detail": false,
+          "id": 431708,
+          "name": "phonto.jpeg",
+          "file_path": "/images/course-file-path.webp",
+          "title": "画像が3:2のパタン画像が3:2のパタン画像が3:2のパタン画像が3:2のパタン…",
+          "mime_type": "image/jpeg",
+          "file_type": "image",
+          "landscape": false,
+          "thumbnail": null
+        },
+        {
+          "class_title_detail": false,
+          "id": 431708,
+          "name": "phonto.jpeg",
+          "file_path": "/images/course-file-path.webp",
+          "title": "画像が3:2のパタン画像が3:2のパタン画像が3:2のパタン画像が3:2のパタン…",
+          "mime_type": "image/jpeg",
+          "file_type": "image",
+          "landscape": false,
+          "thumbnail": null
+        },
+        {
+          "class_title_detail": false,
+          "id": 431708,
+          "name": "phonto.jpeg",
+          "file_path": "/images/course-file-path.webp",
+          "title": "画像が3:2のパタン画像が3:2のパタン画像が3:2のパタン画像が3:2のパタン…",
+          "mime_type": "image/jpeg",
+          "file_type": "image",
+          "landscape": false,
+          "thumbnail": null
+        }
+      ],
+      "level": null,
+      "onkatsu_category": "",
+      "onkatsu_category_english": "",
+      "class_categories": [],
+      "purposes": [],
+      "wanted_parts": [],
+      "set_pieces": [],
+      "tags": [],
+      "service_id": 3,
+      "service_name": "EYS音楽教室",
+      "share_service_id": null,
+      "share_service_name": null,
+      "service": "EYS音楽教室",
+      "course_name": "二胡",
+      "chat_data": [],
+      "chat_room_data": {
+        "id": 75786,
+        "avatars": [
+          {
+            "id": 553745,
+            "member_id": 2097,
+            "name": "村井鉄也",
+            "avatar_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/164/bustup_SKelv0q4VFCn5ieuEmW7dQ.jpg",
+            "welcome": false
+          },
+          {
+            "id": 555035,
+            "member_id": 2703,
+            "name": "大高典子",
+            "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+            "welcome": false
+          },
+          {
+            "id": 555036,
+            "member_id": 106754,
+            "name": "柳澤健",
+            "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/man-bust-up-pc.png",
+            "welcome": false
+          }
+        ],
+        "first_member_name": "村井鉄也",
+        "total_comment": 0
+      },
+      "join_members": [
+        {
+          "id": 2097,
+          "avatar_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/164/bustup_SKelv0q4VFCn5ieuEmW7dQ.jpg",
+          "name": "村井鉄也",
+          "welcome": false
+        },
+        {
+          "id": 2703,
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+          "name": "大高典子",
+          "welcome": false
+        },
+        {
+          "id": 106754,
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/man-bust-up-pc.png",
+          "name": "柳澤健",
+          "welcome": false
+        }
+      ],
+      "chat_total_comment": 0,
+      "halfway_joinable": true,
+      "join_price": null
+    },
+    {
+      "eys_class_id": 7002,
+      "title": "EYS音楽教室・音楽教室・二胡",
+      "short_title": "二胡",
+      "description": null,
+      "join_condition": null,
+      "course": "二胡",
+      "course_image_key": "instrument_32",
+      "type": "個別指導型",
+      "common_room": "G2-1",
+      "area": "関東",
+      "studio": "新宿",
+      "begin_date": "2011/07/19",
+      "end_date": "9999/99/99",
+      "fixed_type": "月固定",
+      "lesson_count": 2,
+      "schedule_pattern": [
+        {
+          "week_count": 2,
+          "weekday": 0,
+          "begin_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "week_count": 4,
+          "weekday": 0,
+          "begin_time": "13:00",
+          "end_time": "14:00"
+        }
+      ],
+      "max_member_count": null,
+      "teacher": {
+        "id": 164,
+        "name": "村井鉄也",
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/164/bustup_SKelv0q4VFCn5ieuEmW7dQ.jpg",
+        "desc": "中国北京、中央音楽学院及び中央民族大学に留学し二胡を専攻。\r\n聶靖宇教授に師事。帰国後は東京富士美術館名曲コンサート等、各種コンサートで演奏。\r\nまた廣東音楽の大家、甘尚時教授（広州星海音楽院）より高胡、椰胡の指導を受ける。\r\nギター、三味線、沖縄三線等との共演など新たな分野を意欲的に活動中。"
+      },
+      "files": [
+        {
+          "class_title_detail": false,
+          "id": 431708,
+          "name": "phonto.jpeg",
+          "file_path": "/images/course-file-path.webp",
+          "title": "",
+          "mime_type": "image/jpeg",
+          "file_type": "image",
+          "landscape": false,
+          "thumbnail": null
+        },
+        {
+          "class_title_detail": false,
+          "id": 431708,
+          "name": "phonto.jpeg",
+          "file_path": "/images/course-file-path.webp",
+          "title": "",
+          "mime_type": "image/jpeg",
+          "file_type": "image",
+          "landscape": false,
+          "thumbnail": null
+        },
+        {
+          "class_title_detail": false,
+          "id": 431708,
+          "name": "phonto.jpeg",
+          "file_path": "/images/course-file-path.webp",
+          "title": "",
+          "mime_type": "image/jpeg",
+          "file_type": "image",
+          "landscape": false,
+          "thumbnail": null
+        }
+      ],
+      "level": null,
+      "onkatsu_category": "",
+      "onkatsu_category_english": "",
+      "class_categories": [],
+      "purposes": [],
+      "wanted_parts": [],
+      "set_pieces": [],
+      "tags": [],
+      "service_id": 3,
+      "service_name": "EYS音楽教室",
+      "share_service_id": null,
+      "share_service_name": null,
+      "service": "EYS音楽教室",
+      "course_name": "二胡",
+      "chat_data": [],
+      "chat_room_data": {
+        "id": 75786,
+        "avatars": [
+          {
+            "id": 553745,
+            "member_id": 2097,
+            "name": "村井鉄也",
+            "avatar_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/164/bustup_SKelv0q4VFCn5ieuEmW7dQ.jpg",
+            "welcome": false
+          },
+          {
+            "id": 555035,
+            "member_id": 2703,
+            "name": "大高典子",
+            "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+            "welcome": false
+          },
+          {
+            "id": 555036,
+            "member_id": 106754,
+            "name": "柳澤健",
+            "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/man-bust-up-pc.png",
+            "welcome": false
+          }
+        ],
+        "first_member_name": "村井鉄也",
+        "total_comment": 0
+      },
+      "join_members": [
+        {
+          "id": 2097,
+          "avatar_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/164/bustup_SKelv0q4VFCn5ieuEmW7dQ.jpg",
+          "name": "村井鉄也",
+          "welcome": false
+        },
+        {
+          "id": 2703,
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+          "name": "大高典子",
+          "welcome": false
+        },
+        {
+          "id": 106754,
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/man-bust-up-pc.png",
+          "name": "柳澤健",
+          "welcome": false
+        }
+      ],
+      "chat_total_comment": 0,
+      "halfway_joinable": true,
+      "join_price": null
+    },
+    {
+      "eys_class_id": 7002,
+      "title": "EYS音楽教室・音楽教室・二胡",
+      "short_title": "二胡",
+      "description": null,
+      "join_condition": null,
+      "course": "二胡",
+      "course_image_key": "instrument_32",
+      "type": "個別指導型",
+      "common_room": "G2-1",
+      "area": "関東",
+      "studio": "新宿",
+      "begin_date": "2011/07/19",
+      "end_date": "9999/99/99",
+      "fixed_type": "月固定",
+      "lesson_count": 2,
+      "schedule_pattern": [
+        {
+          "week_count": 2,
+          "weekday": 0,
+          "begin_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "week_count": 4,
+          "weekday": 0,
+          "begin_time": "13:00",
+          "end_time": "14:00"
+        }
+      ],
+      "max_member_count": null,
+      "teacher": {
+        "id": 164,
+        "name": "村井鉄也",
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/164/bustup_SKelv0q4VFCn5ieuEmW7dQ.jpg",
+        "desc": "中国北京、中央音楽学院及び中央民族大学に留学し二胡を専攻。\r\n聶靖宇教授に師事。帰国後は東京富士美術館名曲コンサート等、各種コンサートで演奏。\r\nまた廣東音楽の大家、甘尚時教授（広州星海音楽院）より高胡、椰胡の指導を受ける。\r\nギター、三味線、沖縄三線等との共演など新たな分野を意欲的に活動中。"
+      },
+      "files": [
+        {
+          "class_title_detail": false,
+          "id": 431708,
+          "name": "phonto.jpeg",
+          "file_path": "/images/course-file-path.webp",
+          "title": "",
+          "mime_type": "image/jpeg",
+          "file_type": "image",
+          "landscape": false,
+          "thumbnail": null
+        },
+        {
+          "class_title_detail": false,
+          "id": 431708,
+          "name": "phonto.jpeg",
+          "file_path": "/images/course-file-path.webp",
+          "title": "",
+          "mime_type": "image/jpeg",
+          "file_type": "image",
+          "landscape": false,
+          "thumbnail": null
+        },
+        {
+          "class_title_detail": false,
+          "id": 431708,
+          "name": "phonto.jpeg",
+          "file_path": "/images/course-file-path.webp",
+          "title": "",
+          "mime_type": "image/jpeg",
+          "file_type": "image",
+          "landscape": false,
+          "thumbnail": null
+        }
+      ],
+      "level": null,
+      "onkatsu_category": "",
+      "onkatsu_category_english": "",
+      "class_categories": [],
+      "purposes": [],
+      "wanted_parts": [],
+      "set_pieces": [],
+      "tags": [],
+      "service_id": 3,
+      "service_name": "EYS音楽教室",
+      "share_service_id": null,
+      "share_service_name": null,
+      "service": "EYS音楽教室",
+      "course_name": "二胡",
+      "chat_data": [],
+      "chat_room_data": {
+        "id": 75786,
+        "avatars": [
+          {
+            "id": 553745,
+            "member_id": 2097,
+            "name": "村井鉄也",
+            "avatar_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/164/bustup_SKelv0q4VFCn5ieuEmW7dQ.jpg",
+            "welcome": false
+          },
+          {
+            "id": 555035,
+            "member_id": 2703,
+            "name": "大高典子",
+            "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+            "welcome": false
+          },
+          {
+            "id": 555036,
+            "member_id": 106754,
+            "name": "柳澤健",
+            "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/man-bust-up-pc.png",
+            "welcome": false
+          }
+        ],
+        "first_member_name": "村井鉄也",
+        "total_comment": 0
+      },
+      "join_members": [
+        {
+          "id": 2097,
+          "avatar_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/164/bustup_SKelv0q4VFCn5ieuEmW7dQ.jpg",
+          "name": "村井鉄也",
+          "welcome": false
+        },
+        {
+          "id": 2703,
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+          "name": "大高典子",
+          "welcome": false
+        },
+        {
+          "id": 106754,
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/man-bust-up-pc.png",
+          "name": "柳澤健",
+          "welcome": false
+        }
+      ],
+      "chat_total_comment": 0,
+      "halfway_joinable": true,
+      "join_price": null
+    },
+    {
+      "eys_class_id": 7002,
+      "title": "EYS音楽教室・音楽教室・二胡",
+      "short_title": "二胡",
+      "description": null,
+      "join_condition": null,
+      "course": "二胡",
+      "course_image_key": "instrument_32",
+      "type": "個別指導型",
+      "common_room": "G2-1",
+      "area": "関東",
+      "studio": "新宿",
+      "begin_date": "2011/07/19",
+      "end_date": "9999/99/99",
+      "fixed_type": "月固定",
+      "lesson_count": 2,
+      "schedule_pattern": [
+        {
+          "week_count": 2,
+          "weekday": 0,
+          "begin_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "week_count": 4,
+          "weekday": 0,
+          "begin_time": "13:00",
+          "end_time": "14:00"
+        }
+      ],
+      "max_member_count": null,
+      "teacher": {
+        "id": 164,
+        "name": "村井鉄也",
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/164/bustup_SKelv0q4VFCn5ieuEmW7dQ.jpg",
+        "desc": "中国北京、中央音楽学院及び中央民族大学に留学し二胡を専攻。\r\n聶靖宇教授に師事。帰国後は東京富士美術館名曲コンサート等、各種コンサートで演奏。\r\nまた廣東音楽の大家、甘尚時教授（広州星海音楽院）より高胡、椰胡の指導を受ける。\r\nギター、三味線、沖縄三線等との共演など新たな分野を意欲的に活動中。"
+      },
+      "files": [
+        {
+          "class_title_detail": false,
+          "id": 431708,
+          "name": "phonto.jpeg",
+          "file_path": "/images/course-file-path.webp",
+          "title": "",
+          "mime_type": "image/jpeg",
+          "file_type": "image",
+          "landscape": false,
+          "thumbnail": null
+        },
+        {
+          "class_title_detail": false,
+          "id": 431708,
+          "name": "phonto.jpeg",
+          "file_path": "/images/course-file-path.webp",
+          "title": "",
+          "mime_type": "image/jpeg",
+          "file_type": "image",
+          "landscape": false,
+          "thumbnail": null
+        },
+        {
+          "class_title_detail": false,
+          "id": 431708,
+          "name": "phonto.jpeg",
+          "file_path": "/images/course-file-path.webp",
+          "title": "",
+          "mime_type": "image/jpeg",
+          "file_type": "image",
+          "landscape": false,
+          "thumbnail": null
+        }
+      ],
+      "level": null,
+      "onkatsu_category": "",
+      "onkatsu_category_english": "",
+      "class_categories": [],
+      "purposes": [],
+      "wanted_parts": [],
+      "set_pieces": [],
+      "tags": [],
+      "service_id": 3,
+      "service_name": "EYS音楽教室",
+      "share_service_id": null,
+      "share_service_name": null,
+      "service": "EYS音楽教室",
+      "course_name": "二胡",
+      "chat_data": [],
+      "chat_room_data": {
+        "id": 75786,
+        "avatars": [
+          {
+            "id": 553745,
+            "member_id": 2097,
+            "name": "村井鉄也",
+            "avatar_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/164/bustup_SKelv0q4VFCn5ieuEmW7dQ.jpg",
+            "welcome": false
+          },
+          {
+            "id": 555035,
+            "member_id": 2703,
+            "name": "大高典子",
+            "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+            "welcome": false
+          },
+          {
+            "id": 555036,
+            "member_id": 106754,
+            "name": "柳澤健",
+            "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/man-bust-up-pc.png",
+            "welcome": false
+          }
+        ],
+        "first_member_name": "村井鉄也",
+        "total_comment": 0
+      },
+      "join_members": [
+        {
+          "id": 2097,
+          "avatar_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/164/bustup_SKelv0q4VFCn5ieuEmW7dQ.jpg",
+          "name": "村井鉄也",
+          "welcome": false
+        },
+        {
+          "id": 2703,
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+          "name": "大高典子",
+          "welcome": false
+        },
+        {
+          "id": 106754,
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/man-bust-up-pc.png",
+          "name": "柳澤健",
+          "welcome": false
+        }
+      ],
+      "chat_total_comment": 0,
+      "halfway_joinable": true,
+      "join_price": null
+    },
+    {
+      "eys_class_id": 7002,
+      "title": "EYS音楽教室・音楽教室・二胡",
+      "short_title": "二胡",
+      "description": null,
+      "join_condition": null,
+      "course": "二胡",
+      "course_image_key": "instrument_32",
+      "type": "個別指導型",
+      "common_room": "G2-1",
+      "area": "関東",
+      "studio": "新宿",
+      "begin_date": "2011/07/19",
+      "end_date": "9999/99/99",
+      "fixed_type": "月固定",
+      "lesson_count": 2,
+      "schedule_pattern": [
+        {
+          "week_count": 2,
+          "weekday": 0,
+          "begin_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "week_count": 4,
+          "weekday": 0,
+          "begin_time": "13:00",
+          "end_time": "14:00"
+        }
+      ],
+      "max_member_count": null,
+      "teacher": {
+        "id": 164,
+        "name": "村井鉄也",
+        "icon": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/164/bustup_SKelv0q4VFCn5ieuEmW7dQ.jpg",
+        "desc": "中国北京、中央音楽学院及び中央民族大学に留学し二胡を専攻。\r\n聶靖宇教授に師事。帰国後は東京富士美術館名曲コンサート等、各種コンサートで演奏。\r\nまた廣東音楽の大家、甘尚時教授（広州星海音楽院）より高胡、椰胡の指導を受ける。\r\nギター、三味線、沖縄三線等との共演など新たな分野を意欲的に活動中。"
+      },
+      "files": [
+        {
+          "class_title_detail": false,
+          "id": 431708,
+          "name": "phonto.jpeg",
+          "file_path": "/images/course-file-path.webp",
+          "title": "",
+          "mime_type": "image/jpeg",
+          "file_type": "image",
+          "landscape": false,
+          "thumbnail": null
+        },
+        {
+          "class_title_detail": false,
+          "id": 431708,
+          "name": "phonto.jpeg",
+          "file_path": "/images/course-file-path.webp",
+          "title": "",
+          "mime_type": "image/jpeg",
+          "file_type": "image",
+          "landscape": false,
+          "thumbnail": null
+        },
+        {
+          "class_title_detail": false,
+          "id": 431708,
+          "name": "phonto.jpeg",
+          "file_path": "/images/course-file-path.webp",
+          "title": "画像が3:2のパタン画像が3:2のパタン画像が3:2のパタン画像が3:2のパタン…",
+          "mime_type": "image/jpeg",
+          "file_type": "image",
+          "landscape": false,
+          "thumbnail": null
+        }
+      ],
+      "level": null,
+      "onkatsu_category": "",
+      "onkatsu_category_english": "",
+      "class_categories": [],
+      "purposes": [],
+      "wanted_parts": [],
+      "set_pieces": [],
+      "tags": [],
+      "service_id": 3,
+      "service_name": "EYS音楽教室",
+      "share_service_id": null,
+      "share_service_name": null,
+      "service": "EYS音楽教室",
+      "course_name": "二胡",
+      "chat_data": [],
+      "chat_room_data": {
+        "id": 75786,
+        "avatars": [
+          {
+            "id": 553745,
+            "member_id": 2097,
+            "name": "村井鉄也",
+            "avatar_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/164/bustup_SKelv0q4VFCn5ieuEmW7dQ.jpg",
+            "welcome": false
+          },
+          {
+            "id": 555035,
+            "member_id": 2703,
+            "name": "大高典子",
+            "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+            "welcome": false
+          },
+          {
+            "id": 555036,
+            "member_id": 106754,
+            "name": "柳澤健",
+            "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/man-bust-up-pc.png",
+            "welcome": false
+          }
+        ],
+        "first_member_name": "村井鉄也",
+        "total_comment": 0
+      },
+      "join_members": [
+        {
+          "id": 2097,
+          "avatar_path": "https://art-lesson.s3.ap-northeast-1.amazonaws.com/teachers/images/164/bustup_SKelv0q4VFCn5ieuEmW7dQ.jpg",
+          "name": "村井鉄也",
+          "welcome": false
+        },
+        {
+          "id": 2703,
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/woman-bust-up-pc.png",
+          "name": "大高典子",
+          "welcome": false
+        },
+        {
+          "id": 106754,
+          "avatar_path": "https://eys-file.s3-ap-northeast-1.amazonaws.com/teacher/image/no-image/man-bust-up-pc.png",
+          "name": "柳澤健",
+          "welcome": false
+        }
+      ],
+      "chat_total_comment": 0,
+      "halfway_joinable": true,
+      "join_price": null
+    }
+  ]
+}

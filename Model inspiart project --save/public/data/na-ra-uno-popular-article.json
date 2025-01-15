@@ -1,0 +1,35 @@
+{
+  "mainArticle":{
+    "thumbnail": "/images/thumb_select-article1@2x.avif",
+    "body": "/images/img_whole-body-picture@2x.avif",
+    "author": "石田 一帆",
+    "author_eng": "Kazuho Ishida",
+    "title": " 大人の楽器サックスに憧れて。いきなり「ルパン三世’79」に挑戦？",
+    "info":"ショップ店員 / 24歳 / 挑戦楽器：サックス",
+    "tags" : [
+      {
+        "name": "体験レッスン受けてみた"
+      },
+      {
+        "name": "サックス"
+      }
+    ],
+    "url":"/"
+  },
+  "subArticle1":{
+    "thumbnail": "/images/thumb_select-article2@2x.avif",
+    "author": "石田 一帆",
+    "author_eng": "Kazuho Ishida",
+    "title": " 大人の楽器サックスに憧れて。いきなり「ルパン三世’79」に挑戦？",
+    "info":"ショップ店員 / 24歳 / 挑戦楽器：サックス",
+    "url":"/"
+  },
+  "subArticle2":{
+    "thumbnail": "/images/thumb_select-article3@2x.avif",
+    "author": "石田 一帆",
+    "author_eng": "Kazuho Ishida",
+    "title": " 大人の楽器サックスに憧れて。いきなり「ルパン三世’79」に挑戦？",
+    "info":"ショップ店員 / 24歳 / 挑戦楽器：サックス",
+    "url":"/"
+  }
+}

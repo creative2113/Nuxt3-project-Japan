@@ -1,0 +1,213 @@
+[
+  {
+    "title": "北海道・東北のスタジオ",
+    "list": [
+      {
+        "title": "札幌スタジオ",
+        "image": "/images/studio-list-image-1.webp",
+        "position": "代官山駅北口から徒歩３分",
+        "link": "/"
+      }
+    ]
+  },
+  {
+    "title": "関東（東京）のスタジオ",
+    "list": [
+      {
+        "title": "代官山スタジオ",
+        "image": "/images/studio-list-image-2.webp",
+        "position": "代官山駅北口から徒歩３分",
+        "link": "/"
+      },
+      {
+        "title": "銀座スタジオ",
+        "image": "/images/studio-list-image-3.webp",
+        "position": "有楽町駅京橋口から徒歩5分",
+        "link": "/"
+      },
+      {
+        "title": "渋谷スタジオ",
+        "image": "/images/studio-list-image-4.webp",
+        "position": "渋谷駅中央改札口より徒歩10分",
+        "link": "/"
+      },
+      {
+        "title": "吉祥寺スタジオ",
+        "image": "/images/studio-list-image-5.webp",
+        "position": "吉祥寺駅北口より徒歩3分",
+        "link": "/"
+      },
+      {
+        "title": "上野スタジオ",
+        "image": "/images/studio-list-image-6.webp",
+        "position": "上野駅不忍口より徒歩3分",
+        "link": "/"
+      },
+      {
+        "title": "静岡スタジオ",
+        "image": "/images/studio-list-image-7.webp",
+        "position": "代官山駅北口から徒歩３分",
+        "link": "/"
+      },
+      {
+        "title": "神戸スタジオ",
+        "image": "/images/studio-list-image-8.webp",
+        "position": "代官山駅北口から徒歩３分",
+        "link": "/"
+      },
+      {
+        "title": "京都スタジオ",
+        "image": "/images/studio-list-image-9.webp",
+        "position": "代官山駅北口から徒歩３分",
+        "link": "/"
+      },
+      {
+        "title": "新潟スタジオ",
+        "image": "/images/studio-list-image-10.webp",
+        "position": "代官山駅北口から徒歩３分",
+        "link": "/"
+      },
+      {
+        "title": "リアルスタジオ",
+        "image": "/images/studio-list-image-11.webp",
+        "position": "代官山駅北口から徒歩３分",
+        "link": "/"
+      },
+      {
+        "title": "大阪スタジオ",
+        "image": "/images/studio-list-image-12.webp",
+        "position": "代官山駅北口から徒歩３分",
+        "link": "/"
+      },
+      {
+        "title": "静岡スタジオ",
+        "image": "/images/studio-list-image-13.webp",
+        "position": "代官山駅北口から徒歩３分",
+        "link": "/"
+      },
+      {
+        "title": "リアルスタジオ",
+        "image": "/images/studio-list-image-14.webp",
+        "position": "代官山駅北口から徒歩３分",
+        "link": "/"
+      },
+      {
+        "title": "大阪スタジオ",
+        "image": "/images/studio-list-image-15.webp",
+        "position": "代官山駅北口から徒歩３分",
+        "link": "/"
+      },
+      {
+        "title": "静岡スタジオ",
+        "image": "/images/studio-list-image-16.webp",
+        "position": "代官山駅北口から徒歩３分",
+        "link": "/"
+      },
+      {
+        "title": "神戸スタジオ",
+        "image": "/images/studio-list-image-17.webp",
+        "position": "代官山駅北口から徒歩３分",
+        "link": "/"
+      },
+      {
+        "title": "京都スタジオ",
+        "image": "/images/studio-list-image-18.webp",
+        "position": "代官山駅北口から徒歩３分",
+        "link": "/"
+      },
+      {
+        "title": "新潟スタジオ",
+        "image": "/images/studio-list-image-19.webp",
+        "position": "代官山駅北口から徒歩３分",
+        "link": "/"
+      }
+    ]
+  },
+  {
+    "title": "関東(東京以外)の教室",
+    "list": [
+      {
+        "title": "札幌スタジオ",
+        "image": "/images/studio-list-image-20.webp",
+        "position": "代官山駅北口から徒歩３分",
+        "link": "/"
+      },
+      {
+        "title": "代官山スタジオ",
+        "image": "/images/studio-list-image-21.webp",
+        "position": "代官山駅北口から徒歩３分",
+        "link": "/"
+      },
+      {
+        "title": "東京スタジオ",
+        "image": "/images/studio-list-image-22.webp",
+        "position": "代官山駅北口から徒歩３分",
+        "link": "/"
+      },
+      {
+        "title": "東京スタジオ",
+        "image": "/images/studio-list-image-23.webp",
+        "position": "代官山駅北口から徒歩３分",
+        "link": "/"
+      }
+    ]
+  },
+  {
+    "title": "中部の教室",
+    "list": [
+      {
+        "title": "代官山スタジオ",
+        "image": "/images/studio-list-image-24.webp",
+        "position": "代官山駅北口から徒歩３分",
+        "link": "/"
+      },
+      {
+        "title": "東京スタジオ",
+        "image": "/images/studio-list-image-25.webp",
+        "position": "代官山駅北口から徒歩３分",
+        "link": "/"
+      },
+      {
+        "title": "東京スタジオ",
+        "image": "/images/studio-list-image-26.webp",
+        "position": "代官山駅北口から徒歩３分",
+        "link": "/"
+      }
+    ]
+  },
+  {
+    "title": "関西の教室",
+    "list": [
+      {
+        "title": "札幌スタジオ",
+        "image": "/images/studio-list-image-27.webp",
+        "position": "代官山駅北口から徒歩３分",
+        "link": "/"
+      },
+      {
+        "title": "代官山スタジオ",
+        "image": "/images/studio-list-image-28.webp",
+        "position": "代官山駅北口から徒歩３分",
+        "link": "/"
+      },
+      {
+        "title": "東京スタジオ",
+        "image": "/images/studio-list-image-29.webp",
+        "position": "代官山駅北口から徒歩３分",
+        "link": "/"
+      },
+      {
+        "title": "東京スタジオ",
+        "image": "/images/studio-list-image-30.webp",
+        "position": "代官山駅北口から徒歩３分",
+        "link": "/"
+      },
+      {
+        "title": "リアルスタジオ",
+        "image": "/images/studio-list-image-31.webp",
+        "position": "代官山駅北口から徒歩３分",
+        "link": "/"
+      }
+    ]
+  }
+]

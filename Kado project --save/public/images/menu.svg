@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="13" viewBox="0 0 20 13">
+  <g id="menu" transform="translate(-345 -19)">
+    <rect id="line" width="20" height="1" transform="translate(345 19)"/>
+    <rect id="line-2" data-name="line" width="20" height="1" transform="translate(345 31)"/>
+  </g>
+</svg>

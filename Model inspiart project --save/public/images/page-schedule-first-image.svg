@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="284" height="323" viewBox="0 0 284 323">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f8b"/>
+      <stop offset="1" stop-color="#f55"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.154" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8d7"/>
+      <stop offset="1" stop-color="#5ca"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6dd"/>
+      <stop offset="1" stop-color="#7bd"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fb6"/>
+      <stop offset="1" stop-color="#dc5"/>
+    </linearGradient>
+  </defs>
+  <g id="img" transform="translate(-42 -5876)">
+    <g id="_" data-name="○" transform="translate(86 5959)" fill="none" stroke="#eee" stroke-width="10">
+      <circle cx="100" cy="100" r="100" stroke="none"/>
+      <circle cx="100" cy="100" r="95" fill="none"/>
+    </g>
+    <g id="_04" data-name="04">
+      <circle id="_2" data-name="○" cx="55" cy="55" r="55" transform="translate(42 6114) rotate(-90)" fill="#fff"/>
+      <text id="好きな講師を_指名できる" data-name="好きな講師を
+指名できる" transform="translate(96 6054)" fill="#fc88a7" font-size="14" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-42" y="0">好きな講師を</tspan><tspan x="-35" y="20">指名できる</tspan></text>
+      <circle id="_3" data-name="●" cx="20" cy="20" r="20" transform="translate(79 6024) rotate(-90)" fill="url(#linear-gradient)"/>
+      <text id="_4" data-name="4" transform="translate(99 6013)" fill="#fff" font-size="24" font-family="Roboto-BoldItalic, Roboto" font-weight="700" font-style="italic"><tspan x="-6.738" y="0">4</tspan></text>
+    </g>
+    <g id="_03" data-name="03">
+      <circle id="_4-2" data-name="○" cx="55" cy="55" r="55" transform="translate(131 6089)" fill="#fff"/>
+      <text id="レッスン楽器_チェンジOK" data-name="レッスン楽器
+チェンジOK" transform="translate(186 6139)" fill="#8d7" font-size="14" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-42" y="0">レッスン楽器</tspan><tspan x="-38.367" y="20">チェンジOK</tspan></text>
+      <circle id="_5" data-name="●" cx="20" cy="20" r="20" transform="translate(168 6069)" fill="url(#linear-gradient-2)"/>
+      <text id="_3-2" data-name="3" transform="translate(188 6098)" fill="#fff" font-size="24" font-family="Roboto-BoldItalic, Roboto" font-weight="700" font-style="italic"><tspan x="-6.738" y="0">3</tspan></text>
+    </g>
+    <g id="_02" data-name="02">
+      <circle id="_6" data-name="○" cx="55" cy="55" r="55" transform="translate(216 6114) rotate(-90)" fill="#fff"/>
+      <text id="日程は_毎回選べる" data-name="日程は
+毎回選べる" transform="translate(273 6054)" fill="#6dd" font-size="14" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-21" y="0">日程は</tspan><tspan x="-35" y="20">毎回選べる</tspan></text>
+      <circle id="_7" data-name="●" cx="20" cy="20" r="20" transform="translate(253 6024) rotate(-90)" fill="url(#linear-gradient-3)"/>
+      <text id="_2-2" data-name="2" transform="translate(273 6013)" fill="#fff" font-size="24" font-family="Roboto-BoldItalic, Roboto" font-weight="700" font-style="italic"><tspan x="-6.738" y="0">2</tspan></text>
+    </g>
+    <g id="_01" data-name="01">
+      <circle id="_8" data-name="○" cx="55" cy="55" r="55" transform="translate(131 5915)" fill="#fff"/>
+      <text id="スタジオは_どこでも自由" data-name="スタジオは
+どこでも自由" transform="translate(186 5965)" fill="#fb6" font-size="14" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-35" y="0">スタジオは</tspan><tspan x="-42" y="20">どこでも自由</tspan></text>
+      <circle id="_9" data-name="●" cx="20" cy="20" r="20" transform="translate(168 5895)" fill="url(#linear-gradient-4)"/>
+      <text id="_1" data-name="1" transform="translate(188 5924)" fill="#fff" font-size="24" font-family="Roboto-BoldItalic, Roboto" font-weight="700" font-style="italic"><tspan x="-6.738" y="0">1</tspan></text>
+    </g>
+    <text id="Free_" data-name="Free!" transform="translate(188 5891)" fill="#fb6" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-17.949" y="0">Free!</tspan></text>
+    <text id="Free_2" data-name="Free!" transform="translate(271 5980)" fill="#8df" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-17.949" y="0">Free!</tspan></text>
+    <text id="Free_3" data-name="Free!" transform="translate(188 6065)" fill="#8d7" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-17.949" y="0">Free!</tspan></text>
+    <text id="Free_4" data-name="Free!" transform="translate(97 5980)" fill="#fc88a7" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-17.949" y="0">Free!</tspan></text>
+  </g>
+</svg>
